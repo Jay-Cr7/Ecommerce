@@ -1,33 +1,28 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Andrea Guerra, 2024
 # 0d21a39e384d88c2313b89b5042c04cb, 2017
-# Carlo Miron <carlo@miron.it>, 2011
-# Carlo Miron <carlo@miron.it>, 2014
 # Carlo Miron <carlo@miron.it>, 2018-2019
 # Davide Targa <davide.targa@gmail.com>, 2021
 # Denis Darii <denis.darii@gmail.com>, 2011
-# Emanuele Di Giacomo, 2021
-# Flavio Curella <flavio.curella@gmail.com>, 2013,2016
+# Flavio Curella <flavio.curella@gmail.com>, 2013
+# Franky Bonanno, 2023
 # Jannis Leidel <jannis@leidel.info>, 2011
-# Themis Savvidis <themhs@gmail.com>, 2013
 # Luciano De Falco Alfano, 2016
 # Marco Bonetti, 2014
 # Mirco Grillo <mirco.grillomg@gmail.com>, 2018,2020
 # Nicola Larosa <transifex@teknico.net>, 2013
-# palmux <palmux@gmail.com>, 2014-2015,2017,2021
+# palmux <palmux@gmail.com>, 2014-2015,2021
 # Paolo Melchiorre <paolo@melchiorre.org>, 2022-2023
 # Mattia Procopio <promat85@gmail.com>, 2015
-# Riccardo Magliocchetti <riccardo.magliocchetti@gmail.com>, 2017
-# Stefano Brentegani <sbrentegani@gmail.com>, 2014-2017
+# Stefano Brentegani <sbrentegani@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-19 11:30-0500\n"
-"PO-Revision-Date: 2025-04-01 15:04-0500\n"
-"Last-Translator: Andrea Guerra, 2024\n"
+"POT-Creation-Date: 2023-09-18 11:41-0300\n"
+"PO-Revision-Date: 2023-12-04 07:05+0000\n"
+"Last-Translator: Franky Bonanno, 2023\n"
 "Language-Team: Italian (http://app.transifex.com/django/django/language/"
 "it/)\n"
 "MIME-Version: 1.0\n"
@@ -36,876 +31,26 @@ msgstr ""
 "Language: it\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Afrikaans"
-msgstr "Afrikaans"
-
-msgid "Arabic"
-msgstr "Arabo"
-
-msgid "Algerian Arabic"
-msgstr "Arabo Algerino"
-
-msgid "Asturian"
-msgstr "Asturiano"
-
-msgid "Azerbaijani"
-msgstr "Azero"
-
-msgid "Bulgarian"
-msgstr "Bulgaro"
-
-msgid "Belarusian"
-msgstr "Bielorusso"
-
-msgid "Bengali"
-msgstr "Bengalese"
-
-msgid "Breton"
-msgstr "Bretone"
-
-msgid "Bosnian"
-msgstr "Bosniaco"
-
-msgid "Catalan"
-msgstr "Catalano"
-
-msgid "Central Kurdish (Sorani)"
-msgstr "Curdo centrale (Sorani)"
-
-msgid "Czech"
-msgstr "Ceco"
-
-msgid "Welsh"
-msgstr "Gallese"
-
-msgid "Danish"
-msgstr "Danese"
-
-msgid "German"
-msgstr "Tedesco"
-
-msgid "Lower Sorbian"
-msgstr "Sorabo inferiore"
-
-msgid "Greek"
-msgstr "Greco"
-
-msgid "English"
-msgstr "Inglese"
-
-msgid "Australian English"
-msgstr "Inglese Australiano"
-
-msgid "British English"
-msgstr "Inglese britannico"
-
-msgid "Esperanto"
-msgstr "Esperanto"
-
-msgid "Spanish"
-msgstr "Spagnolo"
-
-msgid "Argentinian Spanish"
-msgstr "Spagnolo Argentino"
-
-msgid "Colombian Spanish"
-msgstr "Spagnolo Colombiano"
-
-msgid "Mexican Spanish"
-msgstr "Spagnolo Messicano"
-
-msgid "Nicaraguan Spanish"
-msgstr "Spagnolo Nicaraguense"
-
-msgid "Venezuelan Spanish"
-msgstr "Spagnolo venezuelano"
-
-msgid "Estonian"
-msgstr "Estone"
-
-msgid "Basque"
-msgstr "Basco"
-
-msgid "Persian"
-msgstr "Persiano"
-
-msgid "Finnish"
-msgstr "Finlandese"
-
-msgid "French"
-msgstr "Francese"
-
-msgid "Frisian"
-msgstr "Frisone"
-
-msgid "Irish"
-msgstr "Irlandese"
-
-msgid "Scottish Gaelic"
-msgstr "Gaelico Scozzese"
-
-msgid "Galician"
-msgstr "Galiziano"
-
-msgid "Hebrew"
-msgstr "Ebraico"
-
-msgid "Hindi"
-msgstr "Hindi"
-
-msgid "Croatian"
-msgstr "Croato"
-
-msgid "Upper Sorbian"
-msgstr "Sorabo superiore"
-
-msgid "Hungarian"
-msgstr "Ungherese"
-
-msgid "Armenian"
-msgstr "Armeno"
-
-msgid "Interlingua"
-msgstr "Interlingua"
-
-msgid "Indonesian"
-msgstr "Indonesiano"
-
-msgid "Igbo"
-msgstr "Igbo"
-
-msgid "Ido"
-msgstr "Ido"
-
-msgid "Icelandic"
-msgstr "Islandese"
-
-msgid "Italian"
-msgstr "Italiano"
-
-msgid "Japanese"
-msgstr "Giapponese"
-
-msgid "Georgian"
-msgstr "Georgiano"
-
-msgid "Kabyle"
-msgstr "Cabilo"
-
-msgid "Kazakh"
-msgstr "Kazako"
-
-msgid "Khmer"
-msgstr "Khmer"
-
-msgid "Kannada"
-msgstr "Kannada"
-
-msgid "Korean"
-msgstr "Coreano"
-
-msgid "Kyrgyz"
-msgstr "Kirghiso"
-
-msgid "Luxembourgish"
-msgstr "Lussemburghese"
-
-msgid "Lithuanian"
-msgstr "Lituano"
-
-msgid "Latvian"
-msgstr "Lettone"
-
-msgid "Macedonian"
-msgstr "Macedone"
-
-msgid "Malayalam"
-msgstr "Malayalam"
-
-msgid "Mongolian"
-msgstr "Mongolo"
-
-msgid "Marathi"
-msgstr "Marathi"
-
-msgid "Malay"
-msgstr "Malese"
-
-msgid "Burmese"
-msgstr "Birmano"
-
-msgid "Norwegian Bokmål"
-msgstr "Norvegese Bokmål"
-
-msgid "Nepali"
-msgstr "Nepali"
-
-msgid "Dutch"
-msgstr "Olandese"
-
-msgid "Norwegian Nynorsk"
-msgstr "Norvegese Nynorsk"
-
-msgid "Ossetic"
-msgstr "Ossetico"
-
-msgid "Punjabi"
-msgstr "Punjabi"
-
-msgid "Polish"
-msgstr "Polacco"
-
-msgid "Portuguese"
-msgstr "Portoghese"
-
-msgid "Brazilian Portuguese"
-msgstr "Brasiliano Portoghese"
-
-msgid "Romanian"
-msgstr "Rumeno"
-
-msgid "Russian"
-msgstr "Russo"
-
-msgid "Slovak"
-msgstr "Slovacco"
-
-msgid "Slovenian"
-msgstr "Sloveno"
-
-msgid "Albanian"
-msgstr "Albanese"
-
-msgid "Serbian"
-msgstr "Serbo"
-
-msgid "Serbian Latin"
-msgstr "Serbo Latino"
-
-msgid "Swedish"
-msgstr "Svedese"
-
-msgid "Swahili"
-msgstr "Swahili"
-
-msgid "Tamil"
-msgstr "Tamil"
-
-msgid "Telugu"
-msgstr "Telugu"
-
-msgid "Tajik"
-msgstr "Tajik"
-
-msgid "Thai"
-msgstr "Tailandese"
-
-msgid "Turkmen"
-msgstr "Turkmeno"
-
-msgid "Turkish"
-msgstr "Turco"
-
-msgid "Tatar"
-msgstr "Tatar"
-
-msgid "Udmurt"
-msgstr "Udmurt"
-
-msgid "Uyghur"
-msgstr "Uiguro"
-
-msgid "Ukrainian"
-msgstr "Ucraino"
-
-msgid "Urdu"
-msgstr "Urdu"
-
-msgid "Uzbek"
-msgstr "Uzbeko"
-
-msgid "Vietnamese"
-msgstr "Vietnamita"
-
-msgid "Simplified Chinese"
-msgstr "Cinese semplificato"
-
-msgid "Traditional Chinese"
-msgstr "Cinese tradizionale"
-
-msgid "Messages"
-msgstr "Messaggi"
-
-msgid "Site Maps"
-msgstr "Mappa del sito"
-
-msgid "Static Files"
-msgstr "File statici"
-
-msgid "Syndication"
-msgstr "Aggregazione"
-
-#. Translators: String used to replace omitted page numbers in elided page
-#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
-msgid "…"
-msgstr "..."
-
-msgid "That page number is not an integer"
-msgstr "Quel numero di pagina non è un integer"
-
-msgid "That page number is less than 1"
-msgstr "Quel numero di pagina è minore di 1"
-
-msgid "That page contains no results"
-msgstr "Quella pagina non presenta alcun risultato"
-
-msgid "Enter a valid value."
-msgstr "Inserisci un valore valido."
-
-msgid "Enter a valid domain name."
-msgstr ""
-
-msgid "Enter a valid URL."
-msgstr "Inserisci un URL valido."
-
-msgid "Enter a valid integer."
-msgstr "Inserire un numero intero valido."
-
-msgid "Enter a valid email address."
-msgstr "Inserisci un indirizzo email valido."
-
-#. Translators: "letters" means latin letters: a-z and A-Z.
-msgid ""
-"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
-msgstr ""
-"Inserisci uno \"slug\" valido contenente lettere, cifre, sottolineati o "
-"trattini."
-
-msgid ""
-"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
-"hyphens."
-msgstr ""
-"Inserisci uno 'slug' valido contenente lettere, cifre, sottolineati o "
-"trattini."
+#, python-format
+msgid "Delete selected %(verbose_name_plural)s"
+msgstr "Cancella %(verbose_name_plural)s selezionati"
 
 #, python-format
-msgid "Enter a valid %(protocol)s address."
-msgstr ""
-
-msgid "IPv4"
-msgstr ""
-
-msgid "IPv6"
-msgstr ""
-
-msgid "IPv4 or IPv6"
-msgstr ""
-
-msgid "Enter only digits separated by commas."
-msgstr "Inserisci solo cifre separate da virgole."
+msgid "Successfully deleted %(count)d %(items)s."
+msgstr "Cancellati/e con successo %(count)d %(items)s."
 
 #, python-format
-msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr ""
-"Assicurati che questo valore sia %(limit_value)s (ora è %(show_value)s)."
+msgid "Cannot delete %(name)s"
+msgstr "Impossibile cancellare %(name)s "
 
-#, python-format
-msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr "Assicurati che questo valore sia minore o uguale a %(limit_value)s."
+msgid "Are you sure?"
+msgstr "Confermi?"
 
-#, python-format
-msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr "Assicurati che questo valore sia maggiore o uguale a %(limit_value)s."
+msgid "Administration"
+msgstr "Amministrazione"
 
-#, python-format
-msgid "Ensure this value is a multiple of step size %(limit_value)s."
-msgstr ""
-"Assicurarsi che questo valore sia un multiplo della dimensione di passo "
-"%(limit_value)s."
-
-#, python-format
-msgid ""
-"Ensure this value is a multiple of step size %(limit_value)s, starting from "
-"%(offset)s, e.g. %(offset)s, %(valid_value1)s, %(valid_value2)s, and so on."
-msgstr ""
-"Assicurati che questo valore sia un multiplo della dimensione di passo "
-"%(limit_value)s, iniziando da %(offset)s, p.es. %(offset)s, "
-"%(valid_value1)s, %(valid_value2)s, e così via."
-
-#, python-format
-msgid ""
-"Ensure this value has at least %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at least %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"Assicurati che questo valore contenga almeno %(limit_value)d carattere (ne "
-"ha %(show_value)d)."
-msgstr[1] ""
-"Assicurati che questo valore contenga almeno %(limit_value)d caratteri (ne "
-"ha %(show_value)d)."
-msgstr[2] ""
-"Assicurati che questo valore contenga almeno %(limit_value)d caratteri (ne "
-"ha %(show_value)d)."
-
-#, python-format
-msgid ""
-"Ensure this value has at most %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at most %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"Assicurati che questo valore non contenga più di %(limit_value)d carattere "
-"(ne ha %(show_value)d)."
-msgstr[1] ""
-"Assicurati che questo valore non contenga più di %(limit_value)d caratteri "
-"(ne ha %(show_value)d)."
-msgstr[2] ""
-"Assicurati che questo valore non contenga più di %(limit_value)d caratteri "
-"(ne ha %(show_value)d)."
-
-msgid "Enter a number."
-msgstr "Inserisci un numero."
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s digit in total."
-msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] "Assicurati che non vi sia più di %(max)s cifra in totale."
-msgstr[1] "Assicurati che non vi siano più di %(max)s cifre in totale."
-msgstr[2] "Assicurati che non vi siano più di %(max)s cifre in totale."
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s decimal place."
-msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] "Assicurati che non vi sia più di %(max)s cifra decimale."
-msgstr[1] "Assicurati che non vi siano più di %(max)s cifre decimali."
-msgstr[2] "Assicurati che non vi siano più di %(max)s cifre decimali."
-
-#, python-format
-msgid ""
-"Ensure that there are no more than %(max)s digit before the decimal point."
-msgid_plural ""
-"Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] "Assicurati che non vi sia più di %(max)s cifra prima della virgola."
-msgstr[1] ""
-"Assicurati che non vi siano più di %(max)s cifre prima della virgola."
-msgstr[2] ""
-"Assicurati che non vi siano più di %(max)s cifre prima della virgola."
-
-#, python-format
-msgid ""
-"File extension “%(extension)s” is not allowed. Allowed extensions are: "
-"%(allowed_extensions)s."
-msgstr ""
-"Il file con estensione \"%(extension)s\" non e' permesso. Le estensioni "
-"permesse sono: %(allowed_extensions)s."
-
-msgid "Null characters are not allowed."
-msgstr "I caratteri null non sono ammessi."
-
-msgid "and"
-msgstr "e"
-
-#, python-format
-msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr "%(model_name)s con questa %(field_labels)s esiste già."
-
-#, python-format
-msgid "Constraint “%(name)s” is violated."
-msgstr "Il vincolo “%(name)s” è stato violato."
-
-#, python-format
-msgid "Value %(value)r is not a valid choice."
-msgstr "Il valore %(value)r non è una scelta valida."
-
-msgid "This field cannot be null."
-msgstr "Questo campo non può essere nullo."
-
-msgid "This field cannot be blank."
-msgstr "Questo campo non può essere vuoto."
-
-#, python-format
-msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr "%(model_name)s con questo %(field_label)s esiste già."
-
-#. Translators: The 'lookup_type' is one of 'date', 'year' or
-#. 'month'. Eg: "Title must be unique for pub_date year"
-#, python-format
-msgid ""
-"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
-msgstr ""
-"%(field_label)s deve essere unico per %(date_field_label)s %(lookup_type)s."
-
-#, python-format
-msgid "Field of type: %(field_type)s"
-msgstr "Campo di tipo: %(field_type)s"
-
-#, python-format
-msgid "“%(value)s” value must be either True or False."
-msgstr "Il valore \"%(value)s\" deve essere True oppure False."
-
-#, python-format
-msgid "“%(value)s” value must be either True, False, or None."
-msgstr "Il valore di \"%(value)s\" deve essere True, False o None"
-
-msgid "Boolean (Either True or False)"
-msgstr "Booleano (Vero o Falso)"
-
-#, python-format
-msgid "String (up to %(max_length)s)"
-msgstr "Stringa (fino a %(max_length)s)"
-
-msgid "String (unlimited)"
-msgstr "Stringa (illimitata)"
-
-msgid "Comma-separated integers"
-msgstr "Interi separati da virgole"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
-"format."
-msgstr ""
-"Il valore \"%(value)s\" ha un formato di data non valido. Deve essere nel "
-"formato AAAA-MM-GG."
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
-"date."
-msgstr ""
-"Il valore di \"%(value)s\" ha il corretto formato (AAAA-MM-GG) ma non è una "
-"data valida."
-
-msgid "Date (without time)"
-msgstr "Data (senza ora)"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
-"uuuuuu]][TZ] format."
-msgstr ""
-"Il valore \"%(value)s\" ha un formato non valido. Deve essere nel formato "
-"AAAA-MM-GG HH:MM[:ss[.uuuuuu]][TZ]."
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
-"[TZ]) but it is an invalid date/time."
-msgstr ""
-"Il valore di \"%(value)s\" ha il formato corretto (AAAA-MM-GG HH:MM[:ss[."
-"uuuuuu]][TZ]) ma non è una data/ora valida."
-
-msgid "Date (with time)"
-msgstr "Data (con ora)"
-
-#, python-format
-msgid "“%(value)s” value must be a decimal number."
-msgstr "Il valore \"%(value)s\" deve essere un numero decimale."
-
-msgid "Decimal number"
-msgstr "Numero decimale"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
-"uuuuuu] format."
-msgstr ""
-"Il valore \"%(value)s\" ha un formato non valido. Deve essere nel formato "
-"[GG] [[HH:]MM:]ss[.uuuuuu]."
-
-msgid "Duration"
-msgstr "Durata"
-
-msgid "Email address"
-msgstr "Indirizzo email"
-
-msgid "File path"
-msgstr "Percorso file"
-
-#, python-format
-msgid "“%(value)s” value must be a float."
-msgstr "Il valore di \"%(value)s\" deve essere un numero a virgola mobile."
-
-msgid "Floating point number"
-msgstr "Numero in virgola mobile"
-
-#, python-format
-msgid "“%(value)s” value must be an integer."
-msgstr "Il valore \"%(value)s\" deve essere un intero."
-
-msgid "Integer"
-msgstr "Intero"
-
-msgid "Big (8 byte) integer"
-msgstr "Intero grande (8 byte)"
-
-msgid "Small integer"
-msgstr "Piccolo intero"
-
-msgid "IPv4 address"
-msgstr "Indirizzo IPv4"
-
-msgid "IP address"
-msgstr "Indirizzo IP"
-
-#, python-format
-msgid "“%(value)s” value must be either None, True or False."
-msgstr "Il valore \"%(value)s\" deve essere None, True oppure False."
-
-msgid "Boolean (Either True, False or None)"
-msgstr "Booleano (True, False o None)"
-
-msgid "Positive big integer"
-msgstr "Intero positivo"
-
-msgid "Positive integer"
-msgstr "Intero positivo"
-
-msgid "Positive small integer"
-msgstr "Piccolo intero positivo"
-
-#, python-format
-msgid "Slug (up to %(max_length)s)"
-msgstr "Slug (fino a %(max_length)s)"
-
-msgid "Text"
-msgstr "Testo"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
-"format."
-msgstr ""
-"Il valore di \"%(value)s\" ha un formato non valido. Deve essere nel formato "
-"HH:MM[:ss[.uuuuuu]]."
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
-"invalid time."
-msgstr ""
-"Il valore di \"%(value)s\" ha il corretto formato (HH:MM[:ss[.uuuuuu]]) ma "
-"non è un orario valido."
-
-msgid "Time"
-msgstr "Ora"
-
-msgid "URL"
-msgstr "URL"
-
-msgid "Raw binary data"
-msgstr "Dati binari grezzi"
-
-#, python-format
-msgid "“%(value)s” is not a valid UUID."
-msgstr "\"%(value)s\" non è uno UUID valido."
-
-msgid "Universally unique identifier"
-msgstr "Identificatore univoco universale"
-
-msgid "File"
-msgstr "File"
-
-msgid "Image"
-msgstr "Immagine"
-
-msgid "A JSON object"
-msgstr "Un oggetto JSON"
-
-msgid "Value must be valid JSON."
-msgstr "Il valore deve essere un JSON valido."
-
-#, python-format
-msgid "%(model)s instance with %(field)s %(value)r is not a valid choice."
-msgstr ""
-
-msgid "Foreign Key (type determined by related field)"
-msgstr "Foreign Key (tipo determinato dal campo collegato)"
-
-msgid "One-to-one relationship"
-msgstr "Relazione uno a uno"
-
-#, python-format
-msgid "%(from)s-%(to)s relationship"
-msgstr "relazione %(from)s-%(to)s"
-
-#, python-format
-msgid "%(from)s-%(to)s relationships"
-msgstr "relazioni %(from)s-%(to)s"
-
-msgid "Many-to-many relationship"
-msgstr "Relazione molti a molti"
-
-#. Translators: If found as last label character, these punctuation
-#. characters will prevent the default label_suffix to be appended to the
-#. label
-msgid ":?.!"
-msgstr ":?.!"
-
-msgid "This field is required."
-msgstr "Questo campo è obbligatorio."
-
-msgid "Enter a whole number."
-msgstr "Inserisci un numero intero."
-
-msgid "Enter a valid date."
-msgstr "Inserisci una data valida."
-
-msgid "Enter a valid time."
-msgstr "Inserisci un'ora valida."
-
-msgid "Enter a valid date/time."
-msgstr "Inserisci una data/ora valida."
-
-msgid "Enter a valid duration."
-msgstr "Inserisci una durata valida."
-
-#, python-brace-format
-msgid "The number of days must be between {min_days} and {max_days}."
-msgstr "Il numero di giorni deve essere compreso tra {min_days} e {max_days}"
-
-msgid "No file was submitted. Check the encoding type on the form."
-msgstr "Non è stato inviato alcun file. Verifica il tipo di codifica sul form."
-
-msgid "No file was submitted."
-msgstr "Nessun file è stato inviato."
-
-msgid "The submitted file is empty."
-msgstr "Il file inviato è vuoto."
-
-#, python-format
-msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
-msgid_plural ""
-"Ensure this filename has at most %(max)d characters (it has %(length)d)."
-msgstr[0] ""
-"Assicurati che questo nome di file non contenga più di %(max)d carattere (ne "
-"ha %(length)d)."
-msgstr[1] ""
-"Assicurati che questo nome di file non contenga più di %(max)d caratteri (ne "
-"ha %(length)d)."
-msgstr[2] ""
-"Assicurati che questo nome di file non contenga più di %(max)d caratteri (ne "
-"ha %(length)d)."
-
-msgid "Please either submit a file or check the clear checkbox, not both."
-msgstr ""
-"È possibile inviare un file o selezionare la casella \"svuota\", ma non "
-"entrambi."
-
-msgid ""
-"Upload a valid image. The file you uploaded was either not an image or a "
-"corrupted image."
-msgstr ""
-"Carica un'immagine valida. Il file caricato non è un'immagine o è "
-"un'immagine danneggiata."
-
-#, python-format
-msgid "Select a valid choice. %(value)s is not one of the available choices."
-msgstr "Scegli un'opzione valida. %(value)s non è tra quelle disponibili."
-
-msgid "Enter a list of values."
-msgstr "Inserisci una lista di valori."
-
-msgid "Enter a complete value."
-msgstr "Inserisci un valore completo."
-
-msgid "Enter a valid UUID."
-msgstr "Inserire un UUID valido."
-
-msgid "Enter a valid JSON."
-msgstr "Inserisci un JSON valido."
-
-#. Translators: This is the default suffix added to form field labels
-msgid ":"
-msgstr ":"
-
-#, python-format
-msgid "(Hidden field %(name)s) %(error)s"
-msgstr "(Campo nascosto %(name)s) %(error)s"
-
-#, python-format
-msgid ""
-"ManagementForm data is missing or has been tampered with. Missing fields: "
-"%(field_names)s. You may need to file a bug report if the issue persists."
-msgstr ""
-"Mancano i dati ManagementForm o sono stati manomessi. Campi mancanti: "
-"%(field_names)s. Potrebbe essere necessario inviare una segnalazione di "
-"errore se il problema persiste."
-
-#, python-format
-msgid "Please submit at most %(num)d form."
-msgid_plural "Please submit at most %(num)d forms."
-msgstr[0] "Si prega di inviare al massimo %(num)d form."
-msgstr[1] "Si prega di inviare al massimo %(num)d form."
-msgstr[2] "Si prega di inviare al massimo %(num)d form."
-
-#, python-format
-msgid "Please submit at least %(num)d form."
-msgid_plural "Please submit at least %(num)d forms."
-msgstr[0] "Si prega di inviare almeno %(num)d form."
-msgstr[1] "Si prega di inviare almeno %(num)d form."
-msgstr[2] "Si prega di inviare almeno %(num)d form."
-
-msgid "Order"
-msgstr "Ordine"
-
-msgid "Delete"
-msgstr "Cancella"
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s."
-msgstr "Si prega di correggere i dati duplicati di %(field)s."
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr ""
-"Si prega di correggere i dati duplicati di %(field)s, che deve essere unico."
-
-#, python-format
-msgid ""
-"Please correct the duplicate data for %(field_name)s which must be unique "
-"for the %(lookup)s in %(date_field)s."
-msgstr ""
-"Si prega di correggere i dati duplicati di %(field_name)s che deve essere "
-"unico/a per %(lookup)s in %(date_field)s."
-
-msgid "Please correct the duplicate values below."
-msgstr "Si prega di correggere i dati duplicati qui sotto."
-
-msgid "The inline value did not match the parent instance."
-msgstr "Il valore inline non corrisponde all'istanza padre."
-
-msgid "Select a valid choice. That choice is not one of the available choices."
-msgstr ""
-"Scegli un'opzione valida. La scelta effettuata non compare tra quelle "
-"disponibili."
-
-#, python-format
-msgid "“%(pk)s” is not a valid value."
-msgstr "\"%(pk)s\" non è un valore valido."
-
-#, python-format
-msgid ""
-"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
-"may be ambiguous or it may not exist."
-msgstr ""
-" %(datetime)s non può essere interpretato nel fuso orario "
-"%(current_timezone)s: potrebbe essere ambiguo o non esistere."
-
-msgid "Clear"
-msgstr "Svuota"
-
-msgid "Currently"
-msgstr "Attualmente"
-
-msgid "Change"
-msgstr "Cambia"
-
-msgid "Unknown"
-msgstr "Sconosciuto"
+msgid "All"
+msgstr "Tutti"
 
 msgid "Yes"
 msgstr "Sì"
@@ -913,475 +58,741 @@ msgstr "Sì"
 msgid "No"
 msgstr "No"
 
-#. Translators: Please do not add spaces around commas.
-msgid "yes,no,maybe"
-msgstr "sì,no,forse"
+msgid "Unknown"
+msgstr "Sconosciuto"
 
-#, python-format
-msgid "%(size)d byte"
-msgid_plural "%(size)d bytes"
-msgstr[0] "%(size)d byte"
-msgstr[1] "%(size)d bytes"
-msgstr[2] "%(size)d bytes"
+msgid "Any date"
+msgstr "Qualsiasi data"
 
-#, python-format
-msgid "%s KB"
-msgstr "%s KB"
+msgid "Today"
+msgstr "Oggi"
 
-#, python-format
-msgid "%s MB"
-msgstr "%s MB"
+msgid "Past 7 days"
+msgstr "Ultimi 7 giorni"
 
-#, python-format
-msgid "%s GB"
-msgstr "%s GB"
+msgid "This month"
+msgstr "Questo mese"
 
-#, python-format
-msgid "%s TB"
-msgstr "%s TB"
+msgid "This year"
+msgstr "Quest'anno"
 
-#, python-format
-msgid "%s PB"
-msgstr "%s PB"
+msgid "No date"
+msgstr "Senza data"
 
-msgid "p.m."
-msgstr "p.m."
+msgid "Has date"
+msgstr "Ha la data"
 
-msgid "a.m."
-msgstr "a.m."
+msgid "Empty"
+msgstr "Vuoto"
 
-msgid "PM"
-msgstr "PM"
-
-msgid "AM"
-msgstr "AM"
-
-msgid "midnight"
-msgstr "mezzanotte"
-
-msgid "noon"
-msgstr "mezzogiorno"
-
-msgid "Monday"
-msgstr "Lunedì"
-
-msgid "Tuesday"
-msgstr "Martedì"
-
-msgid "Wednesday"
-msgstr "Mercoledì"
-
-msgid "Thursday"
-msgstr "Giovedì"
-
-msgid "Friday"
-msgstr "Venerdì"
-
-msgid "Saturday"
-msgstr "Sabato"
-
-msgid "Sunday"
-msgstr "Domenica"
-
-msgid "Mon"
-msgstr "Lun"
-
-msgid "Tue"
-msgstr "Mar"
-
-msgid "Wed"
-msgstr "Mer"
-
-msgid "Thu"
-msgstr "Gio"
-
-msgid "Fri"
-msgstr "Ven"
-
-msgid "Sat"
-msgstr "Sab"
-
-msgid "Sun"
-msgstr "Dom"
-
-msgid "January"
-msgstr "Gennaio"
-
-msgid "February"
-msgstr "Febbraio"
-
-msgid "March"
-msgstr "Marzo"
-
-msgid "April"
-msgstr "Aprile"
-
-msgid "May"
-msgstr "Maggio"
-
-msgid "June"
-msgstr "Giugno"
-
-msgid "July"
-msgstr "Luglio"
-
-msgid "August"
-msgstr "Agosto"
-
-msgid "September"
-msgstr "Settembre"
-
-msgid "October"
-msgstr "Ottobre"
-
-msgid "November"
-msgstr "Novembre"
-
-msgid "December"
-msgstr "Dicembre"
-
-msgid "jan"
-msgstr "gen"
-
-msgid "feb"
-msgstr "feb"
-
-msgid "mar"
-msgstr "mar"
-
-msgid "apr"
-msgstr "apr"
-
-msgid "may"
-msgstr "mag"
-
-msgid "jun"
-msgstr "giu"
-
-msgid "jul"
-msgstr "lug"
-
-msgid "aug"
-msgstr "ago"
-
-msgid "sep"
-msgstr "set"
-
-msgid "oct"
-msgstr "ott"
-
-msgid "nov"
-msgstr "nov"
-
-msgid "dec"
-msgstr "dic"
-
-msgctxt "abbrev. month"
-msgid "Jan."
-msgstr "Gen."
-
-msgctxt "abbrev. month"
-msgid "Feb."
-msgstr "Feb."
-
-msgctxt "abbrev. month"
-msgid "March"
-msgstr "Marzo"
-
-msgctxt "abbrev. month"
-msgid "April"
-msgstr "Aprile"
-
-msgctxt "abbrev. month"
-msgid "May"
-msgstr "Maggio"
-
-msgctxt "abbrev. month"
-msgid "June"
-msgstr "Giugno"
-
-msgctxt "abbrev. month"
-msgid "July"
-msgstr "Luglio"
-
-msgctxt "abbrev. month"
-msgid "Aug."
-msgstr "Ago."
-
-msgctxt "abbrev. month"
-msgid "Sept."
-msgstr "Set."
-
-msgctxt "abbrev. month"
-msgid "Oct."
-msgstr "Ott."
-
-msgctxt "abbrev. month"
-msgid "Nov."
-msgstr "Nov."
-
-msgctxt "abbrev. month"
-msgid "Dec."
-msgstr "Dic."
-
-msgctxt "alt. month"
-msgid "January"
-msgstr "Gennaio"
-
-msgctxt "alt. month"
-msgid "February"
-msgstr "Febbraio"
-
-msgctxt "alt. month"
-msgid "March"
-msgstr "Marzo"
-
-msgctxt "alt. month"
-msgid "April"
-msgstr "Aprile"
-
-msgctxt "alt. month"
-msgid "May"
-msgstr "Maggio"
-
-msgctxt "alt. month"
-msgid "June"
-msgstr "Giugno"
-
-msgctxt "alt. month"
-msgid "July"
-msgstr "Luglio"
-
-msgctxt "alt. month"
-msgid "August"
-msgstr "Agosto"
-
-msgctxt "alt. month"
-msgid "September"
-msgstr "Settembre"
-
-msgctxt "alt. month"
-msgid "October"
-msgstr "Ottobre"
-
-msgctxt "alt. month"
-msgid "November"
-msgstr "Novembre"
-
-msgctxt "alt. month"
-msgid "December"
-msgstr "Dicembre"
-
-msgid "This is not a valid IPv6 address."
-msgstr "Questo non è un indirizzo IPv6 valido."
-
-#, python-format
-msgctxt "String to return when truncating text"
-msgid "%(truncated_text)s…"
-msgstr "%(truncated_text)s…"
-
-msgid "or"
-msgstr "o"
-
-#. Translators: This string is used as a separator between list elements
-msgid ", "
-msgstr ", "
-
-#, python-format
-msgid "%(num)d year"
-msgid_plural "%(num)d years"
-msgstr[0] "%(num)d anno"
-msgstr[1] "%(num)d anni"
-msgstr[2] "%(num)d anni"
-
-#, python-format
-msgid "%(num)d month"
-msgid_plural "%(num)d months"
-msgstr[0] "%(num)d mese"
-msgstr[1] "%(num)d mesi"
-msgstr[2] "%(num)d mesi"
-
-#, python-format
-msgid "%(num)d week"
-msgid_plural "%(num)d weeks"
-msgstr[0] "%(num)d settimana"
-msgstr[1] "%(num)d settimane"
-msgstr[2] "%(num)d settimane"
-
-#, python-format
-msgid "%(num)d day"
-msgid_plural "%(num)d days"
-msgstr[0] "%(num)d giorno"
-msgstr[1] "%(num)d giorni"
-msgstr[2] "%(num)d giorni"
-
-#, python-format
-msgid "%(num)d hour"
-msgid_plural "%(num)d hours"
-msgstr[0] "%(num)d ora"
-msgstr[1] "%(num)d ore"
-msgstr[2] "%(num)d ore"
-
-#, python-format
-msgid "%(num)d minute"
-msgid_plural "%(num)d minutes"
-msgstr[0] "%(num)d minuto"
-msgstr[1] "%(num)d minuti"
-msgstr[2] "%(num)d minuti"
-
-msgid "Forbidden"
-msgstr "Proibito"
-
-msgid "CSRF verification failed. Request aborted."
-msgstr "Verifica CSRF fallita. Richiesta interrotta."
-
-msgid ""
-"You are seeing this message because this HTTPS site requires a “Referer "
-"header” to be sent by your web browser, but none was sent. This header is "
-"required for security reasons, to ensure that your browser is not being "
-"hijacked by third parties."
-msgstr ""
-"Vedi questo messaggio perchè questo sito HTTPS richiede l'invio da parte del "
-"tuo browser del “Referer header”, che non è invece stato inviato. Questo "
-"header è richiesto per motivi di sicurezza, per assicurare che il tuo "
-"browser non sia stato sabotato da terzi."
-
-msgid ""
-"If you have configured your browser to disable “Referer” headers, please re-"
-"enable them, at least for this site, or for HTTPS connections, or for “same-"
-"origin” requests."
-msgstr ""
-"Se hai configurato il tuo browser web per disattivare l'invio delle "
-"intestazioni \"Referer\", riattiva questo invio, almeno per questo sito, o "
-"per le connessioni HTTPS, o per le connessioni \"same-origin\"."
-
-msgid ""
-"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
-"including the “Referrer-Policy: no-referrer” header, please remove them. The "
-"CSRF protection requires the “Referer” header to do strict referer checking. "
-"If you’re concerned about privacy, use alternatives like <a "
-"rel=\"noreferrer\" …> for links to third-party sites."
-msgstr ""
-"Se usi il tag <meta name=\"referrer\" content=\"no-referrer\"> o includi "
-"header 'Referrer-Policy: no-referrer', per favore rimuovili. Per la "
-"protezione CSRF è necessario eseguire un controllo rigoroso sull'header "
-"'Referer'. Se ti preoccupano le ricadute sulla privacy, puoi ricorrere ad "
-"alternative come <a rel=\"noreferrer\" …> per i link a siti di terze parti."
-
-msgid ""
-"You are seeing this message because this site requires a CSRF cookie when "
-"submitting forms. This cookie is required for security reasons, to ensure "
-"that your browser is not being hijacked by third parties."
-msgstr ""
-"Stai vedendo questo messaggio perché questo sito richiede un cookie CSRF "
-"quando invii dei form. Questo cookie è necessario per ragioni di sicurezza, "
-"per assicurare che il tuo browser non sia stato dirottato da terze parti."
-
-msgid ""
-"If you have configured your browser to disable cookies, please re-enable "
-"them, at least for this site, or for “same-origin” requests."
-msgstr ""
-"Se hai configurato il tuo browser web per disattivare l'invio dei cookies, "
-"riattivalo almeno per questo sito, o per connessioni \"same-origin\""
-
-msgid "More information is available with DEBUG=True."
-msgstr "Maggiorni informazioni sono disponibili con DEBUG=True"
-
-msgid "No year specified"
-msgstr "Anno non specificato"
-
-msgid "Date out of range"
-msgstr "Data al di fuori dell'intervallo"
-
-msgid "No month specified"
-msgstr "Mese non specificato"
-
-msgid "No day specified"
-msgstr "Giorno non specificato"
-
-msgid "No week specified"
-msgstr "Settimana non specificata"
-
-#, python-format
-msgid "No %(verbose_name_plural)s available"
-msgstr "Nessun %(verbose_name_plural)s disponibile"
+msgid "Not empty"
+msgstr "Non vuoto"
 
 #, python-format
 msgid ""
-"Future %(verbose_name_plural)s not available because %(class_name)s."
-"allow_future is False."
+"Please enter the correct %(username)s and password for a staff account. Note "
+"that both fields may be case-sensitive."
 msgstr ""
-"%(verbose_name_plural)s futuri/e non disponibili/e poichè %(class_name)s."
-"allow_future è False."
+"Inserisci %(username)s e password corretti per un account di staff. Nota che "
+"entrambi i campi distinguono maiuscole e minuscole."
+
+msgid "Action:"
+msgstr "Azione:"
 
 #, python-format
-msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
-msgstr "Data non valida \"%(datestr)s\" con il formato \"%(format)s\""
+msgid "Add another %(verbose_name)s"
+msgstr "Aggiungi un altro %(verbose_name)s."
+
+msgid "Remove"
+msgstr "Elimina"
+
+msgid "Addition"
+msgstr "Aggiunta "
+
+msgid "Change"
+msgstr "Modifica"
+
+msgid "Deletion"
+msgstr "Eliminazione"
+
+msgid "action time"
+msgstr "momento dell'azione"
+
+msgid "user"
+msgstr "utente"
+
+msgid "content type"
+msgstr "content type"
+
+msgid "object id"
+msgstr "id dell'oggetto"
+
+#. Translators: 'repr' means representation
+#. (https://docs.python.org/library/functions.html#repr)
+msgid "object repr"
+msgstr "rappr. dell'oggetto"
+
+msgid "action flag"
+msgstr "flag di azione"
+
+msgid "change message"
+msgstr "messaggio di modifica"
+
+msgid "log entry"
+msgstr "voce di log"
+
+msgid "log entries"
+msgstr "voci di log"
 
 #, python-format
-msgid "No %(verbose_name)s found matching the query"
-msgstr "Trovato nessun %(verbose_name)s corrispondente alla query"
-
-msgid "Page is not “last”, nor can it be converted to an int."
-msgstr "La pagina non è \"last\", né può essere convertita in un int."
+msgid "Added “%(object)s”."
+msgstr "\"%(object)s\" aggiunto."
 
 #, python-format
-msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr "Pagina non valida (%(page_number)s): %(message)s"
+msgid "Changed “%(object)s” — %(changes)s"
+msgstr "%(object)s%(changes)s modificati"
 
 #, python-format
-msgid "Empty list and “%(class_name)s.allow_empty” is False."
-msgstr "Lista vuota e \"%(class_name)s.allow_empty\" è False."
+msgid "Deleted “%(object)s.”"
+msgstr "\"%(object)s\" cancellato."
 
-msgid "Directory indexes are not allowed here."
-msgstr "Indici di directory non sono consentiti qui."
+msgid "LogEntry Object"
+msgstr "Oggetto LogEntry"
+
+#, python-brace-format
+msgid "Added {name} “{object}”."
+msgstr "Aggiunto {name} \"{object}\"."
+
+msgid "Added."
+msgstr "Aggiunto."
+
+msgid "and"
+msgstr "e"
+
+#, python-brace-format
+msgid "Changed {fields} for {name} “{object}”."
+msgstr "Modificati {fields} per {name} \"{object}\"."
+
+#, python-brace-format
+msgid "Changed {fields}."
+msgstr "Modificati {fields}."
+
+#, python-brace-format
+msgid "Deleted {name} “{object}”."
+msgstr "Eliminato {name} \"{object}\"."
+
+msgid "No fields changed."
+msgstr "Nessun campo modificato."
+
+msgid "None"
+msgstr "Nessuno"
+
+msgid "Hold down “Control”, or “Command” on a Mac, to select more than one."
+msgstr ""
+"Tieni premuto \"Control\", o \"Command\" su Mac, per selezionarne più di uno."
+
+msgid "Select this object for an action - {}"
+msgstr "Seleziona questo oggetto per intraprendere un'azione - {}"
+
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully."
+msgstr "Il {name} \"{obj}\" è stato aggiunto con successo."
+
+msgid "You may edit it again below."
+msgstr "Puoi modificarlo di nuovo qui sotto."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was added successfully. You may add another {name} below."
+msgstr ""
+"Il {name} \"{obj}\" è stato aggiunto con successo. Puoi aggiungere un altro "
+"{name} qui sotto."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may edit it again below."
+msgstr ""
+"Il {name} \"{obj}\" è stato modificato con successo. Puoi modificarlo "
+"nuovamente qui sotto."
+
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully. You may edit it again below."
+msgstr ""
+"Il {name} \"{obj}\" è stato aggiunto con successo. Puoi modificarlo "
+"nuovamente qui sotto."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may add another {name} "
+"below."
+msgstr ""
+"Il {name} \"{obj}\" è stato modificato con successo. Puoi aggiungere un "
+"altro {name} qui sotto."
+
+#, python-brace-format
+msgid "The {name} “{obj}” was changed successfully."
+msgstr "Il {name} \"{obj}\" è stato modificato con successo."
+
+msgid ""
+"Items must be selected in order to perform actions on them. No items have "
+"been changed."
+msgstr ""
+"Occorre selezionare degli oggetti per potervi eseguire azioni. Nessun "
+"oggetto è stato cambiato."
+
+msgid "No action selected."
+msgstr "Nessuna azione selezionata."
 
 #, python-format
-msgid "“%(path)s” does not exist"
-msgstr "\"%(path)s\" non esiste"
+msgid "The %(name)s “%(obj)s” was deleted successfully."
+msgstr "%(name)s \"%(obj)s\" cancellato correttamente."
 
 #, python-format
-msgid "Index of %(directory)s"
-msgstr "Indice di %(directory)s"
+msgid "%(name)s with ID “%(key)s” doesn’t exist. Perhaps it was deleted?"
+msgstr ""
+"%(name)s con ID \"%(key)s\" non esiste. Probabilmente è stato cancellato?"
 
-msgid "The install worked successfully! Congratulations!"
-msgstr "Installazione completata con successo! Congratulazioni!"
+#, python-format
+msgid "Add %s"
+msgstr "Aggiungi %s"
+
+#, python-format
+msgid "Change %s"
+msgstr "Modifica %s"
+
+#, python-format
+msgid "View %s"
+msgstr "Vista %s"
+
+msgid "Database error"
+msgstr "Errore del database"
+
+#, python-format
+msgid "%(count)s %(name)s was changed successfully."
+msgid_plural "%(count)s %(name)s were changed successfully."
+msgstr[0] "%(count)s %(name)s modificato correttamente."
+msgstr[1] "%(count)s %(name)s modificati correttamente."
+msgstr[2] "%(count)s %(name)s modificati correttamente."
+
+#, python-format
+msgid "%(total_count)s selected"
+msgid_plural "All %(total_count)s selected"
+msgstr[0] "%(total_count)s selezionato"
+msgstr[1] "Tutti i %(total_count)s selezionati"
+msgstr[2] "Tutti i %(total_count)s selezionati"
+
+#, python-format
+msgid "0 of %(cnt)s selected"
+msgstr "0 di %(cnt)s selezionati"
+
+#, python-format
+msgid "Change history: %s"
+msgstr "Tracciato delle modifiche: %s"
+
+#. Translators: Model verbose name and instance
+#. representation, suitable to be an item in a
+#. list.
+#, python-format
+msgid "%(class_name)s %(instance)s"
+msgstr "%(class_name)s %(instance)s"
 
 #, python-format
 msgid ""
-"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+"Deleting %(class_name)s %(instance)s would require deleting the following "
+"protected related objects: %(related_objects)s"
 msgstr ""
-"Leggi le <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">note di rilascio</a> per Django "
-"%(version)s"
+"La cancellazione di %(class_name)s %(instance)s richiederebbe l'eliminazione "
+"dei seguenti oggetti protetti correlati: %(related_objects)s"
+
+msgid "Django site admin"
+msgstr "Amministrazione sito Django"
+
+msgid "Django administration"
+msgstr "Amministrazione Django"
+
+msgid "Site administration"
+msgstr "Amministrazione sito"
+
+msgid "Log in"
+msgstr "Accedi"
+
+#, python-format
+msgid "%(app)s administration"
+msgstr "Amministrazione %(app)s"
+
+msgid "Page not found"
+msgstr "Pagina non trovata"
+
+msgid "We’re sorry, but the requested page could not be found."
+msgstr "Spiacenti, ma la pagina richiesta non è stata trovata."
+
+msgid "Home"
+msgstr "Pagina iniziale"
+
+msgid "Server error"
+msgstr "Errore del server"
+
+msgid "Server error (500)"
+msgstr "Errore del server (500)"
+
+msgid "Server Error <em>(500)</em>"
+msgstr "Errore del server <em>(500)</em>"
+
+msgid ""
+"There’s been an error. It’s been reported to the site administrators via "
+"email and should be fixed shortly. Thanks for your patience."
+msgstr ""
+"Si è verificato un errore. Gli amministratori del sito ne sono stati "
+"informati per email, e vi porranno rimedio a breve. Grazie per la vostra "
+"pazienza."
+
+msgid "Run the selected action"
+msgstr "Esegui l'azione selezionata"
+
+msgid "Go"
+msgstr "Vai"
+
+msgid "Click here to select the objects across all pages"
+msgstr "Clicca qui per selezionare gli oggetti da tutte le pagine."
+
+#, python-format
+msgid "Select all %(total_count)s %(module_name)s"
+msgstr "Seleziona tutti %(total_count)s %(module_name)s"
+
+msgid "Clear selection"
+msgstr "Annulla la selezione"
+
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#, python-format
+msgid "Models in the %(name)s application"
+msgstr "Modelli nell'applicazione %(name)s"
+
+msgid "Add"
+msgstr "Aggiungi"
+
+msgid "View"
+msgstr "Vista"
+
+msgid "You don’t have permission to view or edit anything."
+msgstr "Non hai i permessi per visualizzare o modificare nulla."
+
+msgid ""
+"First, enter a username and password. Then, you’ll be able to edit more user "
+"options."
+msgstr ""
+"Prima di tutto inserisci nome utente e password. Poi potrai modificare le "
+"altre impostazioni utente."
+
+msgid "Enter a username and password."
+msgstr "Inserisci nome utente e password."
+
+msgid "Change password"
+msgstr "Modifica password"
+
+msgid "Please correct the error below."
+msgid_plural "Please correct the errors below."
+msgstr[0] "Si prega di correggere l'errore sottostante."
+msgstr[1] "Si prega di correggere gli errori sottostanti."
+msgstr[2] "Si prega di correggere gli errori sottostanti."
+
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr ""
+"Inserisci una nuova password per l'utente <strong>%(username)s</strong>."
+
+msgid "Skip to main content"
+msgstr "Passa al contenuto principale"
+
+msgid "Welcome,"
+msgstr "Benvenuto,"
+
+msgid "View site"
+msgstr "Visualizza il sito"
+
+msgid "Documentation"
+msgstr "Documentazione"
+
+msgid "Log out"
+msgstr "Annulla l'accesso"
+
+#, python-format
+msgid "Add %(name)s"
+msgstr "Aggiungi %(name)s"
+
+msgid "History"
+msgstr "Storia"
+
+msgid "View on site"
+msgstr "Vedi sul sito"
+
+msgid "Filter"
+msgstr "Filtra"
+
+msgid "Hide counts"
+msgstr "Nascondi i conteggi "
+
+msgid "Show counts"
+msgstr "Mostra i conteggi "
+
+msgid "Clear all filters"
+msgstr "Cancella tutti i filtri"
+
+msgid "Remove from sorting"
+msgstr "Elimina dall'ordinamento"
+
+#, python-format
+msgid "Sorting priority: %(priority_number)s"
+msgstr "Priorità d'ordinamento: %(priority_number)s"
+
+msgid "Toggle sorting"
+msgstr "Abilita/disabilita ordinamento"
+
+msgid "Toggle theme (current theme: auto)"
+msgstr "Cambia tema (tema corrente: auto)"
+
+msgid "Toggle theme (current theme: light)"
+msgstr "Cambia tema (tema corrente: chiaro)"
+
+msgid "Toggle theme (current theme: dark)"
+msgstr "Cambia tema (tema corrente: scuro)"
+
+msgid "Delete"
+msgstr "Cancella"
 
 #, python-format
 msgid ""
-"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
-"configured any URLs."
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
 msgstr ""
-"Stai vedendo questa pagina perché hai impostato <a href=\"https://docs."
-"djangoproject.com/en/%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a> nel tuo file di configurazione e non hai "
-"configurato nessun URL."
+"La cancellazione di %(object_name)s '%(escaped_object)s' causerebbe la "
+"cancellazione di oggetti collegati, ma questo account non ha i permessi per "
+"cancellare i seguenti tipi di oggetti:"
 
-msgid "Django Documentation"
-msgstr "Documentazione di Django"
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would require deleting the "
+"following protected related objects:"
+msgstr ""
+"La cancellazione di %(object_name)s '%(escaped_object)s' richiederebbe "
+"l'eliminazione dei seguenti oggetti protetti correlati:"
 
-msgid "Topics, references, &amp; how-to’s"
-msgstr "Temi, riferimenti, &amp; guide"
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr ""
+"Sicuro di voler cancellare %(object_name)s \"%(escaped_object)s\"? Tutti i "
+"seguenti oggetti collegati verranno cancellati:"
 
-msgid "Tutorial: A Polling App"
-msgstr "Tutorial: un'app per sondaggi"
+msgid "Objects"
+msgstr "Oggetti"
 
-msgid "Get started with Django"
-msgstr "Iniziare con Django"
+msgid "Yes, I’m sure"
+msgstr "Sì, sono sicuro"
 
-msgid "Django Community"
-msgstr "La Community di Django"
+msgid "No, take me back"
+msgstr "No, torna indietro"
 
-msgid "Connect, get help, or contribute"
-msgstr "Connettiti, chiedi aiuto, o contribuisci."
+msgid "Delete multiple objects"
+msgstr "Cancella più oggetti"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would result in deleting related "
+"objects, but your account doesn't have permission to delete the following "
+"types of objects:"
+msgstr ""
+"Per eliminare l'elemento %(objects_name)s selezionato è necessario rimuovere "
+"anche gli oggetti correlati, ma il tuo account non dispone "
+"dell'autorizzazione a eliminare i seguenti tipi di oggetti:"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would require deleting the following "
+"protected related objects:"
+msgstr ""
+"L'eliminazione dell'elemento %(objects_name)s selezionato richiederebbe la "
+"rimozione dei seguenti oggetti protetti correlati:"
+
+#, python-format
+msgid ""
+"Are you sure you want to delete the selected %(objects_name)s? All of the "
+"following objects and their related items will be deleted:"
+msgstr ""
+"Confermi la cancellazione dell'elemento %(objects_name)s selezionato? "
+"Saranno rimossi tutti i seguenti oggetti e le loro voci correlate:"
+
+msgid "Delete?"
+msgstr "Cancellare?"
+
+#, python-format
+msgid " By %(filter_title)s "
+msgstr " Per %(filter_title)s "
+
+msgid "Summary"
+msgstr "Riepilogo"
+
+msgid "Recent actions"
+msgstr "Azioni recenti"
+
+msgid "My actions"
+msgstr "Le mie azioni"
+
+msgid "None available"
+msgstr "Nulla disponibile"
+
+msgid "Added:"
+msgstr "Aggiunto"
+
+msgid "Changed:"
+msgstr "Cambiato "
+
+msgid "Deleted:"
+msgstr "Eliminato "
+
+msgid "Unknown content"
+msgstr "Contenuto sconosciuto"
+
+msgid ""
+"Something’s wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
+msgstr ""
+"Qualcosa non è andato a buon fine nell'installazione del database. "
+"Assicurati che le tabelle del database siano state create, e che il database "
+"sia leggibile dall'utente corretto."
+
+#, python-format
+msgid ""
+"You are authenticated as %(username)s, but are not authorized to access this "
+"page. Would you like to login to a different account?"
+msgstr ""
+"Ti sei autenticato come %(username)s, ma non sei autorizzato ad accedere a "
+"questa pagina. Vorresti autenticarti con un altro account?"
+
+msgid "Forgotten your password or username?"
+msgstr "Hai dimenticato la password o lo username?"
+
+msgid "Toggle navigation"
+msgstr "Abilita/disabilita navigazione"
+
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+msgid "Start typing to filter…"
+msgstr "Inizia a scrivere per filtrare..."
+
+msgid "Filter navigation items"
+msgstr "Filtra gli oggetti di navigazione"
+
+msgid "Date/time"
+msgstr "Data/ora"
+
+msgid "User"
+msgstr "Utente"
+
+msgid "Action"
+msgstr "Azione"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "voce"
+msgstr[1] "voci"
+msgstr[2] "voci"
+
+msgid ""
+"This object doesn’t have a change history. It probably wasn’t added via this "
+"admin site."
+msgstr ""
+"Questo oggetto non ha cambiamenti registrati. Probabilmente non è stato "
+"creato con questo sito di amministrazione."
+
+msgid "Show all"
+msgstr "Mostra tutto"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Popup closing…"
+msgstr "Chiusura popup..."
+
+msgid "Search"
+msgstr "Cerca"
+
+#, python-format
+msgid "%(counter)s result"
+msgid_plural "%(counter)s results"
+msgstr[0] "%(counter)s risultato"
+msgstr[1] "%(counter)s risultati"
+msgstr[2] "%(counter)s risultati"
+
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr "%(full_result_count)s in tutto"
+
+msgid "Save as new"
+msgstr "Salva come nuovo"
+
+msgid "Save and add another"
+msgstr "Salva e aggiungi un altro"
+
+msgid "Save and continue editing"
+msgstr "Salva e continua le modifiche"
+
+msgid "Save and view"
+msgstr "Salva e visualizza"
+
+msgid "Close"
+msgstr "Chiudi"
+
+#, python-format
+msgid "Change selected %(model)s"
+msgstr "Modifica la selezione %(model)s"
+
+#, python-format
+msgid "Add another %(model)s"
+msgstr "Aggiungi un altro %(model)s"
+
+#, python-format
+msgid "Delete selected %(model)s"
+msgstr "Elimina la selezione %(model)s"
+
+#, python-format
+msgid "View selected %(model)s"
+msgstr "Visualizza il %(model)s selezionato"
+
+msgid "Thanks for spending some quality time with the web site today."
+msgstr "Grazie per avere trascorso del tempo di qualità sul sito oggi."
+
+msgid "Log in again"
+msgstr "Accedi di nuovo"
+
+msgid "Password change"
+msgstr "Cambio password"
+
+msgid "Your password was changed."
+msgstr "La tua password è stata cambiata."
+
+msgid ""
+"Please enter your old password, for security’s sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+"Inserisci la password attuale, per ragioni di sicurezza, e poi la nuova "
+"password due volte, per verificare di averla scritta correttamente."
+
+msgid "Change my password"
+msgstr "Modifica la mia password"
+
+msgid "Password reset"
+msgstr "Reimposta la password"
+
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr "La tua password è stata impostata. Ora puoi effettuare l'accesso."
+
+msgid "Password reset confirmation"
+msgstr "Conferma reimpostazione password"
+
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr ""
+"Inserisci la nuova password due volte, per verificare di averla scritta "
+"correttamente."
+
+msgid "New password:"
+msgstr "Nuova password:"
+
+msgid "Confirm password:"
+msgstr "Conferma la password:"
+
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr ""
+"Il link per la reimpostazione della password non era valido, forse perché "
+"era già stato usato. Richiedi una nuova reimpostazione della password."
+
+msgid ""
+"We’ve emailed you instructions for setting your password, if an account "
+"exists with the email you entered. You should receive them shortly."
+msgstr ""
+"Abbiamo inviato istruzioni per impostare la password, se esiste un account "
+"valido all'indirizzo email che hai indicato. Dovresti riceverle a breve."
+
+msgid ""
+"If you don’t receive an email, please make sure you’ve entered the address "
+"you registered with, and check your spam folder."
+msgstr ""
+"Se non ricevi un messaggio email, accertati di aver inserito l'indirizzo con "
+"cui ti sei registrato, e controlla la cartella dello spam."
+
+#, python-format
+msgid ""
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr ""
+"Ricevi questa mail perché hai richiesto di reimpostare la password del tuo "
+"account utente presso %(site_name)s."
+
+msgid "Please go to the following page and choose a new password:"
+msgstr "Vai alla pagina seguente e scegli una nuova password:"
+
+msgid "Your username, in case you’ve forgotten:"
+msgstr "Il tuo nome utente, in caso tu l'abbia dimenticato:"
+
+msgid "Thanks for using our site!"
+msgstr "Grazie per aver usato il nostro sito!"
+
+#, python-format
+msgid "The %(site_name)s team"
+msgstr "Il team di %(site_name)s"
+
+msgid ""
+"Forgotten your password? Enter your email address below, and we’ll email "
+"instructions for setting a new one."
+msgstr ""
+"Password dimenticata? Inserisci il tuo indirizzo email qui sotto e ti "
+"invieremo le istruzioni per impostarne una nuova."
+
+msgid "Email address:"
+msgstr "Indirizzo email:"
+
+msgid "Reset my password"
+msgstr "Reimposta la mia password"
+
+msgid "Select all objects on this page for an action"
+msgstr ""
+"Seleziona tutti gli oggetti di questa pagina per intraprendere un'azione "
+
+msgid "All dates"
+msgstr "Tutte le date"
+
+#, python-format
+msgid "Select %s"
+msgstr "Scegli %s"
+
+#, python-format
+msgid "Select %s to change"
+msgstr "Scegli %s da modificare"
+
+#, python-format
+msgid "Select %s to view"
+msgstr "Seleziona %s per visualizzarlo"
+
+msgid "Date:"
+msgstr "Data:"
+
+msgid "Time:"
+msgstr "Ora:"
+
+msgid "Lookup"
+msgstr "Consultazione"
+
+msgid "Currently:"
+msgstr "Attualmente:"
+
+msgid "Change:"
+msgstr "Modifica:"

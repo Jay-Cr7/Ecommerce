@@ -1,22 +1,20 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# xiu1 <d84ea@hotmail.co.jp>, 2016
-# tadasu <elsee9@me.com>, 2020
-# Goto Hayato <habita.gh@gmail.com>, 2021
+# akiyoko <ayokose@gmail.com>, 2020
+# Claude Paroz <claude@2xlibre.net>, 2016
 # Goto Hayato <habita.gh@gmail.com>, 2019
 # Hiroki Sawano, 2022
 # Jannis Leidel <jannis@leidel.info>, 2011
-# Kamiyama Satoshi, 2021
-# Kentaro Matsuzaki <kentaro0919@gmail.com>, 2015
-# Masashi SHIBATA <contact@c-bata.link>, 2017
-# Nikita K <hiyori.amatsuki@gmail.com>, 2019
+# Masaya, 2023
 # Shinichi Katsumata <shinichi.katsumata@gmail.com>, 2019
-# Shinya Okano <tokibito@gmail.com>, 2012-2019,2021,2023-2025
+# Shinya Okano <tokibito@gmail.com>, 2012-2018,2021,2023,2025
 # TANIGUCHI Taichi, 2022
 # Takuro Onoue <kusanaginoturugi@gmail.com>, 2020
 # Takuya N <takninnovationresearch@gmail.com>, 2020
 # Tetsuya Morimoto <tetsuya.morimoto@gmail.com>, 2011
+# 上田慶祐 <kei.mokusyun@gmail.com>, 2015
+# 余田大輝, 2024
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
@@ -24,7 +22,7 @@ msgstr ""
 "POT-Creation-Date: 2024-05-22 11:46-0300\n"
 "PO-Revision-Date: 2025-03-19 11:30-0500\n"
 "Last-Translator: Shinya Okano <tokibito@gmail.com>, "
-"2012-2019,2021,2023-2025\n"
+"2012-2018,2021,2023,2025\n"
 "Language-Team: Japanese (http://app.transifex.com/django/django/language/"
 "ja/)\n"
 "MIME-Version: 1.0\n"
@@ -33,841 +31,26 @@ msgstr ""
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "Afrikaans"
-msgstr "アフリカーンス語"
-
-msgid "Arabic"
-msgstr "アラビア語"
-
-msgid "Algerian Arabic"
-msgstr "アラビア語(アルジェリア)"
-
-msgid "Asturian"
-msgstr "アストゥリアス語"
-
-msgid "Azerbaijani"
-msgstr "アゼルバイジャン語"
-
-msgid "Bulgarian"
-msgstr "ブルガリア語"
-
-msgid "Belarusian"
-msgstr "ベラルーシ語"
-
-msgid "Bengali"
-msgstr "ベンガル語"
-
-msgid "Breton"
-msgstr "ブルトン語"
-
-msgid "Bosnian"
-msgstr "ボスニア語"
-
-msgid "Catalan"
-msgstr "カタロニア語"
-
-msgid "Central Kurdish (Sorani)"
-msgstr "中央クルド語 (ソラニー語)"
-
-msgid "Czech"
-msgstr "チェコ語"
-
-msgid "Welsh"
-msgstr "ウェールズ語"
-
-msgid "Danish"
-msgstr "デンマーク語"
-
-msgid "German"
-msgstr "ドイツ語"
-
-msgid "Lower Sorbian"
-msgstr "低地ソルブ語"
-
-msgid "Greek"
-msgstr "ギリシャ語"
-
-msgid "English"
-msgstr "英語(米国)"
-
-msgid "Australian English"
-msgstr "英語(オーストラリア)"
-
-msgid "British English"
-msgstr "英語(英国)"
-
-msgid "Esperanto"
-msgstr "エスペラント語"
-
-msgid "Spanish"
-msgstr "スペイン語"
-
-msgid "Argentinian Spanish"
-msgstr "アルゼンチンスペイン語"
-
-msgid "Colombian Spanish"
-msgstr "コロンビアスペイン語"
-
-msgid "Mexican Spanish"
-msgstr "メキシコスペイン語"
-
-msgid "Nicaraguan Spanish"
-msgstr "ニカラグアスペイン語"
-
-msgid "Venezuelan Spanish"
-msgstr "ベネズエラスペイン語"
-
-msgid "Estonian"
-msgstr "エストニア語"
-
-msgid "Basque"
-msgstr "バスク語"
-
-msgid "Persian"
-msgstr "ペルシア語"
-
-msgid "Finnish"
-msgstr "フィンランド語"
-
-msgid "French"
-msgstr "フランス語"
-
-msgid "Frisian"
-msgstr "フリジア語"
-
-msgid "Irish"
-msgstr "アイルランド語"
-
-msgid "Scottish Gaelic"
-msgstr "ゲール語(スコットランド)"
-
-msgid "Galician"
-msgstr "ガリシア語"
-
-msgid "Hebrew"
-msgstr "ヘブライ語"
-
-msgid "Hindi"
-msgstr "ヒンディー語"
-
-msgid "Croatian"
-msgstr "クロアチア語"
-
-msgid "Upper Sorbian"
-msgstr "高地ソルブ語"
-
-msgid "Hungarian"
-msgstr "ハンガリー語"
-
-msgid "Armenian"
-msgstr "アルメニア"
-
-msgid "Interlingua"
-msgstr "インターリングア"
-
-msgid "Indonesian"
-msgstr "インドネシア語"
-
-msgid "Igbo"
-msgstr "イグボ語"
-
-msgid "Ido"
-msgstr "イド語"
-
-msgid "Icelandic"
-msgstr "アイスランド語"
-
-msgid "Italian"
-msgstr "イタリア語"
-
-msgid "Japanese"
-msgstr "日本語"
-
-msgid "Georgian"
-msgstr "グルジア語"
-
-msgid "Kabyle"
-msgstr "カビル語"
-
-msgid "Kazakh"
-msgstr "カザフ語"
-
-msgid "Khmer"
-msgstr "クメール語"
-
-msgid "Kannada"
-msgstr "カンナダ語"
-
-msgid "Korean"
-msgstr "韓国語"
-
-msgid "Kyrgyz"
-msgstr "キルギス語"
-
-msgid "Luxembourgish"
-msgstr "ルクセンブルグ語"
-
-msgid "Lithuanian"
-msgstr "リトアニア語"
-
-msgid "Latvian"
-msgstr "ラトビア語"
-
-msgid "Macedonian"
-msgstr "マケドニア語"
-
-msgid "Malayalam"
-msgstr "マラヤーラム語"
-
-msgid "Mongolian"
-msgstr "モンゴル語"
-
-msgid "Marathi"
-msgstr "マラーティー語"
-
-msgid "Malay"
-msgstr "マレー語"
-
-msgid "Burmese"
-msgstr "ビルマ語"
-
-msgid "Norwegian Bokmål"
-msgstr "ノルウェーのブークモール"
-
-msgid "Nepali"
-msgstr "ネパール語"
-
-msgid "Dutch"
-msgstr "オランダ語"
-
-msgid "Norwegian Nynorsk"
-msgstr "ノルウェーのニーノシュク"
-
-msgid "Ossetic"
-msgstr "オセット語"
-
-msgid "Punjabi"
-msgstr "パンジャブ語"
-
-msgid "Polish"
-msgstr "ポーランド語"
-
-msgid "Portuguese"
-msgstr "ポルトガル語"
-
-msgid "Brazilian Portuguese"
-msgstr "ブラジルポルトガル語"
-
-msgid "Romanian"
-msgstr "ルーマニア語"
-
-msgid "Russian"
-msgstr "ロシア語"
-
-msgid "Slovak"
-msgstr "スロバキア語"
-
-msgid "Slovenian"
-msgstr "スロヴェニア語"
-
-msgid "Albanian"
-msgstr "アルバニア語"
-
-msgid "Serbian"
-msgstr "セルビア語"
-
-msgid "Serbian Latin"
-msgstr "セルビア語ラテン文字"
-
-msgid "Swedish"
-msgstr "スウェーデン語"
-
-msgid "Swahili"
-msgstr "スワヒリ語"
-
-msgid "Tamil"
-msgstr "タミル語"
-
-msgid "Telugu"
-msgstr "テルグ語"
-
-msgid "Tajik"
-msgstr "タジク語"
-
-msgid "Thai"
-msgstr "タイ語"
-
-msgid "Turkmen"
-msgstr "トルクメン語"
-
-msgid "Turkish"
-msgstr "トルコ語"
-
-msgid "Tatar"
-msgstr "タタール語"
-
-msgid "Udmurt"
-msgstr "ウドムルト語"
-
-msgid "Uyghur"
-msgstr "ウイグル語"
-
-msgid "Ukrainian"
-msgstr "ウクライナ語"
-
-msgid "Urdu"
-msgstr "ウルドゥー語"
-
-msgid "Uzbek"
-msgstr "ウズベク語"
-
-msgid "Vietnamese"
-msgstr "ベトナム語"
-
-msgid "Simplified Chinese"
-msgstr "簡体字中国語"
-
-msgid "Traditional Chinese"
-msgstr "繁体字中国語"
-
-msgid "Messages"
-msgstr "メッセージ"
-
-msgid "Site Maps"
-msgstr "サイトマップ"
-
-msgid "Static Files"
-msgstr "静的ファイル"
-
-msgid "Syndication"
-msgstr "シンジケーション"
-
-#. Translators: String used to replace omitted page numbers in elided page
-#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
-msgid "…"
-msgstr "…"
-
-msgid "That page number is not an integer"
-msgstr "このページ番号は整数ではありません。"
-
-msgid "That page number is less than 1"
-msgstr "ページ番号が 1 よりも小さいです。"
-
-msgid "That page contains no results"
-msgstr "このページには結果が含まれていません。"
-
-msgid "Enter a valid value."
-msgstr "値を正しく入力してください。"
-
-msgid "Enter a valid domain name."
-msgstr "有効なドメイン名を入力してください。"
-
-msgid "Enter a valid URL."
-msgstr "URLを正しく入力してください。"
-
-msgid "Enter a valid integer."
-msgstr "整数を正しく入力してください。"
-
-msgid "Enter a valid email address."
-msgstr "有効なメールアドレスを入力してください。"
-
-#. Translators: "letters" means latin letters: a-z and A-Z.
-msgid ""
-"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
-msgstr ""
-"“slug” には半角の英数字、アンダースコア、ハイフン以外は使用できません。"
-
-msgid ""
-"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
-"hyphens."
-msgstr ""
-"ユニコード文字、数字、アンダースコアまたはハイフンで構成された、有効なスラグ"
-"を入力してください。"
+#, python-format
+msgid "Delete selected %(verbose_name_plural)s"
+msgstr "選択された %(verbose_name_plural)s の削除"
 
 #, python-format
-msgid "Enter a valid %(protocol)s address."
-msgstr "有効な%(protocol)sアドレスを入力してください。"
-
-msgid "IPv4"
-msgstr "IPv4"
-
-msgid "IPv6"
-msgstr "IPv6"
-
-msgid "IPv4 or IPv6"
-msgstr "IPv4またはIPv6"
-
-msgid "Enter only digits separated by commas."
-msgstr "カンマ区切りの数字だけを入力してください。"
+msgid "Successfully deleted %(count)d %(items)s."
+msgstr "%(count)d 個の %(items)s を削除しました。"
 
 #, python-format
-msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr ""
-"この値は %(limit_value)s でなければなりません(実際には %(show_value)s でし"
-"た) 。"
+msgid "Cannot delete %(name)s"
+msgstr "%(name)s が削除できません"
 
-#, python-format
-msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr "この値は %(limit_value)s 以下でなければなりません。"
+msgid "Delete multiple objects"
+msgstr "複数のオブジェクトを削除します"
 
-#, python-format
-msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr "この値は %(limit_value)s 以上でなければなりません。"
+msgid "Administration"
+msgstr "管理"
 
-#, python-format
-msgid "Ensure this value is a multiple of step size %(limit_value)s."
-msgstr "この値は %(limit_value)s の倍数でなければなりません。"
-
-#, python-format
-msgid ""
-"Ensure this value is a multiple of step size %(limit_value)s, starting from "
-"%(offset)s, e.g. %(offset)s, %(valid_value1)s, %(valid_value2)s, and so on."
-msgstr ""
-"この値は%(offset)s から始まる %(limit_value)s の倍数でなければなりません。"
-"例. %(offset)s%(valid_value1)s%(valid_value2)s など。"
-
-#, python-format
-msgid ""
-"Ensure this value has at least %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at least %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"この値が少なくとも %(limit_value)d 文字以上であることを確認してください "
-"(%(show_value)d 文字になっています)。"
-
-#, python-format
-msgid ""
-"Ensure this value has at most %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at most %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"この値は %(limit_value)d 文字以下でなければなりません( %(show_value)d 文字に"
-"なっています)。"
-
-msgid "Enter a number."
-msgstr "数値を入力してください。"
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s digit in total."
-msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] "この値は合計 %(max)s 桁以内でなければなりません。"
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s decimal place."
-msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] "この値は小数点以下が合計 %(max)s 桁以内でなければなりません。"
-
-#, python-format
-msgid ""
-"Ensure that there are no more than %(max)s digit before the decimal point."
-msgid_plural ""
-"Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] "この値は小数点より前が合計 %(max)s 桁以内でなければなりません。"
-
-#, python-format
-msgid ""
-"File extension “%(extension)s” is not allowed. Allowed extensions are: "
-"%(allowed_extensions)s."
-msgstr ""
-"ファイル拡張子 “%(extension)s” は許可されていません。許可されている拡張子は "
-"%(allowed_extensions)s です。"
-
-msgid "Null characters are not allowed."
-msgstr "何か文字を入力してください。"
-
-msgid "and"
-msgstr "と"
-
-#, python-format
-msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr "この %(field_labels)s を持った %(model_name)s が既に存在します。"
-
-#, python-format
-msgid "Constraint “%(name)s” is violated."
-msgstr "制約 “%(name)s” に違反しています。"
-
-#, python-format
-msgid "Value %(value)r is not a valid choice."
-msgstr "%(value)r は有効な選択肢ではありません。"
-
-msgid "This field cannot be null."
-msgstr "このフィールドには NULL を指定できません。"
-
-msgid "This field cannot be blank."
-msgstr "このフィールドは空ではいけません。"
-
-#, python-format
-msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr "この %(field_label)s を持った %(model_name)s が既に存在します。"
-
-#. Translators: The 'lookup_type' is one of 'date', 'year' or
-#. 'month'. Eg: "Title must be unique for pub_date year"
-#, python-format
-msgid ""
-"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
-msgstr ""
-"%(date_field_label)s %(lookup_type)s では %(field_label)s がユニークである必"
-"要があります。"
-
-#, python-format
-msgid "Field of type: %(field_type)s"
-msgstr "タイプが %(field_type)s のフィールド"
-
-#, python-format
-msgid "“%(value)s” value must be either True or False."
-msgstr "“%(value)s” は True または False にしなければなりません。"
-
-#, python-format
-msgid "“%(value)s” value must be either True, False, or None."
-msgstr "“%(value)s” は True 、 False または None の値でなければなりません。"
-
-msgid "Boolean (Either True or False)"
-msgstr "ブール値 (真: True または偽: False)"
-
-#, python-format
-msgid "String (up to %(max_length)s)"
-msgstr "文字列 ( %(max_length)s 字まで )"
-
-msgid "String (unlimited)"
-msgstr "文字列 (無制限)"
-
-msgid "Comma-separated integers"
-msgstr "カンマ区切りの整数"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
-"format."
-msgstr ""
-"“%(value)s” は無効な日付形式です。YYYY-MM-DD 形式にしなければなりません。"
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
-"date."
-msgstr "“%(value)s” は有効な日付形式(YYYY-MM-DD)ですが、不正な日付です。"
-
-msgid "Date (without time)"
-msgstr "日付"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
-"uuuuuu]][TZ] format."
-msgstr ""
-"“%(value)s” は無効な形式の値です。 YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ] 形式で"
-"なければなりません。"
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
-"[TZ]) but it is an invalid date/time."
-msgstr ""
-"“%(value)s” は正しい形式 (YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ]) の値ですが、無"
-"効な日時です。"
-
-msgid "Date (with time)"
-msgstr "日時"
-
-#, python-format
-msgid "“%(value)s” value must be a decimal number."
-msgstr "“%(value)s” は10進浮動小数値にしなければなりません。"
-
-msgid "Decimal number"
-msgstr "10 進数 (小数可)"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
-"uuuuuu] format."
-msgstr ""
-"“%(value)s” は無効な形式の値です。 [DD] [HH:[MM:]]ss[.uuuuuu] 形式でなければ"
-"なりません。"
-
-msgid "Duration"
-msgstr "時間差分"
-
-msgid "Email address"
-msgstr "メールアドレス"
-
-msgid "File path"
-msgstr "ファイルの場所"
-
-#, python-format
-msgid "“%(value)s” value must be a float."
-msgstr "“%(value)s” は小数値にしなければなりません。"
-
-msgid "Floating point number"
-msgstr "浮動小数点"
-
-#, python-format
-msgid "“%(value)s” value must be an integer."
-msgstr "“%(value)s” は整数値にしなければなりません。"
-
-msgid "Integer"
-msgstr "整数"
-
-msgid "Big (8 byte) integer"
-msgstr "大きな(8バイト)整数"
-
-msgid "Small integer"
-msgstr "小さな整数"
-
-msgid "IPv4 address"
-msgstr "IPv4アドレス"
-
-msgid "IP address"
-msgstr "IP アドレス"
-
-#, python-format
-msgid "“%(value)s” value must be either None, True or False."
-msgstr "“%(value)s” は None、True または False の値でなければなりません。"
-
-msgid "Boolean (Either True, False or None)"
-msgstr "ブール値 (真: True 、偽: False または None)"
-
-msgid "Positive big integer"
-msgstr "正の多倍長整数"
-
-msgid "Positive integer"
-msgstr "正の整数"
-
-msgid "Positive small integer"
-msgstr "小さな正の整数"
-
-#, python-format
-msgid "Slug (up to %(max_length)s)"
-msgstr "スラグ(%(max_length)s文字以内)"
-
-msgid "Text"
-msgstr "テキスト"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
-"format."
-msgstr ""
-"“%(value)s” は無効な形式の値です。 HH:MM[:ss[.uuuuuu]] 形式でなければなりませ"
-"ん。"
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
-"invalid time."
-msgstr "“%(value)s” は正しい形式(HH:MM[:ss[.uuuuuu]])ですが、無効な時刻です。"
-
-msgid "Time"
-msgstr "時刻"
-
-msgid "URL"
-msgstr "URL"
-
-msgid "Raw binary data"
-msgstr "生のバイナリデータ"
-
-#, python-format
-msgid "“%(value)s” is not a valid UUID."
-msgstr "“%(value)s” は有効なUUIDではありません。"
-
-msgid "Universally unique identifier"
-msgstr "汎用一意識別子"
-
-msgid "File"
-msgstr "ファイル"
-
-msgid "Image"
-msgstr "画像"
-
-msgid "A JSON object"
-msgstr "JSONオブジェクト"
-
-msgid "Value must be valid JSON."
-msgstr "JSONとして正しい値にしてください。"
-
-#, python-format
-msgid "%(model)s instance with %(field)s %(value)r is not a valid choice."
-msgstr ""
-"%(field)s が %(value)r である %(model)s のインスタンスは有効な選択肢ではあり"
-"ません。"
-
-msgid "Foreign Key (type determined by related field)"
-msgstr "外部キー(型は関連フィールドによって決まります)"
-
-msgid "One-to-one relationship"
-msgstr "1対1の関連"
-
-#, python-format
-msgid "%(from)s-%(to)s relationship"
-msgstr "%(from)s-%(to)s の関連"
-
-#, python-format
-msgid "%(from)s-%(to)s relationships"
-msgstr "%(from)s-%(to)s の関連"
-
-msgid "Many-to-many relationship"
-msgstr "多対多の関連"
-
-#. Translators: If found as last label character, these punctuation
-#. characters will prevent the default label_suffix to be appended to the
-#. label
-msgid ":?.!"
-msgstr ":?.!"
-
-msgid "This field is required."
-msgstr "このフィールドは必須です。"
-
-msgid "Enter a whole number."
-msgstr "整数を入力してください。"
-
-msgid "Enter a valid date."
-msgstr "日付を正しく入力してください。"
-
-msgid "Enter a valid time."
-msgstr "時間を正しく入力してください。"
-
-msgid "Enter a valid date/time."
-msgstr "日時を正しく入力してください。"
-
-msgid "Enter a valid duration."
-msgstr "時間差分を正しく入力してください。"
-
-#, python-brace-format
-msgid "The number of days must be between {min_days} and {max_days}."
-msgstr "日数は{min_days}から{max_days}の間でなければなりません。"
-
-msgid "No file was submitted. Check the encoding type on the form."
-msgstr ""
-"ファイルが取得できませんでした。フォームのencoding typeを確認してください。"
-
-msgid "No file was submitted."
-msgstr "ファイルが送信されていません。"
-
-msgid "The submitted file is empty."
-msgstr "入力されたファイルは空です。"
-
-#, python-format
-msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
-msgid_plural ""
-"Ensure this filename has at most %(max)d characters (it has %(length)d)."
-msgstr[0] ""
-"このファイル名は %(max)d 文字以下でなければなりません( %(length)d 文字になっ"
-"ています)。"
-
-msgid "Please either submit a file or check the clear checkbox, not both."
-msgstr ""
-"ファイルを投稿するか、クリアチェックボックスをチェックするかどちらかを選択し"
-"てください。両方とも行ってはいけません。"
-
-msgid ""
-"Upload a valid image. The file you uploaded was either not an image or a "
-"corrupted image."
-msgstr ""
-"画像をアップロードしてください。アップロードしたファイルは画像でないか、また"
-"は壊れています。"
-
-#, python-format
-msgid "Select a valid choice. %(value)s is not one of the available choices."
-msgstr "正しく選択してください。 %(value)s は候補にありません。"
-
-msgid "Enter a list of values."
-msgstr "リストを入力してください。"
-
-msgid "Enter a complete value."
-msgstr "すべての値を入力してください。"
-
-msgid "Enter a valid UUID."
-msgstr "UUIDを正しく入力してください。"
-
-msgid "Enter a valid JSON."
-msgstr "JSONを正しく入力してください。"
-
-#. Translators: This is the default suffix added to form field labels
-msgid ":"
-msgstr ":"
-
-#, python-format
-msgid "(Hidden field %(name)s) %(error)s"
-msgstr "(隠しフィールド %(name)s) %(error)s"
-
-#, python-format
-msgid ""
-"ManagementForm data is missing or has been tampered with. Missing fields: "
-"%(field_names)s. You may need to file a bug report if the issue persists."
-msgstr ""
-"ManagementForm のデータが不足しているか改竄されています。不足するフィールドの"
-"数: %(field_names)s  。問題が続くようならバグレポートを出す必要があるかもしれ"
-"ません。"
-
-#, python-format
-msgid "Please submit at most %(num)d form."
-msgid_plural "Please submit at most %(num)d forms."
-msgstr[0] "最大で %(num)d 個のフォームを送信してください。"
-
-#, python-format
-msgid "Please submit at least %(num)d form."
-msgid_plural "Please submit at least %(num)d forms."
-msgstr[0] "少なくとも %(num)d 個のフォームを送信してください。"
-
-msgid "Order"
-msgstr "並び変え"
-
-msgid "Delete"
-msgstr "削除"
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s."
-msgstr "%(field)s の重複したデータを修正してください。"
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr ""
-"%(field)s の重複したデータを修正してください。このフィールドはユニークである"
-"必要があります。"
-
-#, python-format
-msgid ""
-"Please correct the duplicate data for %(field_name)s which must be unique "
-"for the %(lookup)s in %(date_field)s."
-msgstr ""
-"%(field_name)s の重複したデータを修正してください。%(date_field)s %(lookup)s "
-"では %(field_name)s がユニークである必要があります。"
-
-msgid "Please correct the duplicate values below."
-msgstr "下記の重複したデータを修正してください。"
-
-msgid "The inline value did not match the parent instance."
-msgstr "インライン値が親のインスタンスに一致しません。"
-
-msgid "Select a valid choice. That choice is not one of the available choices."
-msgstr "正しく選択してください。選択したものは候補にありません。"
-
-#, python-format
-msgid "“%(pk)s” is not a valid value."
-msgstr "“%(pk)s” は無効な値です。"
-
-#, python-format
-msgid ""
-"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
-"may be ambiguous or it may not exist."
-msgstr ""
-"%(datetime)s は %(current_timezone)s のタイムゾーンでは解釈できませんでした。"
-"それは曖昧であるか、存在しない可能性があります。"
-
-msgid "Clear"
-msgstr "クリア"
-
-msgid "Currently"
-msgstr "現在"
-
-msgid "Change"
-msgstr "変更"
-
-msgid "Unknown"
-msgstr "不明"
+msgid "All"
+msgstr "全て"
 
 msgid "Yes"
 msgstr "はい"
@@ -875,459 +58,730 @@ msgstr "はい"
 msgid "No"
 msgstr "いいえ"
 
-#. Translators: Please do not add spaces around commas.
-msgid "yes,no,maybe"
-msgstr "はい,いいえ,たぶん"
+msgid "Unknown"
+msgstr "不明"
 
-#, python-format
-msgid "%(size)d byte"
-msgid_plural "%(size)d bytes"
-msgstr[0] "%(size)d バイト"
+msgid "Any date"
+msgstr "いつでも"
 
-#, python-format
-msgid "%s KB"
-msgstr "%s KB"
+msgid "Today"
+msgstr "今日"
 
-#, python-format
-msgid "%s MB"
-msgstr "%s MB"
+msgid "Past 7 days"
+msgstr "過去 7 日間"
 
-#, python-format
-msgid "%s GB"
-msgstr "%s GB"
+msgid "This month"
+msgstr "今月"
 
-#, python-format
-msgid "%s TB"
-msgstr "%s TB"
+msgid "This year"
+msgstr "今年"
 
-#, python-format
-msgid "%s PB"
-msgstr "%s PB"
+msgid "No date"
+msgstr "日付なし"
 
-msgid "p.m."
-msgstr "p.m."
+msgid "Has date"
+msgstr "日付あり"
 
-msgid "a.m."
-msgstr "a.m."
+msgid "Empty"
+msgstr "空"
 
-msgid "PM"
-msgstr "PM"
-
-msgid "AM"
-msgstr "AM"
-
-msgid "midnight"
-msgstr "0時"
-
-msgid "noon"
-msgstr "12時"
-
-msgid "Monday"
-msgstr "月曜日"
-
-msgid "Tuesday"
-msgstr "火曜日"
-
-msgid "Wednesday"
-msgstr "水曜日"
-
-msgid "Thursday"
-msgstr "木曜日"
-
-msgid "Friday"
-msgstr "金曜日"
-
-msgid "Saturday"
-msgstr "土曜日"
-
-msgid "Sunday"
-msgstr "日曜日"
-
-msgid "Mon"
-msgstr "月"
-
-msgid "Tue"
-msgstr "火"
-
-msgid "Wed"
-msgstr "水"
-
-msgid "Thu"
-msgstr "木"
-
-msgid "Fri"
-msgstr "金"
-
-msgid "Sat"
-msgstr "土"
-
-msgid "Sun"
-msgstr "日"
-
-msgid "January"
-msgstr "1月"
-
-msgid "February"
-msgstr "2月"
-
-msgid "March"
-msgstr "3月"
-
-msgid "April"
-msgstr "4月"
-
-msgid "May"
-msgstr "5月"
-
-msgid "June"
-msgstr "6月"
-
-msgid "July"
-msgstr "7月"
-
-msgid "August"
-msgstr "8月"
-
-msgid "September"
-msgstr "9月"
-
-msgid "October"
-msgstr "10月"
-
-msgid "November"
-msgstr "11月"
-
-msgid "December"
-msgstr "12月"
-
-msgid "jan"
-msgstr "1月"
-
-msgid "feb"
-msgstr "2月"
-
-msgid "mar"
-msgstr "3月"
-
-msgid "apr"
-msgstr "4月"
-
-msgid "may"
-msgstr "5月"
-
-msgid "jun"
-msgstr "6月"
-
-msgid "jul"
-msgstr "7月"
-
-msgid "aug"
-msgstr "8月"
-
-msgid "sep"
-msgstr "9月"
-
-msgid "oct"
-msgstr "10月"
-
-msgid "nov"
-msgstr "11月"
-
-msgid "dec"
-msgstr "12月"
-
-msgctxt "abbrev. month"
-msgid "Jan."
-msgstr "1月"
-
-msgctxt "abbrev. month"
-msgid "Feb."
-msgstr "2月"
-
-msgctxt "abbrev. month"
-msgid "March"
-msgstr "3月"
-
-msgctxt "abbrev. month"
-msgid "April"
-msgstr "4月"
-
-msgctxt "abbrev. month"
-msgid "May"
-msgstr "5月"
-
-msgctxt "abbrev. month"
-msgid "June"
-msgstr "6月"
-
-msgctxt "abbrev. month"
-msgid "July"
-msgstr "7月"
-
-msgctxt "abbrev. month"
-msgid "Aug."
-msgstr "8月"
-
-msgctxt "abbrev. month"
-msgid "Sept."
-msgstr "9月"
-
-msgctxt "abbrev. month"
-msgid "Oct."
-msgstr "10月"
-
-msgctxt "abbrev. month"
-msgid "Nov."
-msgstr "11月"
-
-msgctxt "abbrev. month"
-msgid "Dec."
-msgstr "12月"
-
-msgctxt "alt. month"
-msgid "January"
-msgstr "1月"
-
-msgctxt "alt. month"
-msgid "February"
-msgstr "2月"
-
-msgctxt "alt. month"
-msgid "March"
-msgstr "3月"
-
-msgctxt "alt. month"
-msgid "April"
-msgstr "4月"
-
-msgctxt "alt. month"
-msgid "May"
-msgstr "5月"
-
-msgctxt "alt. month"
-msgid "June"
-msgstr "6月"
-
-msgctxt "alt. month"
-msgid "July"
-msgstr "7月"
-
-msgctxt "alt. month"
-msgid "August"
-msgstr "8月"
-
-msgctxt "alt. month"
-msgid "September"
-msgstr "9月"
-
-msgctxt "alt. month"
-msgid "October"
-msgstr "10月"
-
-msgctxt "alt. month"
-msgid "November"
-msgstr "11月"
-
-msgctxt "alt. month"
-msgid "December"
-msgstr "12月"
-
-msgid "This is not a valid IPv6 address."
-msgstr "これは有効なIPv6アドレスではありません。"
-
-#, python-format
-msgctxt "String to return when truncating text"
-msgid "%(truncated_text)s…"
-msgstr "%(truncated_text)s…"
-
-msgid "or"
-msgstr "または"
-
-#. Translators: This string is used as a separator between list elements
-msgid ", "
-msgstr ", "
-
-#, python-format
-msgid "%(num)d year"
-msgid_plural "%(num)d years"
-msgstr[0] "%(num)d年"
-
-#, python-format
-msgid "%(num)d month"
-msgid_plural "%(num)d months"
-msgstr[0] "%(num)dヶ月"
-
-#, python-format
-msgid "%(num)d week"
-msgid_plural "%(num)d weeks"
-msgstr[0] "%(num)d週間"
-
-#, python-format
-msgid "%(num)d day"
-msgid_plural "%(num)d days"
-msgstr[0] "%(num)d日"
-
-#, python-format
-msgid "%(num)d hour"
-msgid_plural "%(num)d hours"
-msgstr[0] "%(num)d時間"
-
-#, python-format
-msgid "%(num)d minute"
-msgid_plural "%(num)d minutes"
-msgstr[0] "%(num)d分"
-
-msgid "Forbidden"
-msgstr "アクセス禁止"
-
-msgid "CSRF verification failed. Request aborted."
-msgstr "CSRF検証に失敗したため、リクエストは中断されました。"
-
-msgid ""
-"You are seeing this message because this HTTPS site requires a “Referer "
-"header” to be sent by your web browser, but none was sent. This header is "
-"required for security reasons, to ensure that your browser is not being "
-"hijacked by third parties."
-msgstr ""
-"このメッセージが表示されている理由は、このHTTPSのサイトはウェブブラウザからリ"
-"ファラーヘッダが送信されることを必須としていますが、送信されなかったためで"
-"す。このヘッダはセキュリティ上の理由（使用中のブラウザが第三者によってハイ"
-"ジャックされていないことを確認するため）で必要です。"
-
-msgid ""
-"If you have configured your browser to disable “Referer” headers, please re-"
-"enable them, at least for this site, or for HTTPS connections, or for “same-"
-"origin” requests."
-msgstr ""
-"もしブラウザのリファラーヘッダを無効に設定しているならば、HTTPS接続やsame-"
-"originリクエストのために、少なくともこのサイトでは再度有効にしてください。"
-
-msgid ""
-"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
-"including the “Referrer-Policy: no-referrer” header, please remove them. The "
-"CSRF protection requires the “Referer” header to do strict referer checking. "
-"If you’re concerned about privacy, use alternatives like <a "
-"rel=\"noreferrer\" …> for links to third-party sites."
-msgstr ""
-"もし <meta name=\"referrer\" content=\"no-referrer\"> タグを使用しているか "
-"“Referrer-Policy: no-referrer” ヘッダを含んでいる場合は削除してください。"
-"CSRF プロテクションは、厳密に “Referer” ヘッダが必要です。プライバシーが気に"
-"なる場合は <a rel=\"noreferrer\" …> などの代替で第三者サイトと接続してくださ"
-"い。"
-
-msgid ""
-"You are seeing this message because this site requires a CSRF cookie when "
-"submitting forms. This cookie is required for security reasons, to ensure "
-"that your browser is not being hijacked by third parties."
-msgstr ""
-"このメッセージが表示されている理由は、このサイトはフォーム送信時にCSRFクッ"
-"キーを必須としているためです。このクッキーはセキュリティ上の理由(使用中のブラ"
-"ウザが第三者によってハイジャックされていないことを確認するため)で必要です。"
-
-msgid ""
-"If you have configured your browser to disable cookies, please re-enable "
-"them, at least for this site, or for “same-origin” requests."
-msgstr ""
-"もしブラウザのクッキーを無効に設定しているならば、same-originリクエストのため"
-"に少なくともこのサイトでは再度有効にしてください。"
-
-msgid "More information is available with DEBUG=True."
-msgstr "詳細な情報は DEBUG=True を設定すると利用できます。"
-
-msgid "No year specified"
-msgstr "年が未指定です"
-
-msgid "Date out of range"
-msgstr "日付が有効範囲外です"
-
-msgid "No month specified"
-msgstr "月が未指定です"
-
-msgid "No day specified"
-msgstr "日が未指定です"
-
-msgid "No week specified"
-msgstr "週が未指定です"
-
-#, python-format
-msgid "No %(verbose_name_plural)s available"
-msgstr "%(verbose_name_plural)s は利用できません"
+msgid "Not empty"
+msgstr "空でない"
 
 #, python-format
 msgid ""
-"Future %(verbose_name_plural)s not available because %(class_name)s."
-"allow_future is False."
+"Please enter the correct %(username)s and password for a staff account. Note "
+"that both fields may be case-sensitive."
 msgstr ""
-"%(class_name)s.allow_futureがFalseであるため、未来の%(verbose_name_plural)sは"
-"利用できません。"
+"スタッフアカウントの正しい%(username)sとパスワードを入力してください。どちら"
+"のフィールドも大文字と小文字は区別されます。"
+
+msgid "Action:"
+msgstr "操作:"
 
 #, python-format
-msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
-msgstr "指定された形式 “%(format)s” では “%(datestr)s” は無効な日付文字列です"
+msgid "Add another %(verbose_name)s"
+msgstr "%(verbose_name)s の追加"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Addition"
+msgstr "追加"
+
+msgid "Change"
+msgstr "変更"
+
+msgid "Deletion"
+msgstr "削除"
+
+msgid "action time"
+msgstr "操作時刻"
+
+msgid "user"
+msgstr "ユーザー"
+
+msgid "content type"
+msgstr "コンテンツタイプ"
+
+msgid "object id"
+msgstr "オブジェクト ID"
+
+#. Translators: 'repr' means representation
+#. (https://docs.python.org/library/functions.html#repr)
+msgid "object repr"
+msgstr "オブジェクトの文字列表現"
+
+msgid "action flag"
+msgstr "操作種別"
+
+msgid "change message"
+msgstr "変更メッセージ"
+
+msgid "log entry"
+msgstr "ログエントリー"
+
+msgid "log entries"
+msgstr "ログエントリー"
 
 #, python-format
-msgid "No %(verbose_name)s found matching the query"
-msgstr "クエリーに一致する %(verbose_name)s は見つかりませんでした"
-
-msgid "Page is not “last”, nor can it be converted to an int."
-msgstr "ページが 「最後」ではないか、数値に変換できる値ではありません。"
+msgid "Added “%(object)s”."
+msgstr "“%(object)s” を追加しました。"
 
 #, python-format
-msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr "無効なページです (%(page_number)s): %(message)s"
+msgid "Changed “%(object)s” — %(changes)s"
+msgstr "“%(object)s” を変更しました — %(changes)s"
 
 #, python-format
-msgid "Empty list and “%(class_name)s.allow_empty” is False."
-msgstr "空の一覧かつ “%(class_name)s.allow_empty” が False です。"
+msgid "Deleted “%(object)s.”"
+msgstr "“%(object)s” を削除しました。"
 
-msgid "Directory indexes are not allowed here."
-msgstr "ここではディレクトリインデックスが許可されていません。"
+msgid "LogEntry Object"
+msgstr "ログエントリー オブジェクト"
+
+#, python-brace-format
+msgid "Added {name} “{object}”."
+msgstr "{name} “{object}” を追加しました。"
+
+msgid "Added."
+msgstr "追加されました。"
+
+msgid "and"
+msgstr "と"
+
+#, python-brace-format
+msgid "Changed {fields} for {name} “{object}”."
+msgstr "{name} “{object}” の {fields} を変更しました。"
+
+#, python-brace-format
+msgid "Changed {fields}."
+msgstr "{fields} を変更しました。"
+
+#, python-brace-format
+msgid "Deleted {name} “{object}”."
+msgstr "{name} “{object}” を削除しました。"
+
+msgid "No fields changed."
+msgstr "変更はありませんでした。"
+
+msgid "None"
+msgstr "None"
+
+msgid "Hold down “Control”, or “Command” on a Mac, to select more than one."
+msgstr ""
+"複数選択するときには Control キーを押したまま選択してください。Mac は "
+"Command キーを使ってください"
+
+msgid "Select this object for an action - {}"
+msgstr "アクション用にこのオブジェクトを選択 - {}"
+
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully."
+msgstr "{name} “{obj}” を追加しました。"
+
+msgid "You may edit it again below."
+msgstr "以下で再度編集できます。"
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was added successfully. You may add another {name} below."
+msgstr "{name} “{obj}” を追加しました。別の {name} を以下から追加できます。"
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may edit it again below."
+msgstr "{name} “{obj}” を変更しました。以下から再度編集できます。"
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may add another {name} "
+"below."
+msgstr "{name} “{obj}” を変更しました。 別の {name} を以下から追加できます。"
+
+#, python-brace-format
+msgid "The {name} “{obj}” was changed successfully."
+msgstr "{name} “{obj}” を変更しました。"
+
+msgid ""
+"Items must be selected in order to perform actions on them. No items have "
+"been changed."
+msgstr ""
+"操作を実行するには、対象を選択する必要があります。何も変更されませんでした。"
+
+msgid "No action selected."
+msgstr "操作が選択されていません。"
 
 #, python-format
-msgid "“%(path)s” does not exist"
-msgstr "“%(path)s” が存在しません"
+msgid "The %(name)s “%(obj)s” was deleted successfully."
+msgstr "%(name)s “%(obj)s” を削除しました。"
 
 #, python-format
-msgid "Index of %(directory)s"
-msgstr "%(directory)sのディレクトリインデックス"
+msgid "%(name)s with ID “%(key)s” doesn’t exist. Perhaps it was deleted?"
+msgstr ""
+"ID “%(key)s” の%(name)sは見つかりませんでした。削除された可能性があります。"
 
-msgid "The install worked successfully! Congratulations!"
-msgstr "インストールは成功しました！おめでとうございます！"
+#, python-format
+msgid "Add %s"
+msgstr "%s を追加"
+
+#, python-format
+msgid "Change %s"
+msgstr "%s を変更"
+
+#, python-format
+msgid "View %s"
+msgstr "%sを表示"
+
+msgid "Database error"
+msgstr "データベースエラー"
+
+#, python-format
+msgid "%(count)s %(name)s was changed successfully."
+msgid_plural "%(count)s %(name)s were changed successfully."
+msgstr[0] "%(count)s 個の %(name)s を変更しました。"
+
+#, python-format
+msgid "%(total_count)s selected"
+msgid_plural "All %(total_count)s selected"
+msgstr[0] "%(total_count)s 個選択されました"
+
+#, python-format
+msgid "0 of %(cnt)s selected"
+msgstr "%(cnt)s個の内ひとつも選択されていません"
+
+msgid "Delete"
+msgstr "削除"
+
+#, python-format
+msgid "Change history: %s"
+msgstr "変更履歴: %s"
+
+#. Translators: Model verbose name and instance
+#. representation, suitable to be an item in a
+#. list.
+#, python-format
+msgid "%(class_name)s %(instance)s"
+msgstr "%(class_name)s %(instance)s"
 
 #, python-format
 msgid ""
-"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+"Deleting %(class_name)s %(instance)s would require deleting the following "
+"protected related objects: %(related_objects)s"
 msgstr ""
-"Django%(version)sの<a href=\"https://docs.djangoproject.com/en/%(version)s/"
-"releases/\" target=\"_blank\" rel=\"noopener\">リリースノート</a>を見る。"
+"%(class_name)s %(instance)s を削除するには以下の保護された関連オブジェクトを"
+"削除することになります: %(related_objects)s"
+
+msgid "Django site admin"
+msgstr "Django サイト管理"
+
+msgid "Django administration"
+msgstr "Django 管理サイト"
+
+msgid "Site administration"
+msgstr "サイト管理"
+
+msgid "Log in"
+msgstr "ログイン"
+
+#, python-format
+msgid "%(app)s administration"
+msgstr "%(app)s 管理"
+
+msgid "Page not found"
+msgstr "ページが見つかりません"
+
+msgid "We’re sorry, but the requested page could not be found."
+msgstr "申し訳ありませんが、お探しのページは見つかりませんでした。"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "Server error"
+msgstr "サーバーエラー"
+
+msgid "Server error (500)"
+msgstr "サーバーエラー (500)"
+
+msgid "Server Error <em>(500)</em>"
+msgstr "サーバーエラー <em>(500)</em>"
+
+msgid ""
+"There’s been an error. It’s been reported to the site administrators via "
+"email and should be fixed shortly. Thanks for your patience."
+msgstr ""
+"エラーが発生しました。サイト管理者にメールで報告されたので、修正されるまでし"
+"ばらくお待ちください。"
+
+msgid "Run the selected action"
+msgstr "選択された操作を実行"
+
+msgid "Go"
+msgstr "実行"
+
+msgid "Click here to select the objects across all pages"
+msgstr "全ページの項目を選択するにはここをクリック"
+
+#, python-format
+msgid "Select all %(total_count)s %(module_name)s"
+msgstr "%(total_count)s個ある%(module_name)s を全て選択"
+
+msgid "Clear selection"
+msgstr "選択を解除"
+
+msgid "Breadcrumbs"
+msgstr "パンくずリスト"
+
+#, python-format
+msgid "Models in the %(name)s application"
+msgstr "%(name)s アプリケーション内のモデル"
+
+msgid "Model name"
+msgstr "モデル名"
+
+msgid "Add link"
+msgstr "追加のリンク"
+
+msgid "Change or view list link"
+msgstr "変更または表示のリンク"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "View"
+msgstr "表示"
+
+msgid "You don’t have permission to view or edit anything."
+msgstr "表示または変更のためのパーミッションがありません。"
+
+msgid "After you’ve created a user, you’ll be able to edit more user options."
+msgstr "ユーザーを作成後に詳細情報が編集可能になります。"
+
+msgid "Error:"
+msgstr "エラー:"
+
+msgid "Change password"
+msgstr "パスワードの変更"
+
+msgid "Set password"
+msgstr "パスワードを設定"
+
+msgid "Please correct the error below."
+msgid_plural "Please correct the errors below."
+msgstr[0] "下記のエラーを修正してください。"
+
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr ""
+"<strong>%(username)s</strong>さんの新しいパスワードを入力してください。"
+
+msgid ""
+"This action will <strong>enable</strong> password-based authentication for "
+"this user."
+msgstr ""
+"このアクションは、このユーザーに対するパスワードによる認証を有効にします。"
+
+msgid "Disable password-based authentication"
+msgstr "パスワードによる認証の無効化"
+
+msgid "Enable password-based authentication"
+msgstr "パスワードによる認証の有効化"
+
+msgid "Skip to main content"
+msgstr "スキップしてメインコンテンツへ"
+
+msgid "Welcome,"
+msgstr "ようこそ"
+
+msgid "View site"
+msgstr "サイトを表示"
+
+msgid "Documentation"
+msgstr "ドキュメント"
+
+msgid "Log out"
+msgstr "ログアウト"
+
+#, python-format
+msgid "Add %(name)s"
+msgstr "%(name)s を追加"
+
+msgid "History"
+msgstr "履歴"
+
+msgid "View on site"
+msgstr "サイト上で表示"
+
+msgid "Filter"
+msgstr "フィルター"
+
+msgid "Hide counts"
+msgstr "件数を非表示"
+
+msgid "Show counts"
+msgstr "件数を表示"
+
+msgid "Clear all filters"
+msgstr "全てのフィルターを解除"
+
+msgid "Remove from sorting"
+msgstr "ソート条件から外します"
+
+#, python-format
+msgid "Sorting priority: %(priority_number)s"
+msgstr "ソート優先順位: %(priority_number)s"
+
+msgid "Toggle sorting"
+msgstr "昇順降順を切り替えます"
+
+msgid "Toggle theme (current theme: auto)"
+msgstr "テーマを切り替え (現在のテーマ: 自動)"
+
+msgid "Toggle theme (current theme: light)"
+msgstr "テーマを切り替え (現在のテーマ: ライト)"
+
+msgid "Toggle theme (current theme: dark)"
+msgstr "テーマを切り替え (現在のテーマ: ダーク)"
 
 #, python-format
 msgid ""
-"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
-"configured any URLs."
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
 msgstr ""
-"このページは、設定ファイルで<a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a>が指定され、何もURLが設定されていない時に表示"
-"されます。"
+"%(object_name)s '%(escaped_object)s' の削除時に関連づけられたオブジェクトも削"
+"除しようとしましたが、あなたのアカウントには以下のタイプのオブジェクトを削除"
+"するパーミッションがありません:"
 
-msgid "Django Documentation"
-msgstr "Django ドキュメント"
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would require deleting the "
+"following protected related objects:"
+msgstr ""
+"%(object_name)s '%(escaped_object)s' を削除するには以下の保護された関連オブ"
+"ジェクトを削除することになります:"
 
-msgid "Topics, references, &amp; how-to’s"
-msgstr "トピック、リファレンス、ハウツー"
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr ""
+"%(object_name)s \"%(escaped_object)s\"を削除しますか？ 関連づけられている以下"
+"のオブジェクトも全て削除されます:"
 
-msgid "Tutorial: A Polling App"
-msgstr "チュートリアル: 投票アプリケーション"
+msgid "Objects"
+msgstr "オブジェクト"
 
-msgid "Get started with Django"
-msgstr "Djangoを始めよう"
+msgid "Yes, I’m sure"
+msgstr "はい、大丈夫です"
 
-msgid "Django Community"
-msgstr "Djangoのコミュニティ"
+msgid "No, take me back"
+msgstr "戻る"
 
-msgid "Connect, get help, or contribute"
-msgstr "つながり、助け合い、貢献しよう"
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would result in deleting related "
+"objects, but your account doesn't have permission to delete the following "
+"types of objects:"
+msgstr ""
+"選択した %(objects_name)s を削除すると関連するオブジェクトも削除しますが、あ"
+"なたのアカウントは以下のオブジェクト型を削除する権限がありません:"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would require deleting the following "
+"protected related objects:"
+msgstr ""
+"選択した %(objects_name)s を削除すると以下の保護された関連オブジェクトを削除"
+"することになります:"
+
+#, python-format
+msgid ""
+"Are you sure you want to delete the selected %(objects_name)s? All of the "
+"following objects and their related items will be deleted:"
+msgstr ""
+"本当に選択した %(objects_name)s を削除しますか？ 以下の全てのオブジェクトと関"
+"連する要素が削除されます:"
+
+msgid "Delete?"
+msgstr "削除しますか?"
+
+#, python-format
+msgid " By %(filter_title)s "
+msgstr "%(filter_title)s で絞り込む"
+
+msgid "Summary"
+msgstr "概要"
+
+msgid "Recent actions"
+msgstr "最近行った操作"
+
+msgid "My actions"
+msgstr "自分の操作"
+
+msgid "None available"
+msgstr "利用不可"
+
+msgid "Added:"
+msgstr "追加されました:"
+
+msgid "Changed:"
+msgstr "変更されました:"
+
+msgid "Deleted:"
+msgstr "削除されました:"
+
+msgid "Unknown content"
+msgstr "不明なコンテント"
+
+msgid ""
+"Something’s wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
+msgstr ""
+"データベースのインストールに問題があります。適切なデータベーステーブルが作ら"
+"れているか、適切なユーザーがデータベースを読み込み可能かを確認してください。"
+
+#, python-format
+msgid ""
+"You are authenticated as %(username)s, but are not authorized to access this "
+"page. Would you like to login to a different account?"
+msgstr ""
+"あなたは %(username)s として認証されましたが、このページへのアクセス許可があ"
+"りません。他のアカウントでログインしますか?"
+
+msgid "Forgotten your login credentials?"
+msgstr "ログイン認証情報を忘れましたか？"
+
+msgid "Toggle navigation"
+msgstr "ナビゲーションを切り替えます"
+
+msgid "Sidebar"
+msgstr "サイドバー"
+
+msgid "Start typing to filter…"
+msgstr "絞り込みの入力..."
+
+msgid "Filter navigation items"
+msgstr "ナビゲーション項目の絞り込み"
+
+msgid "Date/time"
+msgstr "日付/時刻"
+
+msgid "User"
+msgstr "ユーザー"
+
+msgid "Action"
+msgstr "操作"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "エントリー"
+
+msgid ""
+"This object doesn’t have a change history. It probably wasn’t added via this "
+"admin site."
+msgstr ""
+"このオブジェクトには変更履歴がありません。おそらくこの管理サイトで追加したも"
+"のではありません。"
+
+msgid "Show all"
+msgstr "全件表示"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Popup closing…"
+msgstr "ポップアップを閉じています..."
+
+msgid "Search"
+msgstr "検索"
+
+#, python-format
+msgid "%(counter)s result"
+msgid_plural "%(counter)s results"
+msgstr[0] "結果 %(counter)s"
+
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr "全 %(full_result_count)s 件"
+
+msgid "Save as new"
+msgstr "新規保存"
+
+msgid "Save and add another"
+msgstr "保存してもう一つ追加"
+
+msgid "Save and continue editing"
+msgstr "保存して編集を続ける"
+
+msgid "Save and view"
+msgstr "保存して表示"
+
+msgid "Close"
+msgstr "閉じる"
+
+#, python-format
+msgid "Change selected %(model)s"
+msgstr "選択された %(model)s の変更"
+
+#, python-format
+msgid "Add another %(model)s"
+msgstr "%(model)s の追加"
+
+#, python-format
+msgid "Delete selected %(model)s"
+msgstr "選択された %(model)s を削除"
+
+#, python-format
+msgid "View selected %(model)s"
+msgstr "選択された %(model)s を表示"
+
+msgid "Thanks for spending some quality time with the web site today."
+msgstr "ご利用ありがとうございました。"
+
+msgid "Log in again"
+msgstr "もう一度ログイン"
+
+msgid "Password change"
+msgstr "パスワードの変更"
+
+msgid "Your password was changed."
+msgstr "あなたのパスワードは変更されました"
+
+msgid ""
+"Please enter your old password, for security’s sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+"セキュリティ上の理由から元のパスワードの入力が必要です。新しいパスワードは正"
+"しく入力したか確認できるように二度入力してください。"
+
+msgid "Change my password"
+msgstr "パスワードの変更"
+
+msgid "Password reset"
+msgstr "パスワードをリセット"
+
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr "パスワードがセットされました。ログインしてください。"
+
+msgid "Password reset confirmation"
+msgstr "パスワードリセットの確認"
+
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr "確認のために、新しいパスワードを二回入力してください。"
+
+msgid "New password:"
+msgstr "新しいパスワード:"
+
+msgid "Confirm password:"
+msgstr "新しいパスワード (確認用) :"
+
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr ""
+"パスワードリセットのリンクが不正です。おそらくこのリンクは既に使われていま"
+"す。もう一度パスワードリセットしてください。"
+
+msgid ""
+"We’ve emailed you instructions for setting your password, if an account "
+"exists with the email you entered. You should receive them shortly."
+msgstr ""
+"入力されたメールアドレスを持つアカウントが存在する場合、パスワードを設定する"
+"ためのメールを送信しました。すぐに届くはずです。"
+
+msgid ""
+"If you don’t receive an email, please make sure you’ve entered the address "
+"you registered with, and check your spam folder."
+msgstr ""
+"メールが届かない場合は、登録したメールアドレスを入力したか確認し、スパムフォ"
+"ルダに入っていないか確認してください。"
+
+#, python-format
+msgid ""
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr ""
+"このメールは %(site_name)s で、あなたのアカウントのパスワードリセットが要求さ"
+"れたため、送信されました。"
+
+msgid "Please go to the following page and choose a new password:"
+msgstr "次のページで新しいパスワードを選んでください:"
+
+msgid "In case you’ve forgotten, you are:"
+msgstr "忘れてしまった場合、あなたのユーザー名:"
+
+msgid "Thanks for using our site!"
+msgstr "ご利用ありがとうございました！"
+
+#, python-format
+msgid "The %(site_name)s team"
+msgstr " %(site_name)s チーム"
+
+msgid ""
+"Forgotten your password? Enter your email address below, and we’ll email "
+"instructions for setting a new one."
+msgstr ""
+"パスワードを忘れましたか? メールアドレスを以下に入力すると、新しいパスワード"
+"の設定方法をお知らせします。"
+
+msgid "Email address:"
+msgstr "メールアドレス:"
+
+msgid "Reset my password"
+msgstr "パスワードをリセット"
+
+msgid "Select all objects on this page for an action"
+msgstr "アクション用にこのページのすべてのオブジェクトを選択"
+
+msgid "All dates"
+msgstr "いつでも"
+
+#, python-format
+msgid "Select %s"
+msgstr "%s を選択"
+
+#, python-format
+msgid "Select %s to change"
+msgstr "変更する %s を選択"
+
+#, python-format
+msgid "Select %s to view"
+msgstr "表示する%sを選択"
+
+msgid "Date:"
+msgstr "日付:"
+
+msgid "Time:"
+msgstr "時刻:"
+
+msgid "Lookup"
+msgstr "検索"
+
+msgid "Currently:"
+msgstr "現在の値:"
+
+msgid "Change:"
+msgstr "変更後:"
