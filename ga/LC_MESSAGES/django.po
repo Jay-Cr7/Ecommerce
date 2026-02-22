@@ -2,20 +2,15 @@
 #
 # Translators:
 # Aindriú Mac Giolla Eoin, 2024
-# Claude Paroz <claude@2xlibre.net>, 2020
 # Jannis Leidel <jannis@leidel.info>, 2011
-# John Moylan <john@8t8.eu>, 2013
-# John Stafford <John.Stafford@rte.ie>, 2013
-# Seán de Búrca <leftmostcat@gmail.com>, 2011
 # Luke Blaney <transifex@lukeblaney.co.uk>, 2019
 # Michael Thornhill <michael@maithu.com>, 2011-2012,2015
-# Séamus Ó Cúile <seamus.ocuile@oegaillimh.ie>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-22 11:46-0300\n"
-"PO-Revision-Date: 2024-10-07 06:49+0000\n"
+"PO-Revision-Date: 2024-10-07 07:05+0000\n"
 "Last-Translator: Aindriú Mac Giolla Eoin, 2024\n"
 "Language-Team: Irish (http://app.transifex.com/django/django/language/ga/)\n"
 "MIME-Version: 1.0\n"
@@ -25,907 +20,26 @@ msgstr ""
 "Plural-Forms: nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : "
 "4);\n"
 
-msgid "Afrikaans"
-msgstr "Afracáinis"
-
-msgid "Arabic"
-msgstr "Araibis"
-
-msgid "Algerian Arabic"
-msgstr "Araibis na hAilgéire"
-
-msgid "Asturian"
-msgstr "Astúiris"
-
-msgid "Azerbaijani"
-msgstr "Asarbaiseáinis"
-
-msgid "Bulgarian"
-msgstr "Bulgáiris"
-
-msgid "Belarusian"
-msgstr "Bealarúisis"
-
-msgid "Bengali"
-msgstr "Beangáilis"
-
-msgid "Breton"
-msgstr "Briotánach"
-
-msgid "Bosnian"
-msgstr "Boisnis"
-
-msgid "Catalan"
-msgstr "Catalóinis"
-
-msgid "Central Kurdish (Sorani)"
-msgstr "Coirdis Láir (Sorani)"
-
-msgid "Czech"
-msgstr "Seicis"
-
-msgid "Welsh"
-msgstr "Breatnais"
-
-msgid "Danish"
-msgstr "Danmhairgis "
-
-msgid "German"
-msgstr "Gearmáinis"
-
-msgid "Lower Sorbian"
-msgstr "Sorbais Íochtarach"
-
-msgid "Greek"
-msgstr "Gréigis"
-
-msgid "English"
-msgstr "Béarla"
-
-msgid "Australian English"
-msgstr "Béarla Astrálach"
-
-msgid "British English"
-msgstr "Béarla na Breataine"
-
-msgid "Esperanto"
-msgstr "Esperanto"
-
-msgid "Spanish"
-msgstr "Spáinnis"
-
-msgid "Argentinian Spanish"
-msgstr "Spáinnis na hAirgintíne"
-
-msgid "Colombian Spanish"
-msgstr "Spáinnis na Colóime"
-
-msgid "Mexican Spanish"
-msgstr "Spáinnis Mheicsiceo "
-
-msgid "Nicaraguan Spanish"
-msgstr "Spáinnis Nicearagua"
-
-msgid "Venezuelan Spanish"
-msgstr "Spáinnis Veiniséalach"
-
-msgid "Estonian"
-msgstr "Eastóinis"
-
-msgid "Basque"
-msgstr "Bascais"
-
-msgid "Persian"
-msgstr "Peirsis"
-
-msgid "Finnish"
-msgstr "Fionlainnis"
-
-msgid "French"
-msgstr "Fraincis"
-
-msgid "Frisian"
-msgstr "Freaslainnis"
-
-msgid "Irish"
-msgstr "Gaeilge"
-
-msgid "Scottish Gaelic"
-msgstr "Gaeilge na hAlban"
-
-msgid "Galician"
-msgstr "Gailísis"
-
-msgid "Hebrew"
-msgstr "Eabhrais"
-
-msgid "Hindi"
-msgstr "Hiondúis"
-
-msgid "Croatian"
-msgstr "Cróitis"
-
-msgid "Upper Sorbian"
-msgstr "Sorbian Uachtarach"
-
-msgid "Hungarian"
-msgstr "Ungáiris"
-
-msgid "Armenian"
-msgstr "Airméinis"
-
-msgid "Interlingua"
-msgstr "Interlingua"
-
-msgid "Indonesian"
-msgstr "Indinéisis"
-
-msgid "Igbo"
-msgstr "Igbo"
-
-msgid "Ido"
-msgstr "Ido"
-
-msgid "Icelandic"
-msgstr "Íoslainnis"
-
-msgid "Italian"
-msgstr "Iodáilis"
-
-msgid "Japanese"
-msgstr "Seapáinis"
-
-msgid "Georgian"
-msgstr "Seoirsis"
-
-msgid "Kabyle"
-msgstr "Cabaill"
-
-msgid "Kazakh"
-msgstr "Casaicis"
-
-msgid "Khmer"
-msgstr "Ciméiris"
-
-msgid "Kannada"
-msgstr "Cannadais"
-
-msgid "Korean"
-msgstr "Cóiréis"
-
-msgid "Kyrgyz"
-msgstr "Chirgeastáin"
-
-msgid "Luxembourgish"
-msgstr "Lucsamburgach"
-
-msgid "Lithuanian"
-msgstr "Liotuáinis"
-
-msgid "Latvian"
-msgstr "Laitvis"
-
-msgid "Macedonian"
-msgstr "Macadóinis"
-
-msgid "Malayalam"
-msgstr "Mailéalaimis"
-
-msgid "Mongolian"
-msgstr "Mongóilis"
-
-msgid "Marathi"
-msgstr "Maraitis"
-
-msgid "Malay"
-msgstr "Malaeis"
-
-msgid "Burmese"
-msgstr "Burmais"
-
-msgid "Norwegian Bokmål"
-msgstr "Ioruais Bokmål"
-
-msgid "Nepali"
-msgstr "Neipeailis"
-
-msgid "Dutch"
-msgstr "Ollainnis"
-
-msgid "Norwegian Nynorsk"
-msgstr "Ioruais Nynorsk"
-
-msgid "Ossetic"
-msgstr "Oiséitis"
-
-msgid "Punjabi"
-msgstr "Puinseáibis"
-
-msgid "Polish"
-msgstr "Polainnis"
-
-msgid "Portuguese"
-msgstr "Portaingéilis"
-
-msgid "Brazilian Portuguese"
-msgstr "Portaingéilis na Brasaíle"
-
-msgid "Romanian"
-msgstr "Rómáinis"
-
-msgid "Russian"
-msgstr "Rúisis"
-
-msgid "Slovak"
-msgstr "Slóvaicis"
-
-msgid "Slovenian"
-msgstr "Slóivéinis"
-
-msgid "Albanian"
-msgstr "Albáinis"
-
-msgid "Serbian"
-msgstr "Seirbis"
-
-msgid "Serbian Latin"
-msgstr "Seirbis (Laidineach)"
-
-msgid "Swedish"
-msgstr "Sualainnis"
-
-msgid "Swahili"
-msgstr "Svahaílis"
-
-msgid "Tamil"
-msgstr "Tamailis"
-
-msgid "Telugu"
-msgstr "Teileagúis"
-
-msgid "Tajik"
-msgstr "Táidsíc"
-
-msgid "Thai"
-msgstr "Téalainnis"
-
-msgid "Turkmen"
-msgstr "Tuircméinis"
-
-msgid "Turkish"
-msgstr "Tuircis"
-
-msgid "Tatar"
-msgstr "Tatairis"
-
-msgid "Udmurt"
-msgstr "Udmurt"
-
-msgid "Uyghur"
-msgstr "Uighur"
-
-msgid "Ukrainian"
-msgstr "Úcráinis"
-
-msgid "Urdu"
-msgstr "Urdais"
-
-msgid "Uzbek"
-msgstr "Úisbéicis"
-
-msgid "Vietnamese"
-msgstr "Vítneamais"
-
-msgid "Simplified Chinese"
-msgstr "Sínis Simplithe"
-
-msgid "Traditional Chinese"
-msgstr "Sínis Traidisiúnta"
-
-msgid "Messages"
-msgstr "Teachtaireachtaí"
-
-msgid "Site Maps"
-msgstr "Léarscáileanna Suímh"
-
-msgid "Static Files"
-msgstr "Comhaid Statach"
-
-msgid "Syndication"
-msgstr "Sindeacáitiú"
-
-#. Translators: String used to replace omitted page numbers in elided page
-#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
-msgid "…"
-msgstr "…"
-
-msgid "That page number is not an integer"
-msgstr "Ní slánuimhir í an uimhir leathanaigh sin"
-
-msgid "That page number is less than 1"
-msgstr "Tá uimhir an leathanaigh sin níos lú ná 1"
-
-msgid "That page contains no results"
-msgstr "Níl aon torthaí ar an leathanach sin"
-
-msgid "Enter a valid value."
-msgstr "Iontráil luach bailí"
-
-msgid "Enter a valid domain name."
-msgstr "Cuir isteach ainm fearainn bailí."
-
-msgid "Enter a valid URL."
-msgstr "Iontráil URL bailí."
-
-msgid "Enter a valid integer."
-msgstr "Cuir isteach slánuimhir bhailí."
-
-msgid "Enter a valid email address."
-msgstr "Cuir isteach seoladh ríomhphoist bailí."
-
-#. Translators: "letters" means latin letters: a-z and A-Z.
-msgid ""
-"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
-msgstr ""
-"Cuir isteach “sluga” bailí ar a bhfuil litreacha, uimhreacha, foscórthaí nó "
-"fleiscíní."
-
-msgid ""
-"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
-"hyphens."
-msgstr ""
-"Cuir isteach “sluga” bailí ar a bhfuil litreacha Unicode, uimhreacha, fo-"
-"scóranna, nó fleiscíní."
+#, python-format
+msgid "Delete selected %(verbose_name_plural)s"
+msgstr "Scrios %(verbose_name_plural) roghnaithe"
 
 #, python-format
-msgid "Enter a valid %(protocol)s address."
-msgstr "Cuir isteach seoladh bailí %(protocol)s."
-
-msgid "IPv4"
-msgstr "IPv4"
-
-msgid "IPv6"
-msgstr "IPv6"
-
-msgid "IPv4 or IPv6"
-msgstr "IPv4 nó IPv6"
-
-msgid "Enter only digits separated by commas."
-msgstr "Ná hiontráil ach digití atá deighilte le camóga."
+msgid "Successfully deleted %(count)d %(items)s."
+msgstr "D'éirigh le scriosadh %(count)d %(items)s."
 
 #, python-format
-msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr ""
-"Cinntigh go bhfuil an luach seo %(limit_value)s (tá sé %(show_value)s)."
+msgid "Cannot delete %(name)s"
+msgstr "Ní féidir scriosadh %(name)s "
 
-#, python-format
-msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr ""
-"Cinntigh go bhfuil an luach seo níos lú ná nó cothrom le %(limit_value)s."
+msgid "Are you sure?"
+msgstr "An bhfuil tú cinnte?"
 
-#, python-format
-msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr ""
-"Cinntigh go bhfuil an luach seo níos mó ná nó cothrom le %(limit_value)s."
+msgid "Administration"
+msgstr "Riarachán"
 
-#, python-format
-msgid "Ensure this value is a multiple of step size %(limit_value)s."
-msgstr "Cinntigh gur iolraí de chéimmhéid %(limit_value)s an luach seo."
-
-#, python-format
-msgid ""
-"Ensure this value is a multiple of step size %(limit_value)s, starting from "
-"%(offset)s, e.g. %(offset)s, %(valid_value1)s, %(valid_value2)s, and so on."
-msgstr ""
-"Cinntigh gur iolraí de chéimmhéid %(limit_value)s an luach seo, ag tosú ó "
-"%(offset)s, m.sh. %(offset)s, %(valid_value1)s, %(valid_value2)s, agus mar "
-"sin de."
-
-#, python-format
-msgid ""
-"Ensure this value has at least %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at least %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"Cinntigh go bhfuil ar a laghad %(limit_value)d carachtar ag an luach seo (tá "
-"%(show_value)d aige)."
-msgstr[1] ""
-"Cinntigh go bhfuil ar a laghad %(limit_value)d carachtar ag an luach seo (tá "
-"%(show_value)d aige)."
-msgstr[2] ""
-"Cinntigh go bhfuil ar a laghad %(limit_value)d carachtar ag an luach seo (tá "
-"%(show_value)d aige)."
-msgstr[3] ""
-"Cinntigh go bhfuil ar a laghad %(limit_value)d carachtar ag an luach seo (tá "
-"%(show_value)d aige)."
-msgstr[4] ""
-"Cinntigh go bhfuil ar a laghad %(limit_value)d carachtar ag an luach seo (tá "
-"%(show_value)d aige)."
-
-#, python-format
-msgid ""
-"Ensure this value has at most %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at most %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"Cinntigh go bhfuil %(limit_value)d carachtar ar a mhéad ag an luach seo (tá "
-"%(show_value)d aige)."
-msgstr[1] ""
-"Cinntigh go bhfuil %(limit_value)d carachtar ar a mhéad ag an luach seo (tá "
-"%(show_value)d aige)."
-msgstr[2] ""
-"Cinntigh go bhfuil %(limit_value)d carachtar ar a mhéad ag an luach seo (tá "
-"%(show_value)d aige)."
-msgstr[3] ""
-"Cinntigh go bhfuil %(limit_value)d carachtar ar a mhéad ag an luach seo (tá "
-"%(show_value)d aige)."
-msgstr[4] ""
-"Cinntigh go bhfuil %(limit_value)d carachtar ar a mhéad ag an luach seo (tá "
-"%(show_value)d aige)."
-
-msgid "Enter a number."
-msgstr "Iontráil uimhir."
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s digit in total."
-msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] "Cinntigh nach bhfuil níos mó ná %(max)s digit san iomlán."
-msgstr[1] "Cinntigh nach bhfuil níos mó ná %(max)s digit san iomlán."
-msgstr[2] "Cinntigh nach bhfuil níos mó ná %(max)s digit san iomlán."
-msgstr[3] "Cinntigh nach bhfuil níos mó ná %(max)s digit san iomlán."
-msgstr[4] "Cinntigh nach bhfuil níos mó ná %(max)s digit san iomlán."
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s decimal place."
-msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] "Cinntigh nach bhfuil níos mó ná %(max)s ionad deachúlach ann."
-msgstr[1] "Cinntigh nach bhfuil níos mó ná %(max)s de dheachúlacha ann."
-msgstr[2] "Cinntigh nach bhfuil níos mó ná %(max)s de dheachúlacha ann."
-msgstr[3] "Cinntigh nach bhfuil níos mó ná %(max)s de dheachúlacha ann."
-msgstr[4] "Cinntigh nach bhfuil níos mó ná %(max)s de dheachúlacha ann."
-
-#, python-format
-msgid ""
-"Ensure that there are no more than %(max)s digit before the decimal point."
-msgid_plural ""
-"Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] ""
-"Cinntigh nach bhfuil níos mó ná %(max)s digit ann roimh an bpointe deachúil."
-msgstr[1] ""
-"Cinntigh nach bhfuil níos mó ná %(max)s dhigit roimh an bpointe deachúil."
-msgstr[2] ""
-"Cinntigh nach bhfuil níos mó ná %(max)s dhigit roimh an bpointe deachúil."
-msgstr[3] ""
-"Cinntigh nach bhfuil níos mó ná %(max)s dhigit roimh an bpointe deachúil."
-msgstr[4] ""
-"Cinntigh nach bhfuil níos mó ná %(max)s dhigit roimh an bpointe deachúil."
-
-#, python-format
-msgid ""
-"File extension “%(extension)s” is not allowed. Allowed extensions are: "
-"%(allowed_extensions)s."
-msgstr ""
-"Ní cheadaítear iarmhír chomhaid “%(extension)s”. Is iad seo a leanas "
-"eisínteachtaí ceadaithe: %(allowed_extensions)s."
-
-msgid "Null characters are not allowed."
-msgstr "Ní cheadaítear carachtair null."
-
-msgid "and"
-msgstr "agus"
-
-#, python-format
-msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr "Tá %(model_name)s leis an %(field_labels)s seo ann cheana."
-
-#, python-format
-msgid "Constraint “%(name)s” is violated."
-msgstr "Tá srian “%(name)s” sáraithe."
-
-#, python-format
-msgid "Value %(value)r is not a valid choice."
-msgstr "Ní rogha bhailí é luach %(value)r."
-
-msgid "This field cannot be null."
-msgstr "Ní cheadaítear luach nialasach sa réimse seo."
-
-msgid "This field cannot be blank."
-msgstr "Ní cheadaítear luach nialasach sa réimse seo."
-
-#, python-format
-msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr "Tá %(model_name)s leis an %(field_label)s seo ann cheana."
-
-#. Translators: The 'lookup_type' is one of 'date', 'year' or
-#. 'month'. Eg: "Title must be unique for pub_date year"
-#, python-format
-msgid ""
-"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
-msgstr ""
-"Caithfidh %(field_label)s a bheith uathúil le haghaidh %(date_field_label)s "
-"%(lookup_type)s."
-
-#, python-format
-msgid "Field of type: %(field_type)s"
-msgstr "Réimse de Cineál: %(field_type)s"
-
-#, python-format
-msgid "“%(value)s” value must be either True or False."
-msgstr "Caithfidh luach “%(value)s” a bheith Fíor nó Bréagach."
-
-#, python-format
-msgid "“%(value)s” value must be either True, False, or None."
-msgstr "Caithfidh luach “%(value)s” a bheith Fíor, Bréagach, nó Neamhní."
-
-msgid "Boolean (Either True or False)"
-msgstr "Boole"
-
-#, python-format
-msgid "String (up to %(max_length)s)"
-msgstr "Teaghrán (suas go %(max_length)s)"
-
-msgid "String (unlimited)"
-msgstr "Teaghrán (gan teorainn)"
-
-msgid "Comma-separated integers"
-msgstr "Slánuimhireacha camóg-scartha"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
-"format."
-msgstr ""
-"Tá formáid dáta neamhbhailí ag luach “%(value)s”. Caithfidh sé a bheith i "
-"bhformáid BBBB-MM-LL."
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
-"date."
-msgstr ""
-"Tá an fhormáid cheart ag luach “%(value)s” (BBBB-MM-DD) ach is dáta "
-"neamhbhailí é."
-
-msgid "Date (without time)"
-msgstr "Dáta (gan am)"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
-"uuuuuu]][TZ] format."
-msgstr ""
-"Tá formáid neamhbhailí ag luach “%(value)s”. Caithfidh sé a bheith san "
-"fhormáid BBBB-MM-DD HH:MM[:ss[.uuuuuu]][TZ]."
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
-"[TZ]) but it is an invalid date/time."
-msgstr ""
-"Tá an fhormáid cheart ag luach “%(value)s” (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
-"[TZ]) ach is dáta/am neamhbhailí é."
-
-msgid "Date (with time)"
-msgstr "Dáta (le am)"
-
-#, python-format
-msgid "“%(value)s” value must be a decimal number."
-msgstr "Caithfidh luach “%(value)s” a bheith ina uimhir dheachúil."
-
-msgid "Decimal number"
-msgstr "Uimhir deachúlach"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
-"uuuuuu] format."
-msgstr ""
-"Tá formáid neamhbhailí ag luach “%(value)s”. Caithfidh sé a bheith i "
-"bhformáid [DD] [[HH:]MM:]ss[.uuuuuu]."
-
-msgid "Duration"
-msgstr "Fad"
-
-msgid "Email address"
-msgstr "R-phost"
-
-msgid "File path"
-msgstr "Conair comhaid"
-
-#, python-format
-msgid "“%(value)s” value must be a float."
-msgstr "Caithfidh luach “%(value)s” a bheith ina shnámhán."
-
-msgid "Floating point number"
-msgstr "Snámhphointe"
-
-#, python-format
-msgid "“%(value)s” value must be an integer."
-msgstr "Caithfidh luach “%(value)s” a bheith ina shlánuimhir."
-
-msgid "Integer"
-msgstr "Slánuimhir"
-
-msgid "Big (8 byte) integer"
-msgstr "Mór (8 byte) slánuimhi"
-
-msgid "Small integer"
-msgstr "Slánuimhir beag"
-
-msgid "IPv4 address"
-msgstr "Seoladh IPv4"
-
-msgid "IP address"
-msgstr "Seoladh IP"
-
-#, python-format
-msgid "“%(value)s” value must be either None, True or False."
-msgstr "Ní mór luach “%(value)s” a bheith Easpa, Fíor nó Bréagach."
-
-msgid "Boolean (Either True, False or None)"
-msgstr "Boole (Fíor, Bréagach nó Dada)"
-
-msgid "Positive big integer"
-msgstr "Slánuimhir mhór dhearfach"
-
-msgid "Positive integer"
-msgstr "Slánuimhir dearfach"
-
-msgid "Positive small integer"
-msgstr "Slánuimhir beag dearfach"
-
-#, python-format
-msgid "Slug (up to %(max_length)s)"
-msgstr "Slug (suas go %(max_length)s)"
-
-msgid "Text"
-msgstr "Téacs"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
-"format."
-msgstr ""
-"Tá formáid neamhbhailí ag luach “%(value)s”. Caithfidh sé a bheith i "
-"bhformáid HH:MM[:ss[.uuuuuu]]."
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
-"invalid time."
-msgstr ""
-"Tá an fhormáid cheart ag luach “%(value)s” (HH:MM[:ss[.uuuuuu]]) ach is am "
-"neamhbhailí é."
-
-msgid "Time"
-msgstr "Am"
-
-msgid "URL"
-msgstr "URL"
-
-msgid "Raw binary data"
-msgstr "Sonraí dénártha amh"
-
-#, python-format
-msgid "“%(value)s” is not a valid UUID."
-msgstr "Ní UUID bailí é “%(value)s”."
-
-msgid "Universally unique identifier"
-msgstr "Aitheantóir uathúil uilíoch"
-
-msgid "File"
-msgstr "Comhaid"
-
-msgid "Image"
-msgstr "Íomhá"
-
-msgid "A JSON object"
-msgstr "Réad JSON"
-
-msgid "Value must be valid JSON."
-msgstr "Caithfidh an luach a bheith bailí JSON."
-
-#, python-format
-msgid "%(model)s instance with %(field)s %(value)r does not exist."
-msgstr "Níl sampla %(model)s le %(field)s %(value)r ann."
-
-msgid "Foreign Key (type determined by related field)"
-msgstr "Eochair Eachtracha (cineál a chinnfear de réir réimse a bhaineann)"
-
-msgid "One-to-one relationship"
-msgstr "Duine-le-duine caidreamh"
-
-#, python-format
-msgid "%(from)s-%(to)s relationship"
-msgstr "%(from)s-%(to)s caidreamh"
-
-#, python-format
-msgid "%(from)s-%(to)s relationships"
-msgstr "%(from)s-%(to)s caidrimh"
-
-msgid "Many-to-many relationship"
-msgstr "Go leor le go leor caidreamh"
-
-#. Translators: If found as last label character, these punctuation
-#. characters will prevent the default label_suffix to be appended to the
-#. label
-msgid ":?.!"
-msgstr ":?.!"
-
-msgid "This field is required."
-msgstr "Tá an réimse seo riachtanach."
-
-msgid "Enter a whole number."
-msgstr "Iontráil slánuimhir."
-
-msgid "Enter a valid date."
-msgstr "Iontráil dáta bailí."
-
-msgid "Enter a valid time."
-msgstr "Iontráil am bailí."
-
-msgid "Enter a valid date/time."
-msgstr "Iontráil dáta/am bailí."
-
-msgid "Enter a valid duration."
-msgstr "Cuir isteach ré bailí."
-
-#, python-brace-format
-msgid "The number of days must be between {min_days} and {max_days}."
-msgstr "Caithfidh líon na laethanta a bheith idir {min_days} agus {max_days}."
-
-msgid "No file was submitted. Check the encoding type on the form."
-msgstr "Níor seoladh comhad. Deimhnigh cineál an ionchódaithe ar an bhfoirm."
-
-msgid "No file was submitted."
-msgstr "Níor seoladh aon chomhad."
-
-msgid "The submitted file is empty."
-msgstr "Tá an comhad a seoladh folamh."
-
-#, python-format
-msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
-msgid_plural ""
-"Ensure this filename has at most %(max)d characters (it has %(length)d)."
-msgstr[0] ""
-"Cinntigh go bhfuil %(max)d carachtar ar a mhéad ag an gcomhadainm seo (tá "
-"%(length)d aige)."
-msgstr[1] ""
-"Cinntigh go bhfuil %(max)d carachtar ar a mhéad ag an gcomhadainm seo (tá "
-"%(length)d aige)."
-msgstr[2] ""
-"Cinntigh go bhfuil %(max)d carachtar ar a mhéad ag an gcomhadainm seo (tá "
-"%(length)d aige)."
-msgstr[3] ""
-"Cinntigh go bhfuil %(max)d carachtar ar a mhéad ag an gcomhadainm seo (tá "
-"%(length)d aige)."
-msgstr[4] ""
-"Cinntigh go bhfuil %(max)d carachtar ar a mhéad ag an gcomhadainm seo (tá "
-"%(length)d aige)."
-
-msgid "Please either submit a file or check the clear checkbox, not both."
-msgstr ""
-"Cuir ceachtar isteach comhad nó an ticbhosca soiléir, ní féidir an dá "
-"sheiceáil."
-
-msgid ""
-"Upload a valid image. The file you uploaded was either not an image or a "
-"corrupted image."
-msgstr ""
-"Uasluchtaigh íomhá bhailí. Níorbh íomhá é an comhad a d'uasluchtaigh tú, nó "
-"b'íomhá thruaillithe é."
-
-#, python-format
-msgid "Select a valid choice. %(value)s is not one of the available choices."
-msgstr "Déan rogha bhailí. Ní ceann de na roghanna é %(value)s."
-
-msgid "Enter a list of values."
-msgstr "Cuir liosta de luachanna isteach."
-
-msgid "Enter a complete value."
-msgstr "Cuir isteach luach iomlán."
-
-msgid "Enter a valid UUID."
-msgstr "Cuir isteach UUID bailí."
-
-msgid "Enter a valid JSON."
-msgstr "Cuir isteach JSON bailí."
-
-#. Translators: This is the default suffix added to form field labels
-msgid ":"
-msgstr ":"
-
-#, python-format
-msgid "(Hidden field %(name)s) %(error)s"
-msgstr "(Réimse folaithe %(name)s) %(error)s"
-
-#, python-format
-msgid ""
-"ManagementForm data is missing or has been tampered with. Missing fields: "
-"%(field_names)s. You may need to file a bug report if the issue persists."
-msgstr ""
-"Tá sonraí ManagementForm in easnamh nó ar cuireadh isteach orthu. Réimsí ar "
-"iarraidh: %(field_names)s. Seans go mbeidh ort tuairisc fhabht a chomhdú má "
-"leanann an cheist."
-
-#, python-format
-msgid "Please submit at most %(num)d form."
-msgid_plural "Please submit at most %(num)d forms."
-msgstr[0] "Cuir isteach %(num)d foirm ar a mhéad."
-msgstr[1] "Cuir isteach %(num)d foirm ar a mhéad."
-msgstr[2] "Cuir isteach %(num)d foirm ar a mhéad."
-msgstr[3] "Cuir isteach %(num)d foirm ar a mhéad."
-msgstr[4] "Cuir isteach %(num)d foirm ar a mhéad."
-
-#, python-format
-msgid "Please submit at least %(num)d form."
-msgid_plural "Please submit at least %(num)d forms."
-msgstr[0] "Cuir isteach ar a laghad %(num)d foirm."
-msgstr[1] "Cuir isteach %(num)d foirm ar a laghad."
-msgstr[2] "Cuir isteach %(num)d foirm ar a laghad."
-msgstr[3] "Cuir isteach %(num)d foirm ar a laghad."
-msgstr[4] "Cuir isteach %(num)d foirm ar a laghad."
-
-msgid "Order"
-msgstr "Ord"
-
-msgid "Delete"
-msgstr "Scrios"
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s."
-msgstr "Le do thoil ceartaigh an sonra dúbail le %(field)s."
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr ""
-"Ceart le do thoil na sonraí a dhúbailt le haghaidh %(field)s, chaithfidh a "
-"bheith uathúil."
-
-#, python-format
-msgid ""
-"Please correct the duplicate data for %(field_name)s which must be unique "
-"for the %(lookup)s in %(date_field)s."
-msgstr ""
-"Ceart le do thoil na sonraí a dhúbailt le haghaidh %(field_name)s ní mór a "
-"bheith uaithúil le haghaidh an %(lookup)s i %(date_field)s."
-
-msgid "Please correct the duplicate values below."
-msgstr "Le do thoil ceartaigh na luachanna dúbail thíos."
-
-msgid "The inline value did not match the parent instance."
-msgstr "Níor mheaitseáil an luach inlíne leis an gcás tuismitheora."
-
-msgid "Select a valid choice. That choice is not one of the available choices."
-msgstr "Déan rogha bhailí. Ní ceann de na roghanna é do roghasa."
-
-#, python-format
-msgid "“%(pk)s” is not a valid value."
-msgstr "Ní luach bailí é “%(pk)s”."
-
-#, python-format
-msgid ""
-"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
-"may be ambiguous or it may not exist."
-msgstr ""
-"Níorbh fhéidir %(datetime)s a léirmhíniú i gcrios ama %(current_timezone)s; "
-"d'fhéadfadh sé a bheith débhríoch nó b'fhéidir nach bhfuil sé ann."
-
-msgid "Clear"
-msgstr "Glan"
-
-msgid "Currently"
-msgstr "Faoi láthair"
-
-msgid "Change"
-msgstr "Athraigh"
-
-msgid "Unknown"
-msgstr "Anaithnid"
+msgid "All"
+msgstr "Gach"
 
 msgid "Yes"
 msgstr "Tá"
@@ -933,494 +47,764 @@ msgstr "Tá"
 msgid "No"
 msgstr "Níl"
 
-#. Translators: Please do not add spaces around commas.
-msgid "yes,no,maybe"
-msgstr "tá,níl,b'fhéidir"
+msgid "Unknown"
+msgstr "Gan aithne"
 
-#, python-format
-msgid "%(size)d byte"
-msgid_plural "%(size)d bytes"
-msgstr[0] "%(size)d bheart"
-msgstr[1] "%(size)d bheart"
-msgstr[2] "%(size)d bheart"
-msgstr[3] "%(size)d mbeart"
-msgstr[4] "%(size)d beart"
+msgid "Any date"
+msgstr "Aon dáta"
 
-#, python-format
-msgid "%s KB"
-msgstr "%s KB"
+msgid "Today"
+msgstr "Inniu"
 
-#, python-format
-msgid "%s MB"
-msgstr "%s MB"
+msgid "Past 7 days"
+msgstr "7 lá a chuaigh thart"
 
-#, python-format
-msgid "%s GB"
-msgstr "%s GB"
+msgid "This month"
+msgstr "Táim cinnte"
 
-#, python-format
-msgid "%s TB"
-msgstr "%s TB"
+msgid "This year"
+msgstr "An blian seo"
 
-#, python-format
-msgid "%s PB"
-msgstr "%s PB"
+msgid "No date"
+msgstr "Gan dáta"
 
-msgid "p.m."
-msgstr "i.n."
+msgid "Has date"
+msgstr "Le dáta"
 
-msgid "a.m."
-msgstr "r.n."
+msgid "Empty"
+msgstr "Folamh"
 
-msgid "PM"
-msgstr "IN"
-
-msgid "AM"
-msgstr "RN"
-
-msgid "midnight"
-msgstr "meán oíche"
-
-msgid "noon"
-msgstr "nóin"
-
-msgid "Monday"
-msgstr "Dé Luain"
-
-msgid "Tuesday"
-msgstr "Dé Máirt"
-
-msgid "Wednesday"
-msgstr "Dé Céadaoin"
-
-msgid "Thursday"
-msgstr "Déardaoin"
-
-msgid "Friday"
-msgstr "Dé hAoine"
-
-msgid "Saturday"
-msgstr "Dé Sathairn"
-
-msgid "Sunday"
-msgstr "Dé Domhnaigh"
-
-msgid "Mon"
-msgstr "L"
-
-msgid "Tue"
-msgstr "M"
-
-msgid "Wed"
-msgstr "C"
-
-msgid "Thu"
-msgstr "D"
-
-msgid "Fri"
-msgstr "A"
-
-msgid "Sat"
-msgstr "S"
-
-msgid "Sun"
-msgstr "D"
-
-msgid "January"
-msgstr "Eanáir"
-
-msgid "February"
-msgstr "Feabhra"
-
-msgid "March"
-msgstr "Márta"
-
-msgid "April"
-msgstr "Aibreán"
-
-msgid "May"
-msgstr "Bealtaine"
-
-msgid "June"
-msgstr "Meitheamh"
-
-msgid "July"
-msgstr "Iúil"
-
-msgid "August"
-msgstr "Lúnasa"
-
-msgid "September"
-msgstr "Meán Fómhair"
-
-msgid "October"
-msgstr "Deireadh Fómhair"
-
-msgid "November"
-msgstr "Samhain"
-
-msgid "December"
-msgstr "Nollaig"
-
-msgid "jan"
-msgstr "ean"
-
-msgid "feb"
-msgstr "feabh"
-
-msgid "mar"
-msgstr "márta"
-
-msgid "apr"
-msgstr "aib"
-
-msgid "may"
-msgstr "beal"
-
-msgid "jun"
-msgstr "meith"
-
-msgid "jul"
-msgstr "iúil"
-
-msgid "aug"
-msgstr "lún"
-
-msgid "sep"
-msgstr "mfómh"
-
-msgid "oct"
-msgstr "dfómh"
-
-msgid "nov"
-msgstr "samh"
-
-msgid "dec"
-msgstr "noll"
-
-msgctxt "abbrev. month"
-msgid "Jan."
-msgstr "Ean."
-
-msgctxt "abbrev. month"
-msgid "Feb."
-msgstr "Feabh."
-
-msgctxt "abbrev. month"
-msgid "March"
-msgstr "Márta"
-
-msgctxt "abbrev. month"
-msgid "April"
-msgstr "Aib."
-
-msgctxt "abbrev. month"
-msgid "May"
-msgstr "Beal."
-
-msgctxt "abbrev. month"
-msgid "June"
-msgstr "Meith."
-
-msgctxt "abbrev. month"
-msgid "July"
-msgstr "Iúil"
-
-msgctxt "abbrev. month"
-msgid "Aug."
-msgstr "Lún."
-
-msgctxt "abbrev. month"
-msgid "Sept."
-msgstr "MFómh."
-
-msgctxt "abbrev. month"
-msgid "Oct."
-msgstr "DFómh."
-
-msgctxt "abbrev. month"
-msgid "Nov."
-msgstr "Samh."
-
-msgctxt "abbrev. month"
-msgid "Dec."
-msgstr "Noll."
-
-msgctxt "alt. month"
-msgid "January"
-msgstr "Mí Eanáir"
-
-msgctxt "alt. month"
-msgid "February"
-msgstr "Mí Feabhra"
-
-msgctxt "alt. month"
-msgid "March"
-msgstr "Mí na Márta"
-
-msgctxt "alt. month"
-msgid "April"
-msgstr "Mí Aibreáin"
-
-msgctxt "alt. month"
-msgid "May"
-msgstr "Mí na Bealtaine"
-
-msgctxt "alt. month"
-msgid "June"
-msgstr "Mí an Mheithimh"
-
-msgctxt "alt. month"
-msgid "July"
-msgstr "Mí Iúil"
-
-msgctxt "alt. month"
-msgid "August"
-msgstr "Mí Lúnasa"
-
-msgctxt "alt. month"
-msgid "September"
-msgstr "Mí Mheán Fómhair"
-
-msgctxt "alt. month"
-msgid "October"
-msgstr "Mí Dheireadh Fómhair"
-
-msgctxt "alt. month"
-msgid "November"
-msgstr "Mí na Samhna"
-
-msgctxt "alt. month"
-msgid "December"
-msgstr "Mí na Nollag"
-
-msgid "This is not a valid IPv6 address."
-msgstr "Ní seoladh IPv6 bailí é seo."
-
-#, python-format
-msgctxt "String to return when truncating text"
-msgid "%(truncated_text)s…"
-msgstr "%(truncated_text)s…"
-
-msgid "or"
-msgstr "nó"
-
-#. Translators: This string is used as a separator between list elements
-msgid ", "
-msgstr ", "
-
-#, python-format
-msgid "%(num)d year"
-msgid_plural "%(num)d years"
-msgstr[0] "%(num)d bhliain"
-msgstr[1] "%(num)d bliain"
-msgstr[2] "%(num)d bliain"
-msgstr[3] "%(num)d bliain"
-msgstr[4] "%(num)d bliain"
-
-#, python-format
-msgid "%(num)d month"
-msgid_plural "%(num)d months"
-msgstr[0] "%(num)d mí"
-msgstr[1] "%(num)d míonna"
-msgstr[2] "%(num)d míonna"
-msgstr[3] "%(num)d míonna"
-msgstr[4] "%(num)d míonna"
-
-#, python-format
-msgid "%(num)d week"
-msgid_plural "%(num)d weeks"
-msgstr[0] "%(num)d seachtain"
-msgstr[1] "%(num)d seachtainí"
-msgstr[2] "%(num)d seachtainí"
-msgstr[3] "%(num)d seachtainí"
-msgstr[4] "%(num)d seachtainí"
-
-#, python-format
-msgid "%(num)d day"
-msgid_plural "%(num)d days"
-msgstr[0] "%(num)d lá"
-msgstr[1] "%(num)d laethanta"
-msgstr[2] "%(num)d laethanta"
-msgstr[3] "%(num)d laethanta"
-msgstr[4] "%(num)d laethanta"
-
-#, python-format
-msgid "%(num)d hour"
-msgid_plural "%(num)d hours"
-msgstr[0] "%(num)d uair"
-msgstr[1] "%(num)d huaireanta"
-msgstr[2] "%(num)d huaireanta"
-msgstr[3] "%(num)d huaireanta"
-msgstr[4] "%(num)d huaireanta"
-
-#, python-format
-msgid "%(num)d minute"
-msgid_plural "%(num)d minutes"
-msgstr[0] "%(num)d nóiméad"
-msgstr[1] "%(num)d nóiméad"
-msgstr[2] "%(num)d nóiméad"
-msgstr[3] "%(num)d nóiméad"
-msgstr[4] "%(num)d nóiméad"
-
-msgid "Forbidden"
-msgstr "Toirmiscthe"
-
-msgid "CSRF verification failed. Request aborted."
-msgstr "Theip ar fhíorú CSRF. Cuireadh deireadh leis an iarratas."
-
-msgid ""
-"You are seeing this message because this HTTPS site requires a “Referer "
-"header” to be sent by your web browser, but none was sent. This header is "
-"required for security reasons, to ensure that your browser is not being "
-"hijacked by third parties."
-msgstr ""
-"Tá an teachtaireacht seo á fheiceáil agat toisc go bhfuil “ceanntásc "
-"tarchuir” ag teastáil ón suíomh HTTPS seo le bheith seolta ag do bhrabhsálaí "
-"gréasáin, ach níor seoladh aon cheann. Tá an ceanntásc seo ag teastáil ar "
-"chúiseanna slándála, lena chinntiú nach bhfuil do bhrabhsálaí á fuadach ag "
-"tríú páirtithe."
-
-msgid ""
-"If you have configured your browser to disable “Referer” headers, please re-"
-"enable them, at least for this site, or for HTTPS connections, or for “same-"
-"origin” requests."
-msgstr ""
-"Má tá do bhrabhsálaí cumraithe agat chun ceanntásca “Tagairtí” a dhíchumasú, "
-"le do thoil déan iad a athchumasú, le do thoil don suíomh seo, nó do naisc "
-"HTTPS, nó d’iarratais “ar an mbunús céanna”."
-
-msgid ""
-"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
-"including the “Referrer-Policy: no-referrer” header, please remove them. The "
-"CSRF protection requires the “Referer” header to do strict referer checking. "
-"If you’re concerned about privacy, use alternatives like <a "
-"rel=\"noreferrer\" …> for links to third-party sites."
-msgstr ""
-"Má tá an chlib 1 á úsáid agat nó má tá an ceanntásc “Polasaí Atreoraithe: "
-"gan atreorú” san áireamh, bain amach iad le do thoil. Éilíonn an chosaint "
-"CSRF go bhfuil an ceanntásc “Tagairtí” chun seiceáil docht atreoraithe a "
-"dhéanamh. Má tá imní ort faoi phríobháideachas, bain úsáid as roghanna eile "
-"amhail <a rel=\"noreferrer\" ...> le haghaidh naisc chuig láithreáin tríú "
-"páirtí."
-
-msgid ""
-"You are seeing this message because this site requires a CSRF cookie when "
-"submitting forms. This cookie is required for security reasons, to ensure "
-"that your browser is not being hijacked by third parties."
-msgstr ""
-"Tá an teachtaireacht seo á fheiceáil agat toisc go bhfuil fianán CSRF ag "
-"teastáil ón suíomh seo agus foirmeacha á gcur isteach agat. Tá an fianán seo "
-"ag teastáil ar chúiseanna slándála, lena chinntiú nach bhfuil do bhrabhsálaí "
-"á fuadach ag tríú páirtithe."
-
-msgid ""
-"If you have configured your browser to disable cookies, please re-enable "
-"them, at least for this site, or for “same-origin” requests."
-msgstr ""
-"Má tá do bhrabhsálaí cumraithe agat chun fianáin a dhíchumasú, le do thoil "
-"athchumasaigh iad, le do thoil, le haghaidh an tsuímh seo ar a laghad, nó le "
-"haghaidh iarratais “ar an mbunús céanna”."
-
-msgid "More information is available with DEBUG=True."
-msgstr "Tá tuilleadh eolais ar fáil le DEBUG=True."
-
-msgid "No year specified"
-msgstr "Bliain gan sonrú"
-
-msgid "Date out of range"
-msgstr "Dáta as raon"
-
-msgid "No month specified"
-msgstr "Mí gan sonrú"
-
-msgid "No day specified"
-msgstr "Lá gan sonrú"
-
-msgid "No week specified"
-msgstr "Seachtain gan sonrú"
-
-#, python-format
-msgid "No %(verbose_name_plural)s available"
-msgstr "Gan %(verbose_name_plural)s ar fáil"
+msgid "Not empty"
+msgstr "Gan folamh"
 
 #, python-format
 msgid ""
-"Future %(verbose_name_plural)s not available because %(class_name)s."
-"allow_future is False."
+"Please enter the correct %(username)s and password for a staff account. Note "
+"that both fields may be case-sensitive."
 msgstr ""
-"Níl %(verbose_name_plural)s sa todhchaí ar fáil mar tá  %(class_name)s."
-"allow_future Bréagach."
+"Cuir isteach an %(username)s agus focal faire ceart le haghaidh cuntas "
+"foirne. Tabhair faoi deara go bhféadfadh an dá réimsí a cás-íogair."
+
+msgid "Action:"
+msgstr "Aicsean:"
 
 #, python-format
-msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
-msgstr "Teaghrán dáta neamhbhailí “%(datestr)s” tugtha formáid “%(format)s”"
+msgid "Add another %(verbose_name)s"
+msgstr "Cuir eile %(verbose_name)s"
+
+msgid "Remove"
+msgstr "Tóg amach"
+
+msgid "Addition"
+msgstr "Suimiú"
+
+msgid "Change"
+msgstr "Athraigh"
+
+msgid "Deletion"
+msgstr "Scriosadh"
+
+msgid "action time"
+msgstr "am aicsean"
+
+msgid "user"
+msgstr "úsáideoir"
+
+msgid "content type"
+msgstr "cineál ábhair"
+
+msgid "object id"
+msgstr "id oibiacht"
+
+#. Translators: 'repr' means representation
+#. (https://docs.python.org/library/functions.html#repr)
+msgid "object repr"
+msgstr "repr oibiacht"
+
+msgid "action flag"
+msgstr "brat an aicsean"
+
+msgid "change message"
+msgstr "teachtaireacht athrú"
+
+msgid "log entry"
+msgstr "loga iontráil"
+
+msgid "log entries"
+msgstr "loga iontrálacha"
 
 #, python-format
-msgid "No %(verbose_name)s found matching the query"
-msgstr "Níl bhfuarthas %(verbose_name)s le hadhaigh an iarratas"
+msgid "Added “%(object)s”."
+msgstr "Curtha leis “%(object)s”."
 
-msgid "Page is not “last”, nor can it be converted to an int."
+#, python-format
+msgid "Changed “%(object)s” — %(changes)s"
+msgstr "Athraithe “%(object)s” — %(changes)s"
+
+#, python-format
+msgid "Deleted “%(object)s.”"
+msgstr "Scriosta “%(object)s.”"
+
+msgid "LogEntry Object"
+msgstr "Oibiacht LogEntry"
+
+#, python-brace-format
+msgid "Added {name} “{object}”."
+msgstr "Cuireadh {name} “{object}”."
+
+msgid "Added."
+msgstr "Curtha leis."
+
+msgid "and"
+msgstr "agus"
+
+#, python-brace-format
+msgid "Changed {fields} for {name} “{object}”."
+msgstr "Athraíodh {fields} le haghaidh {name} “{object}”."
+
+#, python-brace-format
+msgid "Changed {fields}."
+msgstr "{fields} athrithe."
+
+#, python-brace-format
+msgid "Deleted {name} “{object}”."
+msgstr "Scriosadh {name} “{object}”."
+
+msgid "No fields changed."
+msgstr "Dada réimse aithraithe"
+
+msgid "None"
+msgstr "Dada"
+
+msgid "Hold down “Control”, or “Command” on a Mac, to select more than one."
 msgstr ""
-"Níl an leathanach “deireadh”, agus ní féidir é a thiontú go slánuimhir."
+"Coinnigh síos “Rialú”, nó “Ordú” ar Mac, chun níos mó ná ceann amháin a "
+"roghnú."
+
+msgid "Select this object for an action - {}"
+msgstr "Roghnaigh an réad seo le haghaidh gnímh - {}"
+
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully."
+msgstr "Cuireadh an {name} “{obj}” leis go rathúil."
+
+msgid "You may edit it again below."
+msgstr "Thig leat é a athrú arís faoi seo."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was added successfully. You may add another {name} below."
+msgstr ""
+"Cuireadh an {name} “{obj}” leis go rathúil. Is féidir leat {name} eile a "
+"chur leis thíos."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may edit it again below."
+msgstr ""
+"Athraíodh an {name} “{obj}” go rathúil. Is féidir leat é a chur in eagar "
+"arís thíos."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may add another {name} "
+"below."
+msgstr ""
+"Athraíodh an {name} “{obj}” go rathúil. Is féidir leat {name} eile a chur "
+"leis thíos."
+
+#, python-brace-format
+msgid "The {name} “{obj}” was changed successfully."
+msgstr "Athraíodh an {name} “{obj}” go rathúil."
+
+msgid ""
+"Items must be selected in order to perform actions on them. No items have "
+"been changed."
+msgstr ""
+"Ní mór Míreanna a roghnú chun caingne a dhéanamh orthu. Níl aon mhíreanna a "
+"athrú."
+
+msgid "No action selected."
+msgstr "Uimh gníomh roghnaithe."
 
 #, python-format
-msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr "Leathanach neamhbhailí (%(page_number)s): %(message)s"
+msgid "The %(name)s “%(obj)s” was deleted successfully."
+msgstr "D'éirigh le scriosadh %(name)s \"%(obj)s\"."
 
 #, python-format
-msgid "Empty list and “%(class_name)s.allow_empty” is False."
-msgstr "Tá liosta folamh agus “%(class_name)s.allow_empty” bréagach."
-
-msgid "Directory indexes are not allowed here."
-msgstr "Níl innéacsanna chomhadlann cheadaítear anseo."
+msgid "%(name)s with ID “%(key)s” doesn’t exist. Perhaps it was deleted?"
+msgstr "Níl %(name)s le haitheantas “%(key)s” ann. B'fhéidir gur scriosadh é?"
 
 #, python-format
-msgid "“%(path)s” does not exist"
-msgstr "Níl “%(path)s” ann"
+msgid "Add %s"
+msgstr "Cuir %s le"
 
 #, python-format
-msgid "Index of %(directory)s"
-msgstr "Innéacs de %(directory)s"
+msgid "Change %s"
+msgstr "Aithrigh %s"
 
-msgid "The install worked successfully! Congratulations!"
-msgstr "D'éirigh leis an suiteáil! Comhghairdeachas!"
+#, python-format
+msgid "View %s"
+msgstr "Amharc ar %s"
+
+msgid "Database error"
+msgstr "Botún bunachar sonraí"
+
+#, python-format
+msgid "%(count)s %(name)s was changed successfully."
+msgid_plural "%(count)s %(name)s were changed successfully."
+msgstr[0] "%(count)s %(name)s athraithe go rathúil"
+msgstr[1] "%(count)s %(name)s athraithe go rathúil"
+msgstr[2] "%(count)s %(name)s athraithe go rathúil"
+msgstr[3] "%(count)s %(name)s athraithe go rathúil"
+msgstr[4] "%(count)s %(name)s athraithe go rathúil"
+
+#, python-format
+msgid "%(total_count)s selected"
+msgid_plural "All %(total_count)s selected"
+msgstr[0] "%(total_count)s roghnaithe"
+msgstr[1] "Gach %(total_count)s roghnaithe"
+msgstr[2] "Gach %(total_count)s roghnaithe"
+msgstr[3] "Gach %(total_count)s roghnaithe"
+msgstr[4] "Gach %(total_count)s roghnaithe"
+
+#, python-format
+msgid "0 of %(cnt)s selected"
+msgstr "0 as %(cnt)s roghnaithe."
+
+#, python-format
+msgid "Change history: %s"
+msgstr "Athraigh stáir %s"
+
+#. Translators: Model verbose name and instance
+#. representation, suitable to be an item in a
+#. list.
+#, python-format
+msgid "%(class_name)s %(instance)s"
+msgstr "%(class_name)s %(instance)s"
 
 #, python-format
 msgid ""
-"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+"Deleting %(class_name)s %(instance)s would require deleting the following "
+"protected related objects: %(related_objects)s"
 msgstr ""
-"Féach ar <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">nótaí scaoilte</a> le haghaidh Django "
-"%(version)s"
+"Teastaíodh scriosadh %(class_name)s %(instance)s scriosadh na rudaí a "
+"bhaineann leis: %(related_objects)s"
+
+msgid "Django site admin"
+msgstr "Riarthóir suíomh Django"
+
+msgid "Django administration"
+msgstr "Riarachán Django"
+
+msgid "Site administration"
+msgstr "Riaracháin an suíomh"
+
+msgid "Log in"
+msgstr "Logáil isteach"
+
+#, python-format
+msgid "%(app)s administration"
+msgstr "%(app)s riaracháin"
+
+msgid "Page not found"
+msgstr "Ní bhfuarthas an leathanach"
+
+msgid "We’re sorry, but the requested page could not be found."
+msgstr "Ár leithscéal, ach níorbh fhéidir an leathanach iarrtha a aimsiú."
+
+msgid "Home"
+msgstr "Baile"
+
+msgid "Server error"
+msgstr "Botún freastalaí"
+
+msgid "Server error (500)"
+msgstr "Botún freastalaí (500)"
+
+msgid "Server Error <em>(500)</em>"
+msgstr "Botún Freastalaí <em>(500)</em>"
+
+msgid ""
+"There’s been an error. It’s been reported to the site administrators via "
+"email and should be fixed shortly. Thanks for your patience."
+msgstr ""
+"Tharla earráid. Tuairiscíodh do riarthóirí an tsuímh trí ríomhphost agus ba "
+"cheart é a shocrú go luath. Go raibh maith agat as do foighne."
+
+msgid "Run the selected action"
+msgstr "Rith an gníomh roghnaithe"
+
+msgid "Go"
+msgstr "Té"
+
+msgid "Click here to select the objects across all pages"
+msgstr ""
+"Cliceáil anseo chun na hobiacht go léir a roghnú ar fud gach leathanach"
+
+#, python-format
+msgid "Select all %(total_count)s %(module_name)s"
+msgstr "Roghnaigh gach %(total_count)s %(module_name)s"
+
+msgid "Clear selection"
+msgstr "Scroiseadh modhnóir"
+
+msgid "Breadcrumbs"
+msgstr "Brioscáin aráin"
+
+#, python-format
+msgid "Models in the %(name)s application"
+msgstr "Samhlacha ins an %(name)s iarratais"
+
+msgid "Add"
+msgstr "Cuir le"
+
+msgid "View"
+msgstr "Amharc ar"
+
+msgid "You don’t have permission to view or edit anything."
+msgstr "Níl cead agat aon rud a fheiceáil ná a chur in eagar."
+
+msgid ""
+"First, enter a username and password. Then, you’ll be able to edit more user "
+"options."
+msgstr "Níl cead agat aon rud a fheiceáil ná a chur in eagar."
+
+msgid "Enter a username and password."
+msgstr "Cuir isteach ainm úsáideora agus focal faire."
+
+msgid "Change password"
+msgstr "Athraigh focal faire"
+
+msgid "Set password"
+msgstr "Socraigh pasfhocal"
+
+msgid "Please correct the error below."
+msgid_plural "Please correct the errors below."
+msgstr[0] "Ceartaigh an earráid thíos le do thoil."
+msgstr[1] "Ceartaigh na hearráidí thíos le do thoil."
+msgstr[2] "Ceartaigh na hearráidí thíos le do thoil."
+msgstr[3] "Ceartaigh na hearráidí thíos le do thoil."
+msgstr[4] "Ceartaigh na hearráidí thíos le do thoil."
+
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr ""
+"Iontráil focal faire nua le hadhaigh an úsaideor <strong>%(username)s</"
+"strong>."
+
+msgid ""
+"This action will <strong>enable</strong> password-based authentication for "
+"this user."
+msgstr ""
+"Cumasóidh an gníomh seo <strong>fhíordheimhniú </strong>pasfhocal-bhunaithe "
+"don úsáideoir seo."
+
+msgid "Disable password-based authentication"
+msgstr "Díchumasaigh fíordheimhniú pasfhocal-bhunaithe"
+
+msgid "Enable password-based authentication"
+msgstr "Cumasaigh fíordheimhniú pasfhocal-bhunaithe"
+
+msgid "Skip to main content"
+msgstr "Téigh ar aghaidh chuig an bpríomhábhar"
+
+msgid "Welcome,"
+msgstr "Fáilte"
+
+msgid "View site"
+msgstr "Breatnaigh ar an suíomh"
+
+msgid "Documentation"
+msgstr "Doiciméadúchán"
+
+msgid "Log out"
+msgstr "Logáil amach"
+
+#, python-format
+msgid "Add %(name)s"
+msgstr "Cuir %(name)s le"
+
+msgid "History"
+msgstr "Stair"
+
+msgid "View on site"
+msgstr "Breath ar suíomh"
+
+msgid "Filter"
+msgstr "Scagaire"
+
+msgid "Hide counts"
+msgstr "Folaigh comhaireamh"
+
+msgid "Show counts"
+msgstr "Taispeáin comhaireamh"
+
+msgid "Clear all filters"
+msgstr "Glan na scagairí go léir"
+
+msgid "Remove from sorting"
+msgstr "Bain as sórtáil"
+
+#, python-format
+msgid "Sorting priority: %(priority_number)s"
+msgstr "Sórtáil tosaíocht: %(priority_number)s"
+
+msgid "Toggle sorting"
+msgstr "Toggle sórtáil"
+
+msgid "Toggle theme (current theme: auto)"
+msgstr "Scoránaigh an téama (téama reatha: uathoibríoch)"
+
+msgid "Toggle theme (current theme: light)"
+msgstr "Scoránaigh an téama (téama reatha: solas)"
+
+msgid "Toggle theme (current theme: dark)"
+msgstr "Scoránaigh an téama (téama reatha: dorcha)"
+
+msgid "Delete"
+msgstr "Cealaigh"
 
 #, python-format
 msgid ""
-"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
-"configured any URLs."
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
 msgstr ""
-"Tá an leathanach seo á fheiceáil agat toisc go bhfuil <a href=\"https://docs."
-"djangoproject.com/en/%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a> i do chomhad socruithe agus nach bhfuil aon "
-"URL cumraithe agat."
+"Má scriossan tú  %(object_name)s '%(escaped_object)s' scriosfaidh oibiachtí "
+"gaolta. Ach níl cead ag do cuntas na oibiacht a leanúint a scriosadh:"
 
-msgid "Django Documentation"
-msgstr "Doiciméadú Django"
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would require deleting the "
+"following protected related objects:"
+msgstr ""
+"Bheadh Scriosadh an %(object_name)s  '%(escaped_object)s' a cheangal ar an "
+"méid seo a leanas a scriosadh nithe cosanta a bhaineann le:"
 
-msgid "Topics, references, &amp; how-to’s"
-msgstr "Ábhair, tagairtí, &amp; conas atá"
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr ""
+"An bhfuil tú cinnte na  %(object_name)s \"%(escaped_object)s\" a scroiseadh?"
+"Beidh gach oibiacht a leanúint scroiste freisin:"
 
-msgid "Tutorial: A Polling App"
-msgstr "Teagaisc: A Vótaíocht Aip"
+msgid "Objects"
+msgstr "Oibiachtaí"
 
-msgid "Get started with Django"
-msgstr "Tosaigh le Django"
+msgid "Yes, I’m sure"
+msgstr "Sea, táim cinnte"
 
-msgid "Django Community"
-msgstr "Pobal Django"
+msgid "No, take me back"
+msgstr "Ní hea, tóg ar ais mé"
 
-msgid "Connect, get help, or contribute"
-msgstr "Ceangail, faigh cúnamh, nó ranníoc"
+msgid "Delete multiple objects"
+msgstr "Scrios na réadanna"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would result in deleting related "
+"objects, but your account doesn't have permission to delete the following "
+"types of objects:"
+msgstr ""
+"Scriosadh an roghnaithe %(objects_name)s a bheadh mar thoradh ar na nithe "
+"gaolmhara a scriosadh, ach níl cead do chuntas a scriosadh na cineálacha seo "
+"a leanas na cuspóirí:"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would require deleting the following "
+"protected related objects:"
+msgstr ""
+"Teastaíonn scriosadh na %(objects_name)s roghnaithe  scriosadh na hoibiacht "
+"gaolta cosainte a leanúint:"
+
+#, python-format
+msgid ""
+"Are you sure you want to delete the selected %(objects_name)s? All of the "
+"following objects and their related items will be deleted:"
+msgstr ""
+"An bhfuil tú cinnte gur mian leat a scriosadh %(objects_name)s roghnaithe? "
+"Beidh gach ceann de na nithe seo a leanas agus a n-ítimí gaolta scroiste:"
+
+msgid "Delete?"
+msgstr "Cealaigh?"
+
+#, python-format
+msgid " By %(filter_title)s "
+msgstr " Trí %(filter_title)s "
+
+msgid "Summary"
+msgstr "Achoimre"
+
+msgid "Recent actions"
+msgstr "Gníomhartha le déanaí"
+
+msgid "My actions"
+msgstr "Mo ghníomhartha"
+
+msgid "None available"
+msgstr "Dada ar fáil"
+
+msgid "Added:"
+msgstr "Curtha leis:"
+
+msgid "Changed:"
+msgstr "Athraithe:"
+
+msgid "Deleted:"
+msgstr "Scriosta:"
+
+msgid "Unknown content"
+msgstr "Inneachair anaithnid"
+
+msgid ""
+"Something’s wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
+msgstr ""
+"Tá rud éigin cearr le suiteáil do bhunachar sonraí. Cinntigh go bhfuil na "
+"táblaí bunachar sonraí cuí cruthaithe, agus cinntigh go bhfuil an bunachar "
+"sonraí inléite ag an úsáideoir cuí."
+
+#, python-format
+msgid ""
+"You are authenticated as %(username)s, but are not authorized to access this "
+"page. Would you like to login to a different account?"
+msgstr ""
+"Tá tú fíordheimhnithe mar %(username)s, ach níl cead agat an leathanach seo "
+"a rochtain. Ar mhaith leat logáil isteach i gcuntas eile?"
+
+msgid "Forgotten your password or username?"
+msgstr "Dearmad déanta ar do focal faire nó ainm úsaideora"
+
+msgid "Toggle navigation"
+msgstr "Scoránaigh an nascleanúint"
+
+msgid "Sidebar"
+msgstr "Barra Taoibh"
+
+msgid "Start typing to filter…"
+msgstr "Tosaigh ag clóscríobh chun an scagaire…"
+
+msgid "Filter navigation items"
+msgstr "Scag míreanna nascleanúna"
+
+msgid "Date/time"
+msgstr "Dáta/am"
+
+msgid "User"
+msgstr "Úsaideoir"
+
+msgid "Action"
+msgstr "Aicsean"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "iontráil"
+msgstr[1] "iontrálacha"
+msgstr[2] "iontrálacha"
+msgstr[3] "iontrálacha"
+msgstr[4] "iontrálacha"
+
+msgid ""
+"This object doesn’t have a change history. It probably wasn’t added via this "
+"admin site."
+msgstr ""
+"Níl stair athruithe ag an réad seo. Is dócha nár cuireadh leis tríd an "
+"suíomh riaracháin seo."
+
+msgid "Show all"
+msgstr "Taispéan gach rud"
+
+msgid "Save"
+msgstr "Sábháil"
+
+msgid "Popup closing…"
+msgstr "Preabfhuinneog ag dúnadh…"
+
+msgid "Search"
+msgstr "Cuardach"
+
+#, python-format
+msgid "%(counter)s result"
+msgid_plural "%(counter)s results"
+msgstr[0] "%(counter)s toradh"
+msgstr[1] "%(counter)s torthaí"
+msgstr[2] "%(counter)s torthaí"
+msgstr[3] "%(counter)s torthaí"
+msgstr[4] "%(counter)s torthaí"
+
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr "%(full_result_count)s iomlán"
+
+msgid "Save as new"
+msgstr "Sabháil mar nua"
+
+msgid "Save and add another"
+msgstr "Sabháil agus cuir le ceann eile"
+
+msgid "Save and continue editing"
+msgstr "Sábhail agus lean ag cuir in eagar"
+
+msgid "Save and view"
+msgstr "Sabháil agus amharc ar"
+
+msgid "Close"
+msgstr "Druid"
+
+#, python-format
+msgid "Change selected %(model)s"
+msgstr "Athraigh roghnaithe %(model)s"
+
+#, python-format
+msgid "Add another %(model)s"
+msgstr "Cuir le %(model)s"
+
+#, python-format
+msgid "Delete selected %(model)s"
+msgstr "Scrios roghnaithe %(model)s"
+
+#, python-format
+msgid "View selected %(model)s"
+msgstr "Féach ar %(model)s roghnaithe"
+
+msgid "Thanks for spending some quality time with the web site today."
+msgstr ""
+"Go raibh maith agat as roinnt ama ardchaighdeáin a chaitheamh leis an suíomh "
+"Gréasáin inniu."
+
+msgid "Log in again"
+msgstr "Logáil isteacj arís"
+
+msgid "Password change"
+msgstr "Athrú focal faire"
+
+msgid "Your password was changed."
+msgstr "Bhí do focal faire aithraithe."
+
+msgid ""
+"Please enter your old password, for security’s sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+"Cuir isteach do sheanphasfhocal, ar mhaithe le slándáil, agus ansin cuir "
+"isteach do phasfhocal nua faoi dhó ionas gur féidir linn a fhíorú gur "
+"chlóscríobh tú i gceart é."
+
+msgid "Change my password"
+msgstr "Athraigh mo focal faire"
+
+msgid "Password reset"
+msgstr "Athsocraigh focal faire"
+
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr "Tá do focal faire réidh.  Is féidir leat logáil isteach anois."
+
+msgid "Password reset confirmation"
+msgstr "Deimhniú athshocraigh focal faire"
+
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr ""
+"Le do thoil, iontráil do focal faire dhá uaire cé go mbeimid in ann a "
+"seiceal go bhfuil sé scríobhte isteach i gceart."
+
+msgid "New password:"
+msgstr "Focal faire nua:"
+
+msgid "Confirm password:"
+msgstr "Deimhnigh focal faire:"
+
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr ""
+"Bhí nasc athshocraigh an focal faire mícheart, b'fheidir mar go raibh sé "
+"úsaidte cheana.  Le do thoil, iarr ar athsocraigh focal faire nua."
+
+msgid ""
+"We’ve emailed you instructions for setting your password, if an account "
+"exists with the email you entered. You should receive them shortly."
+msgstr ""
+"Chuireamar ríomhphost chugat treoracha maidir le do phasfhocal a shocrú, má "
+"tá cuntas ann leis an ríomhphost a chuir tú isteach. Ba cheart duit iad a "
+"fháil go luath."
+
+msgid ""
+"If you don’t receive an email, please make sure you’ve entered the address "
+"you registered with, and check your spam folder."
+msgstr ""
+"Mura bhfaigheann tú ríomhphost, cinntigh le do thoil gur chuir tú isteach an "
+"seoladh ar chláraigh tú leis, agus seiceáil d’fhillteán turscair."
+
+#, python-format
+msgid ""
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr ""
+"Tá an ríomhphost seo á fháil agat toisc gur iarr tú athshocrú pasfhocail do "
+"do chuntas úsáideora ag %(site_name)s."
+
+msgid "Please go to the following page and choose a new password:"
+msgstr ""
+"Le do thoil té go dtí an leathanach a leanúint agus roghmaigh focal faire "
+"nua:"
+
+msgid "Your username, in case you’ve forgotten:"
+msgstr "D’ainm úsáideora, ar eagla go bhfuil dearmad déanta agat ar:"
+
+msgid "Thanks for using our site!"
+msgstr "Go raibh maith agat le hadhaigh do cuairt!"
+
+#, python-format
+msgid "The %(site_name)s team"
+msgstr "Foireann an %(site_name)s"
+
+msgid ""
+"Forgotten your password? Enter your email address below, and we’ll email "
+"instructions for setting a new one."
+msgstr ""
+"Dearmad déanta agat ar do phasfhocal? Cuir isteach do sheoladh ríomhphoist "
+"thíos, agus seolfaimid treoracha ríomhphoist chun ceann nua a shocrú."
+
+msgid "Email address:"
+msgstr "Seoladh ríomhphoist:"
+
+msgid "Reset my password"
+msgstr "Athsocraigh mo focal faire"
+
+msgid "Select all objects on this page for an action"
+msgstr "Roghnaigh gach oibiacht ar an leathanach seo le haghaidh gnímh"
+
+msgid "All dates"
+msgstr "Gach dáta"
+
+#, python-format
+msgid "Select %s"
+msgstr "Roghnaigh %s"
+
+#, python-format
+msgid "Select %s to change"
+msgstr "Roghnaigh %s a athrú"
+
+#, python-format
+msgid "Select %s to view"
+msgstr "Roghnaigh %s le féachaint"
+
+msgid "Date:"
+msgstr "Dáta:"
+
+msgid "Time:"
+msgstr "Am:"
+
+msgid "Lookup"
+msgstr "Cuardach"
+
+msgid "Currently:"
+msgstr "Faoi láthair:"
+
+msgid "Change:"
+msgstr "Athraigh:"

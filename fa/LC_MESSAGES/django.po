@@ -2,33 +2,28 @@
 #
 # Translators:
 # Ahmad Hosseini <ahmadly.com@gmail.com>, 2020
-# alirezamastery <alireza.mastery@gmail.com>, 2021
+# Ali Nikneshan <ali@nikneshan.com>, 2015,2020
 # ali salehi, 2023
 # Ali Vakilzade <ali.vakilzade@gmail.com>, 2015
+# Aly Ahmady <better.aly.ahmady@gmail.com>, 2022
+# Amir Ajorloo <amirajorloo@gmail.com>, 2020
 # Arash Fazeli <a.fazeli@gmail.com>, 2012
-# Eric Hamiter <ehamiter@gmail.com>, 2019
-# Eshagh <ase.mugem@gmail.com>, 2022
 # Farshad Asadpour, 2021
 # Jannis Leidel <jannis@leidel.info>, 2011
-# Mariusz Felisiak <felisiak.mariusz@gmail.com>, 2021
-# Mazdak Badakhshan <geraneum@gmail.com>, 2014
-# Milad Hazrati <miladhazrati75@gmail.com>, 2019
 # MJafar Mashhadi <raindigital2007@gmail.com>, 2018
-# Mohammad Hossein Mojtahedi <Mhm5000@gmail.com>, 2013,2019
-# Natalia, 2025
+# Mohammad Hossein Mojtahedi <Mhm5000@gmail.com>, 2017,2019
+# Peyman Salehi <peymanslh@protonmail.com>, 2023
 # Pouya Abbassi, 2016
-# Pouya Abbassi, 2016
-# rahim agh <rahim.aghareb@gmail.com>, 2020-2021
-# Reza Mohammadi <reza@teeleh.ir>, 2013-2016
-# Saeed <sd.javadi@gmail.com>, 2011
-# Sina Cheraghi <sinacher@gmail.com>, 2011
+# rahim agh <rahim.aghareb@gmail.com>, 2021
+# Reza Mohammadi <reza@teeleh.ir>, 2013-2014
+# Sajad Rahimi <rahimisajad@outlook.com>, 2021,2025
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-19 11:30-0500\n"
-"PO-Revision-Date: 2025-09-17 06:49+0000\n"
-"Last-Translator: Natalia, 2025\n"
+"PO-Revision-Date: 2025-09-17 07:05+0000\n"
+"Last-Translator: Sajad Rahimi <rahimisajad@outlook.com>, 2021,2025\n"
 "Language-Team: Persian (http://app.transifex.com/django/django/language/"
 "fa/)\n"
 "MIME-Version: 1.0\n"
@@ -37,845 +32,26 @@ msgstr ""
 "Language: fa\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-msgid "Afrikaans"
-msgstr "آفریکانس"
-
-msgid "Arabic"
-msgstr "عربی"
-
-msgid "Algerian Arabic"
-msgstr "عربی الجزایری"
-
-msgid "Asturian"
-msgstr "آستوری"
-
-msgid "Azerbaijani"
-msgstr "آذربایجانی"
-
-msgid "Bulgarian"
-msgstr "بلغاری"
-
-msgid "Belarusian"
-msgstr "بلاروس"
-
-msgid "Bengali"
-msgstr "بنگالی"
-
-msgid "Breton"
-msgstr "برتون"
-
-msgid "Bosnian"
-msgstr "بوسنیایی"
-
-msgid "Catalan"
-msgstr "کاتالونیایی"
-
-msgid "Central Kurdish (Sorani)"
-msgstr ""
-
-msgid "Czech"
-msgstr "چکی"
-
-msgid "Welsh"
-msgstr "ویلزی"
-
-msgid "Danish"
-msgstr "دانمارکی"
-
-msgid "German"
-msgstr "آلمانی"
-
-msgid "Lower Sorbian"
-msgstr "صربستانی پایین"
-
-msgid "Greek"
-msgstr "یونانی"
-
-msgid "English"
-msgstr "انگلیسی"
-
-msgid "Australian English"
-msgstr "انگلیسی استرالیایی"
-
-msgid "British English"
-msgstr "انگلیسی بریتیش"
-
-msgid "Esperanto"
-msgstr "اسپرانتو"
-
-msgid "Spanish"
-msgstr "اسپانیایی"
-
-msgid "Argentinian Spanish"
-msgstr "اسپانیایی آرژانتینی"
-
-msgid "Colombian Spanish"
-msgstr "اسپانیایی کلمبیایی"
-
-msgid "Mexican Spanish"
-msgstr "اسپانیولی مکزیکی"
-
-msgid "Nicaraguan Spanish"
-msgstr "نیکاراگوئه اسپانیایی"
-
-msgid "Venezuelan Spanish"
-msgstr "ونزوئلا اسپانیایی"
-
-msgid "Estonian"
-msgstr "استونی"
-
-msgid "Basque"
-msgstr "باسکی"
-
-msgid "Persian"
-msgstr "فارسی"
-
-msgid "Finnish"
-msgstr "فنلاندی"
-
-msgid "French"
-msgstr "فرانسوی"
-
-msgid "Frisian"
-msgstr "فریزی"
-
-msgid "Irish"
-msgstr "ایرلندی"
-
-msgid "Scottish Gaelic"
-msgstr "گیلیک اسکاتلندی"
-
-msgid "Galician"
-msgstr "گالیسیایی"
-
-msgid "Hebrew"
-msgstr "عبری"
-
-msgid "Hindi"
-msgstr "هندی"
-
-msgid "Croatian"
-msgstr "کرواتی"
-
-msgid "Upper Sorbian"
-msgstr "صربستانی بالا"
-
-msgid "Hungarian"
-msgstr "مجاری"
-
-msgid "Armenian"
-msgstr "ارمنی"
-
-msgid "Interlingua"
-msgstr "اینترلینگوا"
-
-msgid "Indonesian"
-msgstr "اندونزیایی"
-
-msgid "Igbo"
-msgstr "ایگبو"
-
-msgid "Ido"
-msgstr "ایدو"
-
-msgid "Icelandic"
-msgstr "ایسلندی"
-
-msgid "Italian"
-msgstr "ایتالیایی"
-
-msgid "Japanese"
-msgstr "ژاپنی"
-
-msgid "Georgian"
-msgstr "گرجی"
-
-msgid "Kabyle"
-msgstr "قبایلی"
-
-msgid "Kazakh"
-msgstr "قزاقستان"
-
-msgid "Khmer"
-msgstr "خمری"
-
-msgid "Kannada"
-msgstr "کناده‌ای"
-
-msgid "Korean"
-msgstr "کره‌ای"
-
-msgid "Kyrgyz"
-msgstr "قرقیزی"
-
-msgid "Luxembourgish"
-msgstr "لوگزامبورگی"
-
-msgid "Lithuanian"
-msgstr "لیتوانی"
-
-msgid "Latvian"
-msgstr "لتونیایی"
-
-msgid "Macedonian"
-msgstr "مقدونی"
-
-msgid "Malayalam"
-msgstr "مالایایی"
-
-msgid "Mongolian"
-msgstr "مغولی"
-
-msgid "Marathi"
-msgstr "مِراتی"
-
-msgid "Malay"
-msgstr "Malay"
-
-msgid "Burmese"
-msgstr "برمه‌ای"
-
-msgid "Norwegian Bokmål"
-msgstr "نروژی"
-
-msgid "Nepali"
-msgstr "نپالی"
-
-msgid "Dutch"
-msgstr "هلندی"
-
-msgid "Norwegian Nynorsk"
-msgstr "نروژی Nynorsk"
-
-msgid "Ossetic"
-msgstr "آسی"
-
-msgid "Punjabi"
-msgstr "پنجابی"
-
-msgid "Polish"
-msgstr "لهستانی"
-
-msgid "Portuguese"
-msgstr "پرتغالی"
-
-msgid "Brazilian Portuguese"
-msgstr "پرتغالیِ برزیل"
-
-msgid "Romanian"
-msgstr "رومانی"
-
-msgid "Russian"
-msgstr "روسی"
-
-msgid "Slovak"
-msgstr "اسلواکی"
-
-msgid "Slovenian"
-msgstr "اسلووِنی"
-
-msgid "Albanian"
-msgstr "آلبانیایی"
-
-msgid "Serbian"
-msgstr "صربی"
-
-msgid "Serbian Latin"
-msgstr "صربی لاتین"
-
-msgid "Swedish"
-msgstr "سوئدی"
-
-msgid "Swahili"
-msgstr "سواحیلی"
-
-msgid "Tamil"
-msgstr "تامیلی"
-
-msgid "Telugu"
-msgstr "تلوگویی"
-
-msgid "Tajik"
-msgstr "تاجیک"
-
-msgid "Thai"
-msgstr "تایلندی"
-
-msgid "Turkmen"
-msgstr "ترکمن"
-
-msgid "Turkish"
-msgstr "ترکی"
-
-msgid "Tatar"
-msgstr "تاتار"
-
-msgid "Udmurt"
-msgstr "ادمورت"
-
-msgid "Uyghur"
-msgstr ""
-
-msgid "Ukrainian"
-msgstr "اکراینی"
-
-msgid "Urdu"
-msgstr "اردو"
-
-msgid "Uzbek"
-msgstr "ازبکی"
-
-msgid "Vietnamese"
-msgstr "ویتنامی"
-
-msgid "Simplified Chinese"
-msgstr "چینی ساده‌شده"
-
-msgid "Traditional Chinese"
-msgstr "چینی سنتی"
-
-msgid "Messages"
-msgstr "پیغام‌ها"
-
-msgid "Site Maps"
-msgstr "نقشه‌های وب‌گاه"
-
-msgid "Static Files"
-msgstr "پرونده‌های استاتیک"
-
-msgid "Syndication"
-msgstr "پیوند"
-
-#. Translators: String used to replace omitted page numbers in elided page
-#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
-msgid "…"
-msgstr "…"
-
-msgid "That page number is not an integer"
-msgstr "شمارهٔ صفحه یک عدد طبیعی نیست"
-
-msgid "That page number is less than 1"
-msgstr "شمارهٔ صفحه کوچکتر از ۱ است"
-
-msgid "That page contains no results"
-msgstr "این صفحه خالی از اطلاعات است"
-
-msgid "Enter a valid value."
-msgstr "یک مقدار معتبر وارد کنید."
-
-msgid "Enter a valid domain name."
-msgstr ""
-
-msgid "Enter a valid URL."
-msgstr "یک نشانی اینترنتی معتبر وارد کنید."
-
-msgid "Enter a valid integer."
-msgstr "یک عدد معتبر وارد کنید."
-
-msgid "Enter a valid email address."
-msgstr "یک ایمیل آدرس معتبر وارد کنید."
-
-#. Translators: "letters" means latin letters: a-z and A-Z.
-msgid ""
-"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
-msgstr ""
-"یک \"اسلاگ\" معتبر متشکل از حروف، اعداد، خط زیر یا خط فاصله، وارد کنید. "
-
-msgid ""
-"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
-"hyphens."
-msgstr ""
-"یک \"اسلاگ\" معتبر وارد کنید که شامل حروف یونیکد، اعداد، خط زیر یا خط فاصله "
-"باشد."
+#, python-format
+msgid "Delete selected %(verbose_name_plural)s"
+msgstr "حذف  %(verbose_name_plural)s های انتخاب شده"
 
 #, python-format
-msgid "Enter a valid %(protocol)s address."
-msgstr ""
-
-msgid "IPv4"
-msgstr ""
-
-msgid "IPv6"
-msgstr ""
-
-msgid "IPv4 or IPv6"
-msgstr ""
-
-msgid "Enter only digits separated by commas."
-msgstr "فقط ارقام جدا شده با کاما وارد کنید."
+msgid "Successfully deleted %(count)d %(items)s."
+msgstr "%(count)d تا %(items)s با موفقیت حذف شدند."
 
 #, python-format
-msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr "مطمئن شوید مقدار  %(limit_value)s است. (اکنون %(show_value)s می باشد)."
+msgid "Cannot delete %(name)s"
+msgstr "امکان حذف %(name)s نیست."
 
-#, python-format
-msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr "مطمئن شوید این مقدار کوچکتر و یا مساوی %(limit_value)s است."
+msgid "Delete multiple objects"
+msgstr "حذف اشیاء متعدد"
 
-#, python-format
-msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr "مطمئن شوید این مقدار بزرگتر و یا مساوی %(limit_value)s است."
+msgid "Administration"
+msgstr "مدیریت"
 
-#, python-format
-msgid "Ensure this value is a multiple of step size %(limit_value)s."
-msgstr ""
-
-#, python-format
-msgid ""
-"Ensure this value is a multiple of step size %(limit_value)s, starting from "
-"%(offset)s, e.g. %(offset)s, %(valid_value1)s, %(valid_value2)s, and so on."
-msgstr ""
-
-#, python-format
-msgid ""
-"Ensure this value has at least %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at least %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"طول این مقدار باید حداقل %(limit_value)d کاراکتر باشد (طولش %(show_value)d "
-"است)."
-msgstr[1] ""
-"طول این مقدار باید حداقل %(limit_value)d کاراکتر باشد (طولش %(show_value)d "
-"است)."
-
-#, python-format
-msgid ""
-"Ensure this value has at most %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at most %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"طول این مقدار باید حداکثر %(limit_value)d کاراکتر باشد (طولش %(show_value)d "
-"است)."
-msgstr[1] ""
-"طول این مقدار باید حداکثر %(limit_value)d کاراکتر باشد (طولش %(show_value)d "
-"است)."
-
-msgid "Enter a number."
-msgstr "یک عدد وارد کنید."
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s digit in total."
-msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] "نباید در مجموع بیش از %(max)s رقم داشته باشد."
-msgstr[1] "نباید در مجموع بیش از %(max)s رقم داشته باشد."
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s decimal place."
-msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] "نباید بیش از %(max)s رقم اعشار داشته باشد."
-msgstr[1] "نباید بیش از %(max)s رقم اعشار داشته باشد."
-
-#, python-format
-msgid ""
-"Ensure that there are no more than %(max)s digit before the decimal point."
-msgid_plural ""
-"Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] "نباید بیش از %(max)s رقم قبل ممیز داشته باشد."
-msgstr[1] "نباید بیش از %(max)s رقم قبل ممیز داشته باشد."
-
-#, python-format
-msgid ""
-"File extension “%(extension)s” is not allowed. Allowed extensions are: "
-"%(allowed_extensions)s."
-msgstr ""
-"استفاده از پرونده با پسوند '%(extension)s' مجاز نیست. پسوند‌های مجاز عبارتند "
-"از: '%(allowed_extensions)s'"
-
-msgid "Null characters are not allowed."
-msgstr "کاراکترهای تهی مجاز نیستند."
-
-msgid "and"
-msgstr "و"
-
-#, python-format
-msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr "‏%(model_name)s با این %(field_labels)s وجود دارد."
-
-#, python-format
-msgid "Constraint “%(name)s” is violated."
-msgstr ""
-
-#, python-format
-msgid "Value %(value)r is not a valid choice."
-msgstr "مقدار %(value)r انتخاب معتبری نیست. "
-
-msgid "This field cannot be null."
-msgstr "این فیلد نمی تواند پوچ باشد."
-
-msgid "This field cannot be blank."
-msgstr "این فیلد نمی تواند خالی باشد."
-
-#, python-format
-msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr "%(model_name)s با این %(field_label)s از قبل موجود است."
-
-#. Translators: The 'lookup_type' is one of 'date', 'year' or
-#. 'month'. Eg: "Title must be unique for pub_date year"
-#, python-format
-msgid ""
-"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
-msgstr ""
-"‏%(field_label)s باید برای %(lookup_type)s %(date_field_label)s یکتا باشد."
-
-#, python-format
-msgid "Field of type: %(field_type)s"
-msgstr "فیلد با نوع: %(field_type)s"
-
-#, python-format
-msgid "“%(value)s” value must be either True or False."
-msgstr "مقدار «%(value)s» باید True یا False باشد."
-
-#, python-format
-msgid "“%(value)s” value must be either True, False, or None."
-msgstr "مقدار «%(value)s» باید True یا False یا None باشد."
-
-msgid "Boolean (Either True or False)"
-msgstr "بولی (درست یا غلط)"
-
-#, python-format
-msgid "String (up to %(max_length)s)"
-msgstr "رشته (تا %(max_length)s)"
-
-msgid "String (unlimited)"
-msgstr "رشته (بی نهایت)"
-
-msgid "Comma-separated integers"
-msgstr "اعداد صحیح جدا-شده با ویلگول"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
-"format."
-msgstr ""
-"مقدار «%(value)s» در قالب نادرستی وارد شده است. تاریخ باید در قالب YYYY-MM-"
-"DD باشد."
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
-"date."
-msgstr ""
-"مقدار تاریخ «%(value)s» با اینکه در قالب درستی (YYYY-MM-DD) است ولی تاریخ "
-"ناممکنی را نشان می‌دهد."
-
-msgid "Date (without time)"
-msgstr "تاریخ (بدون زمان)"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
-"uuuuuu]][TZ] format."
-msgstr ""
-"مقدار \"%(value)s\"  یک قالب نامعتبر دارد. باید در قالب YYYY-MM-DD HH:MM[:"
-"ss[.uuuuuu]][TZ] باشد."
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
-"[TZ]) but it is an invalid date/time."
-msgstr ""
-"مقدار \"%(value)s\" یک قالب معتبر دارد (YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ]) "
-"اما یک تاریخ/زمان نامعتبر است."
-
-msgid "Date (with time)"
-msgstr "تاریخ (با زمان)"
-
-#, python-format
-msgid "“%(value)s” value must be a decimal number."
-msgstr "مقدار '%(value)s' باید عدد دسیمال باشد."
-
-msgid "Decimal number"
-msgstr "عدد دهدهی"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
-"uuuuuu] format."
-msgstr ""
-"مقدار «%(value)s» در قالب نادرستی وارد شده است. باید در قالب ‎[DD] [HH:"
-"[MM:]]ss[.uuuuuu]‎ باشد."
-
-msgid "Duration"
-msgstr "بازهٔ زمانی"
-
-msgid "Email address"
-msgstr "نشانی پست الکترونیکی"
-
-msgid "File path"
-msgstr "مسیر پرونده"
-
-#, python-format
-msgid "“%(value)s” value must be a float."
-msgstr "مقدار «%(value)s» باید عدد اعشاری فلوت باشد."
-
-msgid "Floating point number"
-msgstr "عدد اعشاری"
-
-#, python-format
-msgid "“%(value)s” value must be an integer."
-msgstr "مقدار «%(value)s» باید عدد حقیقی باشد."
-
-msgid "Integer"
-msgstr "عدد صحیح"
-
-msgid "Big (8 byte) integer"
-msgstr "بزرگ (8 بایت) عدد صحیح"
-
-msgid "Small integer"
-msgstr "عدد صحیح کوچک"
-
-msgid "IPv4 address"
-msgstr "IPv4 آدرس"
-
-msgid "IP address"
-msgstr "نشانی IP"
-
-#, python-format
-msgid "“%(value)s” value must be either None, True or False."
-msgstr "مقدار «%(value)s» باید True یا False یا None باشد."
-
-msgid "Boolean (Either True, False or None)"
-msgstr "‌بولی (درست، نادرست یا پوچ)"
-
-msgid "Positive big integer"
-msgstr "عدد صحیح مثبت"
-
-msgid "Positive integer"
-msgstr "عدد صحیح مثبت"
-
-msgid "Positive small integer"
-msgstr "مثبت عدد صحیح کوچک"
-
-#, python-format
-msgid "Slug (up to %(max_length)s)"
-msgstr "تیتر (حداکثر %(max_length)s)"
-
-msgid "Text"
-msgstr "متن"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
-"format."
-msgstr ""
-"مقدار «%(value)s» در قالب نادرستی وارد شده است. باید در قالب HH:MM[:ss[."
-"uuuuuu]]‎ باشد."
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
-"invalid time."
-msgstr ""
-"مقدار «%(value)s» با اینکه در قالب درستی (HH:MM[:ss[.uuuuuu]]‎) است ولی زمان "
-"ناممکنی را نشان می‌دهد."
-
-msgid "Time"
-msgstr "زمان"
-
-msgid "URL"
-msgstr "نشانی اینترنتی"
-
-msgid "Raw binary data"
-msgstr "دادهٔ دودویی خام"
-
-#, python-format
-msgid "“%(value)s” is not a valid UUID."
-msgstr "\"%(value)s\" یک UUID معتبر نیست."
-
-msgid "Universally unique identifier"
-msgstr "شناسه منحصر به فرد سراسری"
-
-msgid "File"
-msgstr "پرونده"
-
-msgid "Image"
-msgstr "تصویر"
-
-msgid "A JSON object"
-msgstr "یک شیء JSON"
-
-msgid "Value must be valid JSON."
-msgstr "مقدار، باید یک JSON معتبر باشد."
-
-#, python-format
-msgid "%(model)s instance with %(field)s %(value)r is not a valid choice."
-msgstr ""
-
-msgid "Foreign Key (type determined by related field)"
-msgstr "کلید خارجی ( نوع بر اساس فیلد رابط مشخص میشود )"
-
-msgid "One-to-one relationship"
-msgstr "رابطه یک به یک "
-
-#, python-format
-msgid "%(from)s-%(to)s relationship"
-msgstr "رابطه %(from)s به %(to)s"
-
-#, python-format
-msgid "%(from)s-%(to)s relationships"
-msgstr "روابط %(from)s به %(to)s"
-
-msgid "Many-to-many relationship"
-msgstr "رابطه چند به چند"
-
-#. Translators: If found as last label character, these punctuation
-#. characters will prevent the default label_suffix to be appended to the
-#. label
-msgid ":?.!"
-msgstr ":؟.!"
-
-msgid "This field is required."
-msgstr "این فیلد لازم است."
-
-msgid "Enter a whole number."
-msgstr "به طور کامل یک عدد وارد کنید."
-
-msgid "Enter a valid date."
-msgstr "یک تاریخ معتبر وارد کنید."
-
-msgid "Enter a valid time."
-msgstr "یک زمان معتبر وارد کنید."
-
-msgid "Enter a valid date/time."
-msgstr "یک تاریخ/زمان معتبر وارد کنید."
-
-msgid "Enter a valid duration."
-msgstr "یک بازهٔ زمانی معتبر وارد کنید."
-
-#, python-brace-format
-msgid "The number of days must be between {min_days} and {max_days}."
-msgstr "عدد روز باید بین {min_days} و {max_days}  باشد."
-
-msgid "No file was submitted. Check the encoding type on the form."
-msgstr "پرونده‌ای ارسال نشده است. نوع کدگذاری فرم را بررسی کنید."
-
-msgid "No file was submitted."
-msgstr "پرونده‌ای ارسال نشده است."
-
-msgid "The submitted file is empty."
-msgstr "پروندهٔ ارسال‌شده خالیست."
-
-#, python-format
-msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
-msgid_plural ""
-"Ensure this filename has at most %(max)d characters (it has %(length)d)."
-msgstr[0] ""
-"طول عنوان پرونده باید حداقل %(max)d کاراکتر باشد (طولش %(length)d است)."
-msgstr[1] ""
-"طول عنوان پرونده باید حداقل %(max)d کاراکتر باشد (طولش %(length)d است)."
-
-msgid "Please either submit a file or check the clear checkbox, not both."
-msgstr "لطفا یا فایل ارسال کنید یا دکمه پاک کردن را علامت بزنید، نه هردو."
-
-msgid ""
-"Upload a valid image. The file you uploaded was either not an image or a "
-"corrupted image."
-msgstr ""
-"یک تصویر معتبر بارگذاری کنید. پرونده‌ای که بارگذاری کردید یا تصویر نبوده و یا "
-"تصویری مخدوش بوده است."
-
-#, python-format
-msgid "Select a valid choice. %(value)s is not one of the available choices."
-msgstr "یک گزینهٔ معتبر انتخاب کنید. %(value)s از گزینه‌های موجود نیست."
-
-msgid "Enter a list of values."
-msgstr "فهرستی از مقادیر وارد کنید."
-
-msgid "Enter a complete value."
-msgstr "یک مقدار کامل وارد کنید."
-
-msgid "Enter a valid UUID."
-msgstr "یک UUID معتبر وارد کنید."
-
-msgid "Enter a valid JSON."
-msgstr "یک JSON معتبر وارد کنید"
-
-#. Translators: This is the default suffix added to form field labels
-msgid ":"
-msgstr ":"
-
-#, python-format
-msgid "(Hidden field %(name)s) %(error)s"
-msgstr "(فیلد پنهان %(name)s) %(error)s"
-
-#, python-format
-msgid ""
-"ManagementForm data is missing or has been tampered with. Missing fields: "
-"%(field_names)s. You may need to file a bug report if the issue persists."
-msgstr ""
-"اطلاعات ManagementForm مفقود یا دستکاری شده است. ردیف های مفقود شده: "
-"%(field_names)s. اگر این مشکل ادامه داشت، آن را گزارش کنید."
-
-#, python-format
-msgid "Please submit at most %(num)d form."
-msgid_plural "Please submit at most %(num)d forms."
-msgstr[0] ""
-msgstr[1] ""
-
-#, python-format
-msgid "Please submit at least %(num)d form."
-msgid_plural "Please submit at least %(num)d forms."
-msgstr[0] ""
-msgstr[1] ""
-
-msgid "Order"
-msgstr "ترتیب:"
-
-msgid "Delete"
-msgstr "حذف"
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s."
-msgstr "لطفا محتوی تکراری برای %(field)s را اصلاح کنید."
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr "لطفا محتوی تکراری برای %(field)s را که باید یکتا باشد اصلاح کنید."
-
-#, python-format
-msgid ""
-"Please correct the duplicate data for %(field_name)s which must be unique "
-"for the %(lookup)s in %(date_field)s."
-msgstr ""
-"لطفا اطلاعات تکراری  %(field_name)s را اصلاح کنید که باید در  %(lookup)s "
-"یکتا باشد %(date_field)s."
-
-msgid "Please correct the duplicate values below."
-msgstr "لطفا مقدار تکراری را اصلاح کنید."
-
-msgid "The inline value did not match the parent instance."
-msgstr "مقدار درون خطی موجود با نمونه والد آن مطابقت ندارد."
-
-msgid "Select a valid choice. That choice is not one of the available choices."
-msgstr "یک گزینهٔ معتبر انتخاب کنید. آن گزینه از گزینه‌های موجود نیست."
-
-#, python-format
-msgid "“%(pk)s” is not a valid value."
-msgstr "\"%(pk)s\" یک مقدار معتبر نیست."
-
-#, python-format
-msgid ""
-"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
-"may be ambiguous or it may not exist."
-msgstr ""
-"%(datetime)sدر محدوده زمانی %(current_timezone)s، قابل تفسیر نیست؛ ممکن است "
-"نامشخص باشد یا اصلاً وجود نداشته باشد."
-
-msgid "Clear"
-msgstr "پاک کردن"
-
-msgid "Currently"
-msgstr "در حال حاضر"
-
-msgid "Change"
-msgstr "تغییر"
-
-msgid "Unknown"
-msgstr "ناشناخته"
+msgid "All"
+msgstr "همه"
 
 msgid "Yes"
 msgstr "بله"
@@ -883,469 +59,742 @@ msgstr "بله"
 msgid "No"
 msgstr "خیر"
 
-#. Translators: Please do not add spaces around commas.
-msgid "yes,no,maybe"
-msgstr "بله,خیر,شاید"
+msgid "Unknown"
+msgstr "ناشناخته"
 
-#, python-format
-msgid "%(size)d byte"
-msgid_plural "%(size)d bytes"
-msgstr[0] "%(size)d بایت"
-msgstr[1] "%(size)d بایت"
+msgid "Any date"
+msgstr "هر تاریخی"
 
-#, python-format
-msgid "%s KB"
-msgstr "%s KB"
+msgid "Today"
+msgstr "امروز"
 
-#, python-format
-msgid "%s MB"
-msgstr "%s MB"
+msgid "Past 7 days"
+msgstr "۷ روز اخیر"
 
-#, python-format
-msgid "%s GB"
-msgstr "%s GB"
+msgid "This month"
+msgstr "این ماه"
 
-#, python-format
-msgid "%s TB"
-msgstr "%s TB"
+msgid "This year"
+msgstr "امسال"
 
-#, python-format
-msgid "%s PB"
-msgstr "%s PB"
+msgid "No date"
+msgstr "بدون تاریخ"
 
-msgid "p.m."
-msgstr "ب.ظ."
+msgid "Has date"
+msgstr "دارای تاریخ"
 
-msgid "a.m."
-msgstr "صبح"
+msgid "Empty"
+msgstr "خالی"
 
-msgid "PM"
-msgstr "بعد از ظهر"
-
-msgid "AM"
-msgstr "صبح"
-
-msgid "midnight"
-msgstr "نیمه شب"
-
-msgid "noon"
-msgstr "ظهر"
-
-msgid "Monday"
-msgstr "دوشنبه"
-
-msgid "Tuesday"
-msgstr "سه شنبه"
-
-msgid "Wednesday"
-msgstr "چهارشنبه"
-
-msgid "Thursday"
-msgstr "پنجشنبه"
-
-msgid "Friday"
-msgstr "جمعه"
-
-msgid "Saturday"
-msgstr "شنبه"
-
-msgid "Sunday"
-msgstr "یکشنبه"
-
-msgid "Mon"
-msgstr "دوشنبه"
-
-msgid "Tue"
-msgstr "سه‌شنبه"
-
-msgid "Wed"
-msgstr "چهارشنبه"
-
-msgid "Thu"
-msgstr "پنجشنبه"
-
-msgid "Fri"
-msgstr "جمعه"
-
-msgid "Sat"
-msgstr "شنبه"
-
-msgid "Sun"
-msgstr "یکشنبه"
-
-msgid "January"
-msgstr "ژانویه"
-
-msgid "February"
-msgstr "فوریه"
-
-msgid "March"
-msgstr "مارس"
-
-msgid "April"
-msgstr "آوریل"
-
-msgid "May"
-msgstr "مه"
-
-msgid "June"
-msgstr "ژوئن"
-
-msgid "July"
-msgstr "ژوئیه"
-
-msgid "August"
-msgstr "اوت"
-
-msgid "September"
-msgstr "سپتامبر"
-
-msgid "October"
-msgstr "اکتبر"
-
-msgid "November"
-msgstr "نوامبر"
-
-msgid "December"
-msgstr "دسامبر"
-
-msgid "jan"
-msgstr "ژانویه"
-
-msgid "feb"
-msgstr "فوریه"
-
-msgid "mar"
-msgstr "مارس"
-
-msgid "apr"
-msgstr "آوریل"
-
-msgid "may"
-msgstr "مه"
-
-msgid "jun"
-msgstr "ژوئن"
-
-msgid "jul"
-msgstr "ژوئیه"
-
-msgid "aug"
-msgstr "اوت"
-
-msgid "sep"
-msgstr "سپتامبر"
-
-msgid "oct"
-msgstr "اکتبر"
-
-msgid "nov"
-msgstr "نوامبر"
-
-msgid "dec"
-msgstr "دسامبر"
-
-msgctxt "abbrev. month"
-msgid "Jan."
-msgstr "ژانویه"
-
-msgctxt "abbrev. month"
-msgid "Feb."
-msgstr "فوریه"
-
-msgctxt "abbrev. month"
-msgid "March"
-msgstr "مارس"
-
-msgctxt "abbrev. month"
-msgid "April"
-msgstr "آوریل"
-
-msgctxt "abbrev. month"
-msgid "May"
-msgstr "مه"
-
-msgctxt "abbrev. month"
-msgid "June"
-msgstr "ژوئن"
-
-msgctxt "abbrev. month"
-msgid "July"
-msgstr "جولای"
-
-msgctxt "abbrev. month"
-msgid "Aug."
-msgstr "اوت"
-
-msgctxt "abbrev. month"
-msgid "Sept."
-msgstr "سپتامبر"
-
-msgctxt "abbrev. month"
-msgid "Oct."
-msgstr "اکتبر"
-
-msgctxt "abbrev. month"
-msgid "Nov."
-msgstr "نوامبر"
-
-msgctxt "abbrev. month"
-msgid "Dec."
-msgstr "دسامبر"
-
-msgctxt "alt. month"
-msgid "January"
-msgstr "ژانویه"
-
-msgctxt "alt. month"
-msgid "February"
-msgstr "فوریه"
-
-msgctxt "alt. month"
-msgid "March"
-msgstr "مارس"
-
-msgctxt "alt. month"
-msgid "April"
-msgstr "آوریل"
-
-msgctxt "alt. month"
-msgid "May"
-msgstr "مه"
-
-msgctxt "alt. month"
-msgid "June"
-msgstr "ژوئن"
-
-msgctxt "alt. month"
-msgid "July"
-msgstr "جولای"
-
-msgctxt "alt. month"
-msgid "August"
-msgstr "اوت"
-
-msgctxt "alt. month"
-msgid "September"
-msgstr "سپتامبر"
-
-msgctxt "alt. month"
-msgid "October"
-msgstr "اکتبر"
-
-msgctxt "alt. month"
-msgid "November"
-msgstr "نوامبر"
-
-msgctxt "alt. month"
-msgid "December"
-msgstr "دسامبر"
-
-msgid "This is not a valid IPv6 address."
-msgstr "این مقدار آدرس IPv6 معتبری نیست."
-
-#, python-format
-msgctxt "String to return when truncating text"
-msgid "%(truncated_text)s…"
-msgstr "%(truncated_text)s…"
-
-msgid "or"
-msgstr "یا"
-
-#. Translators: This string is used as a separator between list elements
-msgid ", "
-msgstr "،"
-
-#, python-format
-msgid "%(num)d year"
-msgid_plural "%(num)d years"
-msgstr[0] "%(num)d سال"
-msgstr[1] "%(num)d سال"
-
-#, python-format
-msgid "%(num)d month"
-msgid_plural "%(num)d months"
-msgstr[0] "%(num)d ماه"
-msgstr[1] "%(num)d ماه"
-
-#, python-format
-msgid "%(num)d week"
-msgid_plural "%(num)d weeks"
-msgstr[0] "%(num)d هفته"
-msgstr[1] "%(num)d هفته"
-
-#, python-format
-msgid "%(num)d day"
-msgid_plural "%(num)d days"
-msgstr[0] "%(num)d روز"
-msgstr[1] "%(num)d روز"
-
-#, python-format
-msgid "%(num)d hour"
-msgid_plural "%(num)d hours"
-msgstr[0] "%(num)d ساعت"
-msgstr[1] "%(num)d ساعت"
-
-#, python-format
-msgid "%(num)d minute"
-msgid_plural "%(num)d minutes"
-msgstr[0] "%(num)d دقیقه"
-msgstr[1] "%(num)d دقیقه"
-
-msgid "Forbidden"
-msgstr "ممنوع"
-
-msgid "CSRF verification failed. Request aborted."
-msgstr "‏CSRF تأیید نشد. درخواست لغو شد."
-
-msgid ""
-"You are seeing this message because this HTTPS site requires a “Referer "
-"header” to be sent by your web browser, but none was sent. This header is "
-"required for security reasons, to ensure that your browser is not being "
-"hijacked by third parties."
-msgstr ""
-"شما این پیغام را مشاهده میکنید برای اینکه این HTTPS site نیازمند یک "
-"\"Referer header\"  برای ارسال توسط مرورگر شما دارد،‌اما مقداری ارسال "
-"نمیشود . این هدر الزامی میباشد برای امنیت ، در واقع برای اینکه مرورگر شما "
-"مطمین شود hijack به عنوان نفر سوم (third parties) در میان نیست"
-
-msgid ""
-"If you have configured your browser to disable “Referer” headers, please re-"
-"enable them, at least for this site, or for HTTPS connections, or for “same-"
-"origin” requests."
-msgstr ""
-"اگر در مرورگر خود سر تیتر \"Referer\" را غیرفعال کرده‌اید، لطفاً آن را فعال "
-"کنید، یا حداقل برای این وب‌گاه یا برای ارتباطات HTTPS و یا برای درخواست‌های "
-"\"Same-origin\" فعال کنید."
-
-msgid ""
-"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
-"including the “Referrer-Policy: no-referrer” header, please remove them. The "
-"CSRF protection requires the “Referer” header to do strict referer checking. "
-"If you’re concerned about privacy, use alternatives like <a "
-"rel=\"noreferrer\" …> for links to third-party sites."
-msgstr ""
-"اگر شما از تگ <meta name=\"referrer\" content=\"no-referrer\"> استفاده "
-"می‌کنید یا سر تیتر \"Referrer-Policy: no-referrer\"  را اضافه کرده‌اید، لطفاً "
-"آن را حذف کنید. محافظ CSRF به سرتیتر \"Referer\" نیاز دارد تا بتواند بررسی "
-"سخت‌گیرانه ارجاع دهنده را انجام دهد. اگر ملاحظاتی در مورد حریم خصوصی دارید از "
-"روش‎‌های جایگزین مانند <a rel=\"noreferrer\" …> برای ارجاع دادن به وب‌گاه‌های "
-"شخص ثالث استفاده کنید."
-
-msgid ""
-"You are seeing this message because this site requires a CSRF cookie when "
-"submitting forms. This cookie is required for security reasons, to ensure "
-"that your browser is not being hijacked by third parties."
-msgstr ""
-"شما این پیام را میبینید چون این سایت نیازمند کوکی «جعل درخواست میان وبگاهی "
-"(CSRF)» است. این کوکی برای امنیت شما ضروری است. با این کوکی می‌توانیم از "
-"اینکه شخص ثالثی کنترل مرورگرتان را به دست نگرفته است اطمینان پیدا کنیم."
-
-msgid ""
-"If you have configured your browser to disable cookies, please re-enable "
-"them, at least for this site, or for “same-origin” requests."
-msgstr ""
-"اگر مرورگر خود را تنظیم کرده‌اید که کوکی غیرفعال باشد، لطفاً مجدداً آن را فعال "
-"کنید؛ حداقل برای این وب‌گاه یا برای درخواست‌های \"same-origin\"."
-
-msgid "More information is available with DEBUG=True."
-msgstr "اطلاعات بیشتر با DEBUG=True ارائه خواهد شد."
-
-msgid "No year specified"
-msgstr "هیچ سالی مشخص نشده است"
-
-msgid "Date out of range"
-msgstr "تاریخ غیرمجاز است"
-
-msgid "No month specified"
-msgstr "هیچ ماهی مشخص نشده است"
-
-msgid "No day specified"
-msgstr "هیچ روزی مشخص نشده است"
-
-msgid "No week specified"
-msgstr "هیچ هفته‌ای مشخص نشده است"
-
-#, python-format
-msgid "No %(verbose_name_plural)s available"
-msgstr "هیچ %(verbose_name_plural)s موجود نیست"
+msgid "Not empty"
+msgstr "غیر خالی"
 
 #, python-format
 msgid ""
-"Future %(verbose_name_plural)s not available because %(class_name)s."
-"allow_future is False."
+"Please enter the correct %(username)s and password for a staff account. Note "
+"that both fields may be case-sensitive."
 msgstr ""
-"آینده %(verbose_name_plural)s امکان پذیر نیست زیرا مقدار %(class_name)s."
-"allow_future برابر False تنظیم شده است."
+"لطفا %(username)s و گذرواژه را برای یک حساب کارمند وارد کنید.\n"
+"توجه داشته باشید که ممکن است هر دو به کوچکی و بزرگی حروف حساس باشند."
+
+msgid "Action:"
+msgstr "اقدام:"
 
 #, python-format
-msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
-msgstr "نوشته تاریخ \"%(datestr)s\" در قالب \"%(format)s\" نامعتبر است"
+msgid "Add another %(verbose_name)s"
+msgstr "افزودن یک %(verbose_name)s دیگر"
+
+msgid "Remove"
+msgstr "حذف"
+
+msgid "Addition"
+msgstr "افزودن"
+
+msgid "Change"
+msgstr "تغییر"
+
+msgid "Deletion"
+msgstr "کاستن"
+
+msgid "action time"
+msgstr "زمان اقدام"
+
+msgid "user"
+msgstr "کاربر"
+
+msgid "content type"
+msgstr "نوع محتوی"
+
+msgid "object id"
+msgstr "شناسهٔ شیء"
+
+#. Translators: 'repr' means representation
+#. (https://docs.python.org/library/functions.html#repr)
+msgid "object repr"
+msgstr "صورت شیء"
+
+msgid "action flag"
+msgstr "نشانه عمل"
+
+msgid "change message"
+msgstr "پیغام تغییر"
+
+msgid "log entry"
+msgstr "مورد اتفاقات"
+
+msgid "log entries"
+msgstr "موارد اتفاقات"
 
 #, python-format
-msgid "No %(verbose_name)s found matching the query"
-msgstr "هیچ %(verbose_name)s ای مطابق جستجو پیدا نشد."
-
-msgid "Page is not “last”, nor can it be converted to an int."
-msgstr "صفحه \"آخرین\" نیست یا شماره صفحه قابل ترجمه به یک عدد صحیح نیست."
+msgid "Added “%(object)s”."
+msgstr "\"%(object)s\" افروده شد."
 
 #, python-format
-msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr "صفحه‌ی اشتباه (%(page_number)s): %(message)s"
+msgid "Changed “%(object)s” — %(changes)s"
+msgstr "تغییر یافت \"%(object)s\" - %(changes)s"
 
 #, python-format
-msgid "Empty list and “%(class_name)s.allow_empty” is False."
-msgstr "لیست خالی و \"%(class_name)s.allow_empty\" برابر False است."
+msgid "Deleted “%(object)s.”"
+msgstr "\"%(object)s\" حدف شد."
 
-msgid "Directory indexes are not allowed here."
-msgstr "شاخص دایرکتوری اینجا قابل قبول نیست."
+msgid "LogEntry Object"
+msgstr "شئ LogEntry"
+
+#, python-brace-format
+msgid "Added {name} “{object}”."
+msgstr "{name} \"{object}\" اضافه شد."
+
+msgid "Added."
+msgstr "اضافه شد"
+
+msgid "and"
+msgstr "و"
+
+#, python-brace-format
+msgid "Changed {fields} for {name} “{object}”."
+msgstr "{fields} برای {name} \"{object}\" تغییر یافتند."
+
+#, python-brace-format
+msgid "Changed {fields}."
+msgstr "{fields} تغییر یافتند."
+
+#, python-brace-format
+msgid "Deleted {name} “{object}”."
+msgstr "{name} \"{object}\" حذف شد."
+
+msgid "No fields changed."
+msgstr "فیلدی تغییر نیافته است."
+
+msgid "None"
+msgstr "هیچ"
+
+msgid "Hold down “Control”, or “Command” on a Mac, to select more than one."
+msgstr ""
+"برای انتخاب بیش از یکی، کلید \"Control\"، یا \"Command\" روی Mac، را نگه "
+"دارید."
+
+msgid "Select this object for an action - {}"
+msgstr ""
+
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully."
+msgstr "{name} \"{obj}\" با موفقیت اضافه شد."
+
+msgid "You may edit it again below."
+msgstr "می‌توانید مجدداً ویرایش کنید."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was added successfully. You may add another {name} below."
+msgstr ""
+"{name} \"{obj}\" با موفقیت اضافه شد. شما میتوانید {name} دیگری در قسمت پایین "
+"اضافه کنید."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may edit it again below."
+msgstr ""
+"{name} \"{obj}\" با موفقیت تغییر یافت. شما میتوانید دوباره آنرا در قسمت "
+"پایین ویرایش کنید."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may add another {name} "
+"below."
+msgstr ""
+"{name} \"{obj}\" با موفقیت تغییر یافت. شما میتوانید {name} دیگری در قسمت "
+"پایین اضافه کنید."
+
+#, python-brace-format
+msgid "The {name} “{obj}” was changed successfully."
+msgstr "{name} \"{obj}\" با موفقیت تغییر یافت."
+
+msgid ""
+"Items must be selected in order to perform actions on them. No items have "
+"been changed."
+msgstr ""
+"آیتم ها باید به منظور انجام عملیات بر روی آنها انتخاب شوند. هیچ آیتمی با "
+"تغییر نیافته است."
+
+msgid "No action selected."
+msgstr "فعالیتی انتخاب نشده"
 
 #, python-format
-msgid "“%(path)s” does not exist"
-msgstr "\"%(path)s\" وجود ندارد "
+msgid "The %(name)s “%(obj)s” was deleted successfully."
+msgstr "%(name)s·\"%(obj)s\" با موفقیت حذف شد."
 
 #, python-format
-msgid "Index of %(directory)s"
-msgstr "فهرست %(directory)s"
+msgid "%(name)s with ID “%(key)s” doesn’t exist. Perhaps it was deleted?"
+msgstr "%(name)s با کلید «%(key)s» وجود ندارد. ممکن است حذف شده باشد."
 
-msgid "The install worked successfully! Congratulations!"
-msgstr "نصب درست کار کرد. تبریک می گویم!"
+#, python-format
+msgid "Add %s"
+msgstr "اضافه کردن %s"
+
+#, python-format
+msgid "Change %s"
+msgstr "تغییر %s"
+
+#, python-format
+msgid "View %s"
+msgstr "مشاهده %s"
+
+msgid "Database error"
+msgstr "خطا در بانک اطلاعاتی"
+
+#, python-format
+msgid "%(count)s %(name)s was changed successfully."
+msgid_plural "%(count)s %(name)s were changed successfully."
+msgstr[0] "%(count)s %(name)s با موفقیت تغییر کرد."
+msgstr[1] "%(count)s %(name)s با موفقیت تغییر کرد."
+
+#, python-format
+msgid "%(total_count)s selected"
+msgid_plural "All %(total_count)s selected"
+msgstr[0] "همه موارد %(total_count)s انتخاب شده"
+msgstr[1] "همه موارد %(total_count)s انتخاب شده"
+
+#, python-format
+msgid "0 of %(cnt)s selected"
+msgstr "0 از %(cnt)s انتخاب شده‌اند"
+
+msgid "Delete"
+msgstr "حذف"
+
+#, python-format
+msgid "Change history: %s"
+msgstr "تاریخچهٔ تغییر: %s"
+
+#. Translators: Model verbose name and instance
+#. representation, suitable to be an item in a
+#. list.
+#, python-format
+msgid "%(class_name)s %(instance)s"
+msgstr "%(class_name)s %(instance)s"
 
 #, python-format
 msgid ""
-"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+"Deleting %(class_name)s %(instance)s would require deleting the following "
+"protected related objects: %(related_objects)s"
 msgstr ""
-"نمایش <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">release notes</a> برای نسخه %(version)s "
-"جنگو"
+"برای حذف %(class_name)s %(instance)s لازم است اشیای حفاظت شدهٔ زیر هم حذف "
+"شوند: %(related_objects)s"
+
+msgid "Django site admin"
+msgstr "مدیریت وب‌گاه Django"
+
+msgid "Django administration"
+msgstr "مدیریت Django"
+
+msgid "Site administration"
+msgstr "مدیریت وب‌گاه"
+
+msgid "Log in"
+msgstr "ورود"
+
+#, python-format
+msgid "%(app)s administration"
+msgstr "مدیریت ‎%(app)s‎"
+
+msgid "Page not found"
+msgstr "صفحه یافت نشد"
+
+msgid "We’re sorry, but the requested page could not be found."
+msgstr "شرمنده، صفحه مورد تقاضا یافت نشد."
+
+msgid "Home"
+msgstr "شروع"
+
+msgid "Server error"
+msgstr "خطای سرور"
+
+msgid "Server error (500)"
+msgstr "خطای سرور (500)"
+
+msgid "Server Error <em>(500)</em>"
+msgstr "خطای سرور <em>(500)</em>"
+
+msgid ""
+"There’s been an error. It’s been reported to the site administrators via "
+"email and should be fixed shortly. Thanks for your patience."
+msgstr ""
+"مشکلی پیش آمده. این مشکل از طریق ایمیل به مدیران وب‌گاه اطلاع داده شد و به "
+"زودی اصلاح می‌گردد. از صبر شما متشکریم."
+
+msgid "Run the selected action"
+msgstr "اجرای حرکت انتخاب شده"
+
+msgid "Go"
+msgstr "برو"
+
+msgid "Click here to select the objects across all pages"
+msgstr "برای انتخاب موجودیت‌ها در تمام صفحات اینجا را کلیک کنید"
+
+#, python-format
+msgid "Select all %(total_count)s %(module_name)s"
+msgstr "انتخاب تمامی %(total_count)s %(module_name)s"
+
+msgid "Clear selection"
+msgstr "لغو انتخاب‌ها"
+
+msgid "Breadcrumbs"
+msgstr ""
+
+#, python-format
+msgid "Models in the %(name)s application"
+msgstr "مدلها در برنامه %(name)s "
+
+msgid "Model name"
+msgstr ""
+
+msgid "Add link"
+msgstr "اضافه‌کردن پیوند"
+
+msgid "Change or view list link"
+msgstr "تغییر یا مشاهده لیست پیوند"
+
+msgid "Add"
+msgstr "اضافه کردن"
+
+msgid "View"
+msgstr "مشاهده"
+
+msgid "You don’t have permission to view or edit anything."
+msgstr "شما اجازهٔ مشاهده یا ویرایش چیزی را ندارید."
+
+msgid "After you’ve created a user, you’ll be able to edit more user options."
+msgstr "پس از ساخت یک کاربر، امکان ثبت یا تغییر گزینه‌های بیشتری را دارید."
+
+msgid "Error:"
+msgstr "خطا:"
+
+msgid "Change password"
+msgstr "تغییر گذرواژه"
+
+msgid "Set password"
+msgstr "تنظیم رمز عبور جدید"
+
+msgid "Please correct the error below."
+msgid_plural "Please correct the errors below."
+msgstr[0] ""
+msgstr[1] ""
+
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr "برای کابر <strong>%(username)s</strong> یک گذرنامهٔ جدید وارد کنید."
+
+msgid ""
+"This action will <strong>enable</strong> password-based authentication for "
+"this user."
+msgstr ""
+
+msgid "Disable password-based authentication"
+msgstr "غیرفعال کردن احراز هویت مبتنی بر گذرواژه"
+
+msgid "Enable password-based authentication"
+msgstr "فعال کردن احراز هویت مبتنی بر گذرواژه"
+
+msgid "Skip to main content"
+msgstr "انتقال به محتوای اصلی"
+
+msgid "Welcome,"
+msgstr "خوش آمدید،"
+
+msgid "View site"
+msgstr "نمایش وبگاه"
+
+msgid "Documentation"
+msgstr "مستندات"
+
+msgid "Log out"
+msgstr "خروج"
+
+#, python-format
+msgid "Add %(name)s"
+msgstr "اضافه‌کردن %(name)s"
+
+msgid "History"
+msgstr "تاریخچه"
+
+msgid "View on site"
+msgstr "مشاهده در وب‌گاه"
+
+msgid "Filter"
+msgstr "فیلتر"
+
+msgid "Hide counts"
+msgstr "مخفی‌کردن تعداد"
+
+msgid "Show counts"
+msgstr "نمایش تعداد"
+
+msgid "Clear all filters"
+msgstr "پاک کردن همه فیلترها"
+
+msgid "Remove from sorting"
+msgstr "حذف از مرتب سازی"
+
+#, python-format
+msgid "Sorting priority: %(priority_number)s"
+msgstr "اولویت مرتب‌سازی: %(priority_number)s"
+
+msgid "Toggle sorting"
+msgstr "تعویض مرتب سازی"
+
+msgid "Toggle theme (current theme: auto)"
+msgstr "تغییر رنگ پوسته (حالت کنونی: خودکار)"
+
+msgid "Toggle theme (current theme: light)"
+msgstr "تغییر رنگ پوسته (حالت کنونی: روشن)"
+
+msgid "Toggle theme (current theme: dark)"
+msgstr "تغییر رنگ پوسته (حالت کنونی: تیره)"
 
 #, python-format
 msgid ""
-"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
-"configured any URLs."
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
 msgstr ""
-"شما این صفحه را به این دلیل مشاهده می کنید که <a href=\"https://docs."
-"djangoproject.com/en/%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a> در فایل تنظیمات شما وجود دارد و شما هیچ URL "
-"تنظیم نکرده اید."
+"حذف %(object_name)s·'%(escaped_object)s' می تواند باعث حذف اشیاء مرتبط شود. "
+"اما حساب شما دسترسی لازم برای حذف اشیای از انواع زیر را ندارد:"
 
-msgid "Django Documentation"
-msgstr "مستندات جنگو"
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would require deleting the "
+"following protected related objects:"
+msgstr ""
+"حذف %(object_name)s '%(escaped_object)s' نیاز به حذف موجودیت‌های مرتبط محافظت "
+"شده ذیل دارد:"
 
-msgid "Topics, references, &amp; how-to’s"
-msgstr "سرفصل‌ها، منابع و دستورالعمل‌ها"
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr ""
+"آیا مطمئنید که می‌خواهید %(object_name)s·\"%(escaped_object)s\" را حذف کنید؟ "
+"کلیهٔ اشیای مرتبط زیر حذف خواهند شد:"
 
-msgid "Tutorial: A Polling App"
-msgstr "آموزش گام به گام: برنامکی برای رأی‌گیری"
+msgid "Objects"
+msgstr "اشیاء"
 
-msgid "Get started with Django"
-msgstr "شروع به کار با جنگو"
+msgid "Yes, I’m sure"
+msgstr "بله، مطمئن هستم."
 
-msgid "Django Community"
-msgstr "جامعهٔ جنگو"
+msgid "No, take me back"
+msgstr "نه، من را برگردان"
 
-msgid "Connect, get help, or contribute"
-msgstr "متصل شوید، کمک بگیرید یا مشارکت کنید"
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would result in deleting related "
+"objects, but your account doesn't have permission to delete the following "
+"types of objects:"
+msgstr ""
+"حذف %(objects_name)s انتخاب شده منجر به حذف موجودیت‌های مرتبط خواهد شد، ولی "
+"شناسه شما اجازه حذف اینگونه از موجودیت‌های ذیل را ندارد:"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would require deleting the following "
+"protected related objects:"
+msgstr ""
+"حذف %(objects_name)s انتخاب شده نیاز به حذف موجودیت‌های مرتبط محافظت شده ذیل "
+"دارد:"
+
+#, python-format
+msgid ""
+"Are you sure you want to delete the selected %(objects_name)s? All of the "
+"following objects and their related items will be deleted:"
+msgstr ""
+"آیا در خصوص حذف %(objects_name)s انتخاب شده اطمینان دارید؟ تمام موجودیت‌های "
+"ذیل به همراه موارد مرتبط با آنها حذف خواهند شد:"
+
+msgid "Delete?"
+msgstr "حذف؟"
+
+#, python-format
+msgid " By %(filter_title)s "
+msgstr "براساس %(filter_title)s "
+
+msgid "Summary"
+msgstr "خلاصه"
+
+msgid "Recent actions"
+msgstr "فعالیتهای اخیر"
+
+msgid "My actions"
+msgstr "فعالیتهای من"
+
+msgid "None available"
+msgstr "چیزی در دسترس نیست"
+
+msgid "Added:"
+msgstr "اضافه شده:"
+
+msgid "Changed:"
+msgstr "ویرایش شده:"
+
+msgid "Deleted:"
+msgstr "حذف شده:"
+
+msgid "Unknown content"
+msgstr "محتوا ناشناخته"
+
+msgid ""
+"Something’s wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
+msgstr ""
+"در نصب بانک اطلاعاتی شما مشکلی وجود دارد. مطمئن شوید که جداول مربوطه به "
+"درستی ایجاد شده‌اند و اطمینان حاصل کنید که بانک اطلاعاتی توسط کاربر مربوطه "
+"قابل خواندن می باشد."
+
+#, python-format
+msgid ""
+"You are authenticated as %(username)s, but are not authorized to access this "
+"page. Would you like to login to a different account?"
+msgstr ""
+"شما به عنوان %(username)sوارد شده اید. ولی اجازه مشاهده صفحه فوق را نداریدو "
+"آیا مایلید با کاربر دیگری وارد شوید؟"
+
+msgid "Forgotten your login credentials?"
+msgstr "گذرواژه یا نام کاربری خود را فراموش کرده‌اید؟"
+
+msgid "Toggle navigation"
+msgstr "تعویض جهت یابی"
+
+msgid "Sidebar"
+msgstr "ستون کناری"
+
+msgid "Start typing to filter…"
+msgstr "آغار به کار نوشتن برای فیلترکردن ..."
+
+msgid "Filter navigation items"
+msgstr "فیلتر کردن آیتم های مسیریابی"
+
+msgid "Date/time"
+msgstr "تاریخ/ساعت"
+
+msgid "User"
+msgstr "کاربر"
+
+msgid "Action"
+msgstr "عمل"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"This object doesn’t have a change history. It probably wasn’t added via this "
+"admin site."
+msgstr ""
+"این شیء هنوز تاریخچه تغییرات ندارد. ممکن است توسط این وب‌گاه مدیر ساخته نشده "
+"باشد."
+
+msgid "Show all"
+msgstr "نمایش همه"
+
+msgid "Save"
+msgstr "ذخیره"
+
+msgid "Popup closing…"
+msgstr "در حال بستن پنجره..."
+
+msgid "Search"
+msgstr "جستجو"
+
+#, python-format
+msgid "%(counter)s result"
+msgid_plural "%(counter)s results"
+msgstr[0] "%(counter)s نتیجه"
+msgstr[1] "%(counter)s نتیجه"
+
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr "در مجموع %(full_result_count)s تا"
+
+msgid "Save as new"
+msgstr "ذخیره به عنوان جدید"
+
+msgid "Save and add another"
+msgstr "ذخیره و ایجاد یکی دیگر"
+
+msgid "Save and continue editing"
+msgstr "ذخیره و ادامهٔ ویرایش"
+
+msgid "Save and view"
+msgstr "ذخیره و نمایش"
+
+msgid "Close"
+msgstr "بستن"
+
+#, python-format
+msgid "Change selected %(model)s"
+msgstr "تغییر دادن %(model)s انتخاب شده"
+
+#, python-format
+msgid "Add another %(model)s"
+msgstr "افزدون %(model)s دیگر"
+
+#, python-format
+msgid "Delete selected %(model)s"
+msgstr "حذف کردن %(model)s انتخاب شده"
+
+#, python-format
+msgid "View selected %(model)s"
+msgstr "نمایش %(model)sهای انتخاب شده"
+
+msgid "Thanks for spending some quality time with the web site today."
+msgstr ""
+"از شما ممنون هستیم که زمان با ارزش خود را برای این تارنما امروز صرف کرده اید"
+
+msgid "Log in again"
+msgstr "ورود دوباره"
+
+msgid "Password change"
+msgstr "تغییر گذرواژه"
+
+msgid "Your password was changed."
+msgstr "گذرواژهٔ شما تغییر یافت."
+
+msgid ""
+"Please enter your old password, for security’s sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+"برای امنیت بیشتر٬ لطفا گذرواژه قدیمی خود را وارد کنید٬ سپس گذرواژه جدیدتان "
+"را دوبار وارد کنید تا ما بتوانیم چک کنیم که به درستی تایپ کرده‌اید. "
+
+msgid "Change my password"
+msgstr "تغییر گذرواژهٔ من"
+
+msgid "Password reset"
+msgstr "ایجاد گذرواژهٔ جدید"
+
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr "گذرواژهٔ جدیدتان تنظیم شد. اکنون می‌توانید وارد وب‌گاه شوید."
+
+msgid "Password reset confirmation"
+msgstr "تأیید گذرواژهٔ جدید"
+
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr ""
+"گذرواژهٔ جدیدتان را دوبار وارد کنید تا ما بتوانیم چک کنیم که به درستی تایپ "
+"کرده‌اید."
+
+msgid "New password:"
+msgstr "گذرواژهٔ جدید:"
+
+msgid "Confirm password:"
+msgstr "تکرار گذرواژه:"
+
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr ""
+"پیوند ایجاد گذرواژهٔ جدید نامعتبر بود، احتمالاً به این علت که قبلاً از آن "
+"استفاده شده است. لطفاً برای یک گذرواژهٔ جدید درخواست دهید."
+
+msgid ""
+"We’ve emailed you instructions for setting your password, if an account "
+"exists with the email you entered. You should receive them shortly."
+msgstr ""
+"دستورالعمل تنظیم گذرواژه را برایتان ایمیل کردیم. اگر با ایمیلی که وارد کردید "
+"اکانتی وجود داشته باشد باید به زودی این دستورالعمل‌ها  را دریافت کنید."
+
+msgid ""
+"If you don’t receive an email, please make sure you’ve entered the address "
+"you registered with, and check your spam folder."
+msgstr ""
+"اگر ایمیلی دریافت نمی‌کنید، لطفاً بررسی کنید که آدرسی که وارد کرده‌اید همان است "
+"که با آن ثبت نام کرده‌اید، و پوشهٔ اسپم خود را نیز چک کنید."
+
+#, python-format
+msgid ""
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr ""
+"شما این ایمیل را بخاطر تقاضای تغییر رمز حساب در  %(site_name)s. دریافت کرده "
+"اید."
+
+msgid "Please go to the following page and choose a new password:"
+msgstr "لطفاً به صفحهٔ زیر بروید و یک گذرواژهٔ جدید انتخاب کنید:"
+
+msgid "In case you’ve forgotten, you are:"
+msgstr ""
+
+msgid "Thanks for using our site!"
+msgstr "ممنون از استفادهٔ شما از وب‌گاه ما"
+
+#, python-format
+msgid "The %(site_name)s team"
+msgstr "گروه %(site_name)s"
+
+msgid ""
+"Forgotten your password? Enter your email address below, and we’ll email "
+"instructions for setting a new one."
+msgstr ""
+"گذرواژه خود را فراموش کرده اید؟ آدرس ایمیل خود را وارد کنید و ما مراحل تعیین "
+"کلمه عبور جدید را برای شما ایمیل می‌کنیم."
+
+msgid "Email address:"
+msgstr "آدرس ایمیل:"
+
+msgid "Reset my password"
+msgstr "ایجاد گذرواژهٔ جدید"
+
+msgid "Select all objects on this page for an action"
+msgstr "انتخاب تمام اشیاء داخل صفحه برای انجام یک اقدام"
+
+msgid "All dates"
+msgstr "همهٔ تاریخ‌ها"
+
+#, python-format
+msgid "Select %s"
+msgstr "%s انتخاب کنید"
+
+#, python-format
+msgid "Select %s to change"
+msgstr "%s را برای تغییر انتخاب کنید"
+
+#, python-format
+msgid "Select %s to view"
+msgstr "%s را برای مشاهده انتخاب کنید"
+
+msgid "Date:"
+msgstr "تاریخ:"
+
+msgid "Time:"
+msgstr "زمان:"
+
+msgid "Lookup"
+msgstr "جستجو"
+
+msgid "Currently:"
+msgstr "در حال حاضر:"
+
+msgid "Change:"
+msgstr "تغییر یافته:"
