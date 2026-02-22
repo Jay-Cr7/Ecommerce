@@ -1,16 +1,18 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# F Wolff <friedel@translate.org.za>, 2019-2020,2022-2025
-# Stephen Cox <stephencoxmail@gmail.com>, 2011-2012
-# unklphil <villiers.strauss@gmail.com>, 2014,2019
+# Christopher Penkin, 2012
+# Christopher Penkin, 2012
+# F Wolff <friedel@translate.org.za>, 2019-2020,2023-2025
+# Pi Delport <pjdelport@gmail.com>, 2012
+# Pi Delport <pjdelport@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-19 11:30-0500\n"
 "PO-Revision-Date: 2025-04-01 15:04-0500\n"
-"Last-Translator: F Wolff <friedel@translate.org.za>, 2019-2020,2022-2025\n"
+"Last-Translator: F Wolff <friedel@translate.org.za>, 2019-2020,2023-2025\n"
 "Language-Team: Afrikaans (http://app.transifex.com/django/django/language/"
 "af/)\n"
 "MIME-Version: 1.0\n"
@@ -19,857 +21,26 @@ msgstr ""
 "Language: af\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Afrikaans"
-msgstr "Afrikaans"
-
-msgid "Arabic"
-msgstr "Arabies"
-
-msgid "Algerian Arabic"
-msgstr "Algeriese Arabies"
-
-msgid "Asturian"
-msgstr "Asturies"
-
-msgid "Azerbaijani"
-msgstr "Aserbeidjans"
-
-msgid "Bulgarian"
-msgstr "Bulgaars"
-
-msgid "Belarusian"
-msgstr "Wit-Russies"
-
-msgid "Bengali"
-msgstr "Bengali"
-
-msgid "Breton"
-msgstr "Bretons"
-
-msgid "Bosnian"
-msgstr "Bosnies"
-
-msgid "Catalan"
-msgstr "Katalaans"
-
-msgid "Central Kurdish (Sorani)"
-msgstr ""
-
-msgid "Czech"
-msgstr "Tsjeggies"
-
-msgid "Welsh"
-msgstr "Wallies"
-
-msgid "Danish"
-msgstr "Deens"
-
-msgid "German"
-msgstr "Duits"
-
-msgid "Lower Sorbian"
-msgstr "Neder-Sorbies"
-
-msgid "Greek"
-msgstr "Grieks"
-
-msgid "English"
-msgstr "Engels"
-
-msgid "Australian English"
-msgstr "Australiese Engels"
-
-msgid "British English"
-msgstr "Britse Engels"
-
-msgid "Esperanto"
-msgstr "Esperanto"
-
-msgid "Spanish"
-msgstr "Spaans"
-
-msgid "Argentinian Spanish"
-msgstr "Argentynse Spaans"
-
-msgid "Colombian Spanish"
-msgstr "Kolombiaanse Spaans"
-
-msgid "Mexican Spanish"
-msgstr "Meksikaanse Spaans"
-
-msgid "Nicaraguan Spanish"
-msgstr "Nicaraguaanse Spaans"
-
-msgid "Venezuelan Spanish"
-msgstr "Venezolaanse Spaans"
-
-msgid "Estonian"
-msgstr "Estnies"
-
-msgid "Basque"
-msgstr "Baskies"
-
-msgid "Persian"
-msgstr "Persies"
-
-msgid "Finnish"
-msgstr "Fins"
-
-msgid "French"
-msgstr "Fraans"
-
-msgid "Frisian"
-msgstr "Fries"
-
-msgid "Irish"
-msgstr "Iers"
-
-msgid "Scottish Gaelic"
-msgstr "Skots-Gaelies"
-
-msgid "Galician"
-msgstr "Galicies"
-
-msgid "Hebrew"
-msgstr "Hebreeus"
-
-msgid "Hindi"
-msgstr "Hindoe"
-
-msgid "Croatian"
-msgstr "Kroaties"
-
-msgid "Upper Sorbian"
-msgstr "Opper-Sorbies"
-
-msgid "Hungarian"
-msgstr "Hongaars"
-
-msgid "Armenian"
-msgstr "Armeens"
-
-msgid "Interlingua"
-msgstr "Interlingua"
-
-msgid "Indonesian"
-msgstr "Indonesies"
-
-msgid "Igbo"
-msgstr ""
-
-msgid "Ido"
-msgstr "Ido"
-
-msgid "Icelandic"
-msgstr "Yslands"
-
-msgid "Italian"
-msgstr "Italiaans"
-
-msgid "Japanese"
-msgstr "Japannees"
-
-msgid "Georgian"
-msgstr "Georgian"
-
-msgid "Kabyle"
-msgstr "Kabilies"
-
-msgid "Kazakh"
-msgstr "Kazakh"
-
-msgid "Khmer"
-msgstr "Khmer"
-
-msgid "Kannada"
-msgstr "Kannada"
-
-msgid "Korean"
-msgstr "Koreaans"
-
-msgid "Kyrgyz"
-msgstr ""
-
-msgid "Luxembourgish"
-msgstr "Luxemburgs"
-
-msgid "Lithuanian"
-msgstr "Litaus"
-
-msgid "Latvian"
-msgstr "Lets"
-
-msgid "Macedonian"
-msgstr "Macedonies"
-
-msgid "Malayalam"
-msgstr "Malabaars"
-
-msgid "Mongolian"
-msgstr "Mongools"
-
-msgid "Marathi"
-msgstr "Marathi"
-
-msgid "Malay"
-msgstr "Maleisies"
-
-msgid "Burmese"
-msgstr "Birmaans"
-
-msgid "Norwegian Bokmål"
-msgstr "Noorweegse Bokmål"
-
-msgid "Nepali"
-msgstr "Nepalees"
-
-msgid "Dutch"
-msgstr "Nederlands"
-
-msgid "Norwegian Nynorsk"
-msgstr "Noorweegse Nynorsk"
-
-msgid "Ossetic"
-msgstr "Osseties"
-
-msgid "Punjabi"
-msgstr "Punjabi"
-
-msgid "Polish"
-msgstr "Pools"
-
-msgid "Portuguese"
-msgstr "Portugees"
-
-msgid "Brazilian Portuguese"
-msgstr "Brasiliaanse Portugees"
-
-msgid "Romanian"
-msgstr "Roemeens"
-
-msgid "Russian"
-msgstr "Russiese"
-
-msgid "Slovak"
-msgstr "Slowaaks"
-
-msgid "Slovenian"
-msgstr "Sloweens"
-
-msgid "Albanian"
-msgstr "Albanees"
-
-msgid "Serbian"
-msgstr "Serwies"
-
-msgid "Serbian Latin"
-msgstr "Serwies Latyns"
-
-msgid "Swedish"
-msgstr "Sweeds"
-
-msgid "Swahili"
-msgstr "Swahili"
-
-msgid "Tamil"
-msgstr "Tamil"
-
-msgid "Telugu"
-msgstr "Teloegoe"
-
-msgid "Tajik"
-msgstr ""
-
-msgid "Thai"
-msgstr "Thai"
-
-msgid "Turkmen"
-msgstr ""
-
-msgid "Turkish"
-msgstr "Turks"
-
-msgid "Tatar"
-msgstr "Tataars"
-
-msgid "Udmurt"
-msgstr "Oedmoerts"
-
-msgid "Uyghur"
-msgstr ""
-
-msgid "Ukrainian"
-msgstr "Oekraïens"
-
-msgid "Urdu"
-msgstr "Oerdoe"
-
-msgid "Uzbek"
-msgstr "Oesbekies "
-
-msgid "Vietnamese"
-msgstr "Viëtnamees"
-
-msgid "Simplified Chinese"
-msgstr "Vereenvoudigde Sjinees"
-
-msgid "Traditional Chinese"
-msgstr "Tradisionele Sjinees"
-
-msgid "Messages"
-msgstr "Boodskappe"
-
-msgid "Site Maps"
-msgstr "Werfkaarte"
-
-msgid "Static Files"
-msgstr "Statiese lêers"
-
-msgid "Syndication"
-msgstr "Sindikasie"
-
-#. Translators: String used to replace omitted page numbers in elided page
-#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
-msgid "…"
-msgstr "…"
-
-msgid "That page number is not an integer"
-msgstr "Daai bladsynommer is nie ’n heelgetal nie"
-
-msgid "That page number is less than 1"
-msgstr "Daai bladsynommer is minder as 1"
-
-msgid "That page contains no results"
-msgstr "Daai bladsy bevat geen resultate nie"
-
-msgid "Enter a valid value."
-msgstr "Gee ’n geldige waarde."
-
-msgid "Enter a valid domain name."
-msgstr "Gee ’n geldige domeinnaam."
-
-msgid "Enter a valid URL."
-msgstr "Gee ’n geldige URL."
-
-msgid "Enter a valid integer."
-msgstr "Gee ’n geldige heelgetal."
-
-msgid "Enter a valid email address."
-msgstr "Gee ’n geldige e-posadres."
-
-#. Translators: "letters" means latin letters: a-z and A-Z.
-msgid ""
-"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
-msgstr ""
-"Gee ’n geldige “slak” wat bestaan ​​uit letters, syfers, onderstreep of "
-"koppelteken."
-
-msgid ""
-"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
-"hyphens."
-msgstr ""
-"Gee ’n geldige “slak” wat bestaan ​​uit Unicode-letters, syfers, onderstreep "
-"of koppelteken."
+#, python-format
+msgid "Delete selected %(verbose_name_plural)s"
+msgstr "Skrap gekose %(verbose_name_plural)s"
 
 #, python-format
-msgid "Enter a valid %(protocol)s address."
-msgstr "Gee ’n geldige %(protocol)s-adres"
-
-msgid "IPv4"
-msgstr "IPv4"
-
-msgid "IPv6"
-msgstr "IPv6"
-
-msgid "IPv4 or IPv6"
-msgstr "IPv4 of IPv6"
-
-msgid "Enter only digits separated by commas."
-msgstr "Gee slegs syfers wat deur kommas geskei is."
+msgid "Successfully deleted %(count)d %(items)s."
+msgstr "Het %(count)d %(items)s suksesvol geskrap."
 
 #, python-format
-msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr ""
-"Maak seker dat hierdie waarde %(limit_value)s is  (dit is %(show_value)s)."
+msgid "Cannot delete %(name)s"
+msgstr "Kan %(name)s nie skrap nie"
 
-#, python-format
-msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr "Maak seker dat hierdie waarde kleiner of gelyk is aan %(limit_value)s."
+msgid "Delete multiple objects"
+msgstr "Skrap meerdere objekte"
 
-#, python-format
-msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr "Maak seker dat hierdie waarde groter of gelyk is aan %(limit_value)s."
+msgid "Administration"
+msgstr "Administrasie"
 
-#, python-format
-msgid "Ensure this value is a multiple of step size %(limit_value)s."
-msgstr ""
-"Maak seker dat hierdie waarde ’n veelvoud is van stapgrootte %(limit_value)s."
-
-#, python-format
-msgid ""
-"Ensure this value is a multiple of step size %(limit_value)s, starting from "
-"%(offset)s, e.g. %(offset)s, %(valid_value1)s, %(valid_value2)s, and so on."
-msgstr ""
-"Maak seker dié waarde is 'n veelvoud van stapgrootte %(limit_value)s, "
-"beginnende by %(offset)s, bv. %(offset)s, %(valid_value1)s, "
-"%(valid_value2)s, ens. "
-
-#, python-format
-msgid ""
-"Ensure this value has at least %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at least %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"Maak seker hierdie waarde het ten minste %(limit_value)d karakter (dit het "
-"%(show_value)d)."
-msgstr[1] ""
-"Maak seker hierdie waarde het ten minste %(limit_value)d karakters (dit het "
-"%(show_value)d)."
-
-#, python-format
-msgid ""
-"Ensure this value has at most %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at most %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"Maak seker hierdie waarde het op die meeste %(limit_value)d karakter (dit "
-"het %(show_value)d)."
-msgstr[1] ""
-"Maak seker hierdie waarde het op die meeste %(limit_value)d karakters (dit "
-"het %(show_value)d)."
-
-msgid "Enter a number."
-msgstr "Gee ’n getal."
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s digit in total."
-msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] "Maak seker dat daar nie meer as %(max)s syfer in totaal is nie."
-msgstr[1] "Maak seker dat daar nie meer as %(max)s syfers in totaal is nie."
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s decimal place."
-msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] "Maak seker dat daar nie meer as %(max)s desimale plek is nie."
-msgstr[1] "Maak seker dat daar nie meer as %(max)s desimale plekke is nie."
-
-#, python-format
-msgid ""
-"Ensure that there are no more than %(max)s digit before the decimal point."
-msgid_plural ""
-"Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] ""
-"Maak seker dat daar nie meer as %(max)s syfer voor die desimale punt is nie."
-msgstr[1] ""
-"Maak seker dat daar nie meer as %(max)s syfers voor die desimale punt is nie."
-
-#, python-format
-msgid ""
-"File extension “%(extension)s” is not allowed. Allowed extensions are: "
-"%(allowed_extensions)s."
-msgstr ""
-"Lêeruitbreiding “%(extension)s” word nie toegelaat nie. Toegelate "
-"uitbreidings is: %(allowed_extensions)s."
-
-msgid "Null characters are not allowed."
-msgstr "Nul-karakters word nie toegelaat nie."
-
-msgid "and"
-msgstr "en"
-
-#, python-format
-msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr "%(model_name)s met hierdie %(field_labels)s bestaan alreeds."
-
-#, python-format
-msgid "Constraint “%(name)s” is violated."
-msgstr "Beperking “%(name)s” word verbreek."
-
-#, python-format
-msgid "Value %(value)r is not a valid choice."
-msgstr "Waarde %(value)r is nie ’n geldige keuse nie."
-
-msgid "This field cannot be null."
-msgstr "Hierdie veld kan nie nil wees nie."
-
-msgid "This field cannot be blank."
-msgstr "Hierdie veld kan nie leeg wees nie."
-
-#, python-format
-msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr "%(model_name)s met hierdie %(field_label)s  bestaan ​​alreeds."
-
-#. Translators: The 'lookup_type' is one of 'date', 'year' or
-#. 'month'. Eg: "Title must be unique for pub_date year"
-#, python-format
-msgid ""
-"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
-msgstr ""
-"%(field_label)s moet uniek wees per %(date_field_label)s %(lookup_type)s."
-
-#, python-format
-msgid "Field of type: %(field_type)s"
-msgstr "Veld van tipe: %(field_type)s "
-
-#, python-format
-msgid "“%(value)s” value must be either True or False."
-msgstr "“%(value)s” waarde moet óf True óf False wees."
-
-#, python-format
-msgid "“%(value)s” value must be either True, False, or None."
-msgstr "Die waarde “%(value)s” moet True, False of None wees."
-
-msgid "Boolean (Either True or False)"
-msgstr "Boole (True of False)"
-
-#, python-format
-msgid "String (up to %(max_length)s)"
-msgstr "String (hoogstens %(max_length)s karakters)"
-
-msgid "String (unlimited)"
-msgstr "String (onbeperk)"
-
-msgid "Comma-separated integers"
-msgstr "Heelgetalle geskei met kommas"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
-"format."
-msgstr ""
-"Die waarde “%(value)s” het ’n ongeldige datumformaat. Dit moet in die "
-"formaat JJJJ-MM-DD wees."
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
-"date."
-msgstr ""
-"Die waarde “%(value)s” het die korrekte formaat (JJJJ-MM-DD), maar dit is ’n "
-"ongeldige datum."
-
-msgid "Date (without time)"
-msgstr "Datum (sonder die tyd)"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
-"uuuuuu]][TZ] format."
-msgstr ""
-"Die waarde “%(value)s” se formaat is ongeldig. Dit moet in die formaat JJJJ-"
-"MM-DD HH:MM[:ss[.uuuuuu]][TZ] wees."
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
-"[TZ]) but it is an invalid date/time."
-msgstr ""
-"Die waarde “%(value)s” het die korrekte formaat (JJJJ-MM-DD HH:MM[:ss[."
-"uuuuuu]][TZ]) maar dit is ’n ongeldige datum/tyd."
-
-msgid "Date (with time)"
-msgstr "Datum (met die tyd)"
-
-#, python-format
-msgid "“%(value)s” value must be a decimal number."
-msgstr "“%(value)s”-waarde moet ’n desimale getal wees."
-
-msgid "Decimal number"
-msgstr "Desimale getal"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
-"uuuuuu] format."
-msgstr ""
-"Die waarde “%(value)s” het ’n ongeldige formaat. Dit moet in die formaat "
-"[DD] [HH:[MM:]]ss[.uuuuuu] wees."
-
-msgid "Duration"
-msgstr "Duur"
-
-msgid "Email address"
-msgstr "E-posadres"
-
-msgid "File path"
-msgstr "Lêerpad"
-
-#, python-format
-msgid "“%(value)s” value must be a float."
-msgstr "Die waarde “%(value)s” moet ’n dryfpuntgetal wees."
-
-msgid "Floating point number"
-msgstr "Dryfpuntgetal"
-
-#, python-format
-msgid "“%(value)s” value must be an integer."
-msgstr "Die waarde “%(value)s” moet ’n heelgetal wees."
-
-msgid "Integer"
-msgstr "Heelgetal"
-
-msgid "Big (8 byte) integer"
-msgstr "Groot (8 greep) heelgetal"
-
-msgid "Small integer"
-msgstr "Klein heelgetal"
-
-msgid "IPv4 address"
-msgstr "IPv4-adres"
-
-msgid "IP address"
-msgstr "IP-adres"
-
-#, python-format
-msgid "“%(value)s” value must be either None, True or False."
-msgstr "“%(value)s”-waarde moet een wees uit None, True of False."
-
-msgid "Boolean (Either True, False or None)"
-msgstr "Boole (True, False, of None)"
-
-msgid "Positive big integer"
-msgstr "Positiewe groot heelgetal"
-
-msgid "Positive integer"
-msgstr "Positiewe heelgetal"
-
-msgid "Positive small integer"
-msgstr "Klein positiewe heelgetal"
-
-#, python-format
-msgid "Slug (up to %(max_length)s)"
-msgstr "Slug (tot en met %(max_length)s karakters)"
-
-msgid "Text"
-msgstr "Teks"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
-"format."
-msgstr ""
-"“%(value)s”-waarde het ’n ongeldige formaat. Dit moet geformateer word as HH:"
-"MM[:ss[.uuuuuu]]."
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
-"invalid time."
-msgstr ""
-"Die waarde “%(value)s” het die regte formaat (HH:MM[:ss[.uuuuuu]]) maar is "
-"nie ’n geldige tyd nie."
-
-msgid "Time"
-msgstr "Tyd"
-
-msgid "URL"
-msgstr "URL"
-
-msgid "Raw binary data"
-msgstr "Rou binêre data"
-
-#, python-format
-msgid "“%(value)s” is not a valid UUID."
-msgstr "“%(value)s” is nie ’n geldige UUID nie."
-
-msgid "Universally unique identifier"
-msgstr "Universeel unieke identifiseerder"
-
-msgid "File"
-msgstr "Lêer"
-
-msgid "Image"
-msgstr "Prent"
-
-msgid "A JSON object"
-msgstr "’n JSON-objek"
-
-msgid "Value must be valid JSON."
-msgstr "Waarde moet geldige JSON wees."
-
-#, python-format
-msgid "%(model)s instance with %(field)s %(value)r is not a valid choice."
-msgstr "%(model)s-objek met %(field)s %(value)r is nie ’n geldige keuse nie."
-
-msgid "Foreign Key (type determined by related field)"
-msgstr "Vreemde sleutel (tipe bepaal deur verwante veld)"
-
-msgid "One-to-one relationship"
-msgstr "Een-tot-een-verhouding"
-
-#, python-format
-msgid "%(from)s-%(to)s relationship"
-msgstr "%(from)s-%(to)s-verwantskap"
-
-#, python-format
-msgid "%(from)s-%(to)s relationships"
-msgstr "%(from)s-%(to)s-verwantskappe"
-
-msgid "Many-to-many relationship"
-msgstr "Baie-tot-baie-verwantskap"
-
-#. Translators: If found as last label character, these punctuation
-#. characters will prevent the default label_suffix to be appended to the
-#. label
-msgid ":?.!"
-msgstr ":?.!"
-
-msgid "This field is required."
-msgstr "Dié veld is verpligtend."
-
-msgid "Enter a whole number."
-msgstr "Tik ’n heelgetal in."
-
-msgid "Enter a valid date."
-msgstr "Tik ’n geldige datum in."
-
-msgid "Enter a valid time."
-msgstr "Tik ’n geldige tyd in."
-
-msgid "Enter a valid date/time."
-msgstr "Tik ’n geldige datum/tyd in."
-
-msgid "Enter a valid duration."
-msgstr "Tik ’n geldige tydsduur in."
-
-#, python-brace-format
-msgid "The number of days must be between {min_days} and {max_days}."
-msgstr "Die aantal dae moet tussen {min_days} en {max_days} wees."
-
-msgid "No file was submitted. Check the encoding type on the form."
-msgstr ""
-"Geen lêer is ingedien nie. Maak seker die koderingtipe op die vorm is reg."
-
-msgid "No file was submitted."
-msgstr "Geen lêer is ingedien nie."
-
-msgid "The submitted file is empty."
-msgstr "Die ingediende lêer is leeg."
-
-#, python-format
-msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
-msgid_plural ""
-"Ensure this filename has at most %(max)d characters (it has %(length)d)."
-msgstr[0] ""
-"Maak seker hierdie lêernaam het hoogstens %(max)d karakter (dit het "
-"%(length)d)."
-msgstr[1] ""
-"Maak seker hierdie lêernaam het hoogstens %(max)d karakters (dit het "
-"%(length)d)."
-
-msgid "Please either submit a file or check the clear checkbox, not both."
-msgstr "Dien die lêer in óf merk die Maak skoon-boksie, nie altwee nie."
-
-msgid ""
-"Upload a valid image. The file you uploaded was either not an image or a "
-"corrupted image."
-msgstr ""
-"Laai ’n geldige prent. Die lêer wat jy opgelaai het, is nie ’n prent nie of "
-"dit is ’n korrupte prent."
-
-#, python-format
-msgid "Select a valid choice. %(value)s is not one of the available choices."
-msgstr ""
-"Kies ’n geldige keuse. %(value)s is nie een van die beskikbare keuses nie."
-
-msgid "Enter a list of values."
-msgstr "Tik ’n lys waardes in."
-
-msgid "Enter a complete value."
-msgstr "Tik ’n volledige waarde in."
-
-msgid "Enter a valid UUID."
-msgstr "Tik ’n geldig UUID in."
-
-msgid "Enter a valid JSON."
-msgstr "Gee geldige JSON."
-
-#. Translators: This is the default suffix added to form field labels
-msgid ":"
-msgstr ":"
-
-#, python-format
-msgid "(Hidden field %(name)s) %(error)s"
-msgstr "(Versteekte veld %(name)s) %(error)s"
-
-#, python-format
-msgid ""
-"ManagementForm data is missing or has been tampered with. Missing fields: "
-"%(field_names)s. You may need to file a bug report if the issue persists."
-msgstr ""
-
-#, python-format
-msgid "Please submit at most %(num)d form."
-msgid_plural "Please submit at most %(num)d forms."
-msgstr[0] "Dien asseblief hoogstens %(num)d vorm in."
-msgstr[1] "Dien asseblief hoogstens %(num)d vorms in."
-
-#, python-format
-msgid "Please submit at least %(num)d form."
-msgid_plural "Please submit at least %(num)d forms."
-msgstr[0] "Dien asseblief ten minste %(num)d vorm in."
-msgstr[1] "Dien asseblief ten minste %(num)d vorms in."
-
-msgid "Order"
-msgstr "Orde"
-
-msgid "Delete"
-msgstr "Verwyder"
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s."
-msgstr "Korrigeer die dubbele data vir %(field)s."
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr "Korrigeer die dubbele data vir %(field)s, dit moet uniek wees."
-
-#, python-format
-msgid ""
-"Please correct the duplicate data for %(field_name)s which must be unique "
-"for the %(lookup)s in %(date_field)s."
-msgstr ""
-"Korrigeer die dubbele data vir %(field_name)s, dit moet uniek wees vir die "
-"%(lookup)s in %(date_field)s."
-
-msgid "Please correct the duplicate values below."
-msgstr "Korrigeer die dubbele waardes hieronder."
-
-msgid "The inline value did not match the parent instance."
-msgstr "Die waarde inlyn pas nie by die ouerobjek nie."
-
-msgid "Select a valid choice. That choice is not one of the available choices."
-msgstr ""
-"Kies ’n geldige keuse. Daardie keuse is nie een van die beskikbare keuses "
-"nie."
-
-#, python-format
-msgid "“%(pk)s” is not a valid value."
-msgstr "“%(pk)s” is nie ’n geldige waarde nie."
-
-#, python-format
-msgid ""
-"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
-"may be ambiguous or it may not exist."
-msgstr ""
-"%(datetime)s kon nie in die tydsone %(current_timezone)s vertolk word nie; "
-"dit is dalk dubbelsinnig, of bestaan dalk nie."
-
-msgid "Clear"
-msgstr "Maak skoon"
-
-msgid "Currently"
-msgstr "Tans"
-
-msgid "Change"
-msgstr "Verander"
-
-msgid "Unknown"
-msgstr "Onbekend"
+msgid "All"
+msgstr "Almal"
 
 msgid "Yes"
 msgstr "Ja"
@@ -877,469 +48,741 @@ msgstr "Ja"
 msgid "No"
 msgstr "Nee"
 
-#. Translators: Please do not add spaces around commas.
-msgid "yes,no,maybe"
-msgstr "ja,nee,miskien"
+msgid "Unknown"
+msgstr "Onbekend"
 
-#, python-format
-msgid "%(size)d byte"
-msgid_plural "%(size)d bytes"
-msgstr[0] "%(size)d greep"
-msgstr[1] "%(size)d grepe"
+msgid "Any date"
+msgstr "Enige datum"
 
-#, python-format
-msgid "%s KB"
-msgstr "%s KB"
+msgid "Today"
+msgstr "Vandag"
 
-#, python-format
-msgid "%s MB"
-msgstr "%s MB"
+msgid "Past 7 days"
+msgstr "Vorige 7 dae"
 
-#, python-format
-msgid "%s GB"
-msgstr "%s GB"
+msgid "This month"
+msgstr "Hierdie maand"
 
-#, python-format
-msgid "%s TB"
-msgstr "%s TB"
+msgid "This year"
+msgstr "Hierdie jaar"
 
-#, python-format
-msgid "%s PB"
-msgstr "%s PB"
+msgid "No date"
+msgstr "Geen datum"
 
-msgid "p.m."
-msgstr "nm."
+msgid "Has date"
+msgstr "Het datum"
 
-msgid "a.m."
-msgstr "vm."
+msgid "Empty"
+msgstr "Leeg"
 
-msgid "PM"
-msgstr "NM"
-
-msgid "AM"
-msgstr "VM"
-
-msgid "midnight"
-msgstr "middernag"
-
-msgid "noon"
-msgstr "middag"
-
-msgid "Monday"
-msgstr "Maandag"
-
-msgid "Tuesday"
-msgstr "Dinsdag"
-
-msgid "Wednesday"
-msgstr "Woensdag"
-
-msgid "Thursday"
-msgstr "Donderdag"
-
-msgid "Friday"
-msgstr "Vrydag"
-
-msgid "Saturday"
-msgstr "Saterdag"
-
-msgid "Sunday"
-msgstr "Sondag"
-
-msgid "Mon"
-msgstr "Ma"
-
-msgid "Tue"
-msgstr "Di"
-
-msgid "Wed"
-msgstr "Wo"
-
-msgid "Thu"
-msgstr "Do"
-
-msgid "Fri"
-msgstr "Vr"
-
-msgid "Sat"
-msgstr "Sa"
-
-msgid "Sun"
-msgstr "So"
-
-msgid "January"
-msgstr "Januarie"
-
-msgid "February"
-msgstr "Februarie"
-
-msgid "March"
-msgstr "Maart"
-
-msgid "April"
-msgstr "April"
-
-msgid "May"
-msgstr "Mei"
-
-msgid "June"
-msgstr "Junie"
-
-msgid "July"
-msgstr "Julie"
-
-msgid "August"
-msgstr "Augustus"
-
-msgid "September"
-msgstr "September"
-
-msgid "October"
-msgstr "Oktober"
-
-msgid "November"
-msgstr "November"
-
-msgid "December"
-msgstr "Desember"
-
-msgid "jan"
-msgstr "jan"
-
-msgid "feb"
-msgstr "feb"
-
-msgid "mar"
-msgstr "mrt"
-
-msgid "apr"
-msgstr "apr"
-
-msgid "may"
-msgstr "mei"
-
-msgid "jun"
-msgstr "jun"
-
-msgid "jul"
-msgstr "jul"
-
-msgid "aug"
-msgstr "aug"
-
-msgid "sep"
-msgstr "sept"
-
-msgid "oct"
-msgstr "okt"
-
-msgid "nov"
-msgstr "nov"
-
-msgid "dec"
-msgstr "des"
-
-msgctxt "abbrev. month"
-msgid "Jan."
-msgstr "Jan."
-
-msgctxt "abbrev. month"
-msgid "Feb."
-msgstr "Feb."
-
-msgctxt "abbrev. month"
-msgid "March"
-msgstr "Maart"
-
-msgctxt "abbrev. month"
-msgid "April"
-msgstr "April"
-
-msgctxt "abbrev. month"
-msgid "May"
-msgstr "Mei"
-
-msgctxt "abbrev. month"
-msgid "June"
-msgstr "Junie"
-
-msgctxt "abbrev. month"
-msgid "July"
-msgstr "Julie"
-
-msgctxt "abbrev. month"
-msgid "Aug."
-msgstr "Aug."
-
-msgctxt "abbrev. month"
-msgid "Sept."
-msgstr "Sept."
-
-msgctxt "abbrev. month"
-msgid "Oct."
-msgstr "Okt."
-
-msgctxt "abbrev. month"
-msgid "Nov."
-msgstr "Nov."
-
-msgctxt "abbrev. month"
-msgid "Dec."
-msgstr "Des."
-
-msgctxt "alt. month"
-msgid "January"
-msgstr "Januarie"
-
-msgctxt "alt. month"
-msgid "February"
-msgstr "Februarie"
-
-msgctxt "alt. month"
-msgid "March"
-msgstr "Maart"
-
-msgctxt "alt. month"
-msgid "April"
-msgstr "April"
-
-msgctxt "alt. month"
-msgid "May"
-msgstr "Mei"
-
-msgctxt "alt. month"
-msgid "June"
-msgstr "Junie"
-
-msgctxt "alt. month"
-msgid "July"
-msgstr "Julie"
-
-msgctxt "alt. month"
-msgid "August"
-msgstr "Augustus"
-
-msgctxt "alt. month"
-msgid "September"
-msgstr "September"
-
-msgctxt "alt. month"
-msgid "October"
-msgstr "Oktober"
-
-msgctxt "alt. month"
-msgid "November"
-msgstr "November"
-
-msgctxt "alt. month"
-msgid "December"
-msgstr "Desember"
-
-msgid "This is not a valid IPv6 address."
-msgstr "Hierdie is nie ’n geldige IPv6-adres nie."
-
-#, python-format
-msgctxt "String to return when truncating text"
-msgid "%(truncated_text)s…"
-msgstr "%(truncated_text)s…"
-
-msgid "or"
-msgstr "of"
-
-#. Translators: This string is used as a separator between list elements
-msgid ", "
-msgstr ", "
-
-#, python-format
-msgid "%(num)d year"
-msgid_plural "%(num)d years"
-msgstr[0] "%(num)d jaar"
-msgstr[1] "%(num)d jaar"
-
-#, python-format
-msgid "%(num)d month"
-msgid_plural "%(num)d months"
-msgstr[0] "%(num)d maand"
-msgstr[1] "%(num)d maande"
-
-#, python-format
-msgid "%(num)d week"
-msgid_plural "%(num)d weeks"
-msgstr[0] "%(num)d week"
-msgstr[1] "%(num)d weke"
-
-#, python-format
-msgid "%(num)d day"
-msgid_plural "%(num)d days"
-msgstr[0] "%(num)d dag"
-msgstr[1] "%(num)d dae"
-
-#, python-format
-msgid "%(num)d hour"
-msgid_plural "%(num)d hours"
-msgstr[0] "%(num)d uur"
-msgstr[1] "%(num)d uur"
-
-#, python-format
-msgid "%(num)d minute"
-msgid_plural "%(num)d minutes"
-msgstr[0] "%(num)d minuut"
-msgstr[1] "%(num)d minute"
-
-msgid "Forbidden"
-msgstr "Verbode"
-
-msgid "CSRF verification failed. Request aborted."
-msgstr "CSRF-verifikasie het misluk. Versoek is laat val."
-
-msgid ""
-"You are seeing this message because this HTTPS site requires a “Referer "
-"header” to be sent by your web browser, but none was sent. This header is "
-"required for security reasons, to ensure that your browser is not being "
-"hijacked by third parties."
-msgstr ""
-"U sien hierdie boodskap  omdat dié HTTPS-werf vereis dat u webblaaier ’n "
-"“Referer header” moet stuur, maar dit is nie gestuur nie. Hierdie header is "
-"vir sekuriteitsredes nodig om te verseker dat u blaaier nie deur derde "
-"partye gekaap is nie."
-
-msgid ""
-"If you have configured your browser to disable “Referer” headers, please re-"
-"enable them, at least for this site, or for HTTPS connections, or for “same-"
-"origin” requests."
-msgstr ""
-"As “Referer headers” in u blaaier gedeaktiveer is, heraktiveer hulle asb. "
-"ten minste vir dié werf, of vir HTTPS-verbindings, of vir “same-origin”-"
-"versoeke."
-
-msgid ""
-"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
-"including the “Referrer-Policy: no-referrer” header, please remove them. The "
-"CSRF protection requires the “Referer” header to do strict referer checking. "
-"If you’re concerned about privacy, use alternatives like <a "
-"rel=\"noreferrer\" …> for links to third-party sites."
-msgstr ""
-"Indien u die <meta name=\"referrer\" content=\"no-referrer\">-etiket gebruik "
-"of die “Referrer-Policy: no-referrer” header gebruik, verwyder hulle asb. "
-"Die CSRF-beskerming vereis die “Referer” header om streng kontrole van die "
-"verwysende bladsy te doen. Indien u besorg is oor privaatheid, gebruik "
-"alternatiewe soos <a rel=\"noreferrer\" …> vir skakels na derdepartywebwerwe."
-
-msgid ""
-"You are seeing this message because this site requires a CSRF cookie when "
-"submitting forms. This cookie is required for security reasons, to ensure "
-"that your browser is not being hijacked by third parties."
-msgstr ""
-"U sien hierdie boodskap omdat dié werf ’n CSRF-koekie benodig wanneer vorms "
-"ingedien word. Dié koekie word vir sekuriteitsredes benodig om te te "
-"verseker dat u blaaier nie deur derde partye gekaap word nie."
-
-msgid ""
-"If you have configured your browser to disable cookies, please re-enable "
-"them, at least for this site, or for “same-origin” requests."
-msgstr ""
-"Indien koekies in u blaaier gedeaktiveer is, aktiveerder hulle asb. ten "
-"minste vir dié werf, of vir “same-origin”-versoeke."
-
-msgid "More information is available with DEBUG=True."
-msgstr "Meer inligting is beskikbaar met DEBUG=True."
-
-msgid "No year specified"
-msgstr "Geen jaar gespesifiseer nie"
-
-msgid "Date out of range"
-msgstr "Datum buite omvang"
-
-msgid "No month specified"
-msgstr "Geen maand gespesifiseer nie"
-
-msgid "No day specified"
-msgstr "Geen dag gespesifiseer nie"
-
-msgid "No week specified"
-msgstr "Geen week gespesifiseer nie"
-
-#, python-format
-msgid "No %(verbose_name_plural)s available"
-msgstr "Geen %(verbose_name_plural)s beskikbaar nie"
+msgid "Not empty"
+msgstr "Nie leeg nie"
 
 #, python-format
 msgid ""
-"Future %(verbose_name_plural)s not available because %(class_name)s."
-"allow_future is False."
+"Please enter the correct %(username)s and password for a staff account. Note "
+"that both fields may be case-sensitive."
 msgstr ""
-"Toekomstige %(verbose_name_plural)s is nie beskikbaar nie, omdat "
-"%(class_name)s.allow_future vals is."
+"Gee die korrekte %(username)s en wagwoord vir ’n personeelrekening. Let op "
+"dat altwee velde dalk hooflettersensitief is."
+
+msgid "Action:"
+msgstr "Aksie:"
 
 #, python-format
-msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
-msgstr "Ongeldige datumstring “%(datestr)s” gegewe die formaat “%(format)s”"
+msgid "Add another %(verbose_name)s"
+msgstr "Voeg nog ’n %(verbose_name)s by"
 
-#, python-format
-msgid "No %(verbose_name)s found matching the query"
-msgstr "Geen %(verbose_name)s gevind vir die soektog"
+msgid "Remove"
+msgstr "Verwyder"
 
-msgid "Page is not “last”, nor can it be converted to an int."
+msgid "Addition"
+msgstr "Byvoeging"
+
+msgid "Change"
 msgstr ""
-"Bladsy is nie “last” nie, en dit kan nie omgeskakel word na ’n heelgetal nie."
+
+msgid "Deletion"
+msgstr "Verwydering"
+
+msgid "action time"
+msgstr "aksietyd"
+
+msgid "user"
+msgstr "gebruiker"
+
+msgid "content type"
+msgstr "inhoudtipe"
+
+msgid "object id"
+msgstr "objek-ID"
+
+#. Translators: 'repr' means representation
+#. (https://docs.python.org/library/functions.html#repr)
+msgid "object repr"
+msgstr "objek-repr"
+
+msgid "action flag"
+msgstr "aksievlag"
+
+msgid "change message"
+msgstr "veranderingboodskap"
+
+msgid "log entry"
+msgstr "log-inskrywing"
+
+msgid "log entries"
+msgstr "log-inskrywingings"
 
 #, python-format
-msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr "Ongeldige bladsy (%(page_number)s): %(message)s"
+msgid "Added “%(object)s”."
+msgstr "Het “%(object)s” bygevoeg."
 
 #, python-format
-msgid "Empty list and “%(class_name)s.allow_empty” is False."
-msgstr "Leë lys en “%(class_name)s.allow_empty” is vals."
-
-msgid "Directory indexes are not allowed here."
-msgstr "Gidsindekse word nie hier toegelaat nie."
+msgid "Changed “%(object)s” — %(changes)s"
+msgstr "Het “%(object)s” gewysig — %(changes)s"
 
 #, python-format
-msgid "“%(path)s” does not exist"
-msgstr "“%(path)s” bestaan nie."
+msgid "Deleted “%(object)s.”"
+msgstr "Het “%(object)s” geskrap."
+
+msgid "LogEntry Object"
+msgstr "LogEntry-objek"
+
+#, python-brace-format
+msgid "Added {name} “{object}”."
+msgstr "Het {name} “{object}” bygevoeg."
+
+msgid "Added."
+msgstr "Bygevoeg."
+
+msgid "and"
+msgstr "en"
+
+#, python-brace-format
+msgid "Changed {fields} for {name} “{object}”."
+msgstr "Het {fields} vir {name} “{object}” bygevoeg."
+
+#, python-brace-format
+msgid "Changed {fields}."
+msgstr "Het {fields} verander."
+
+#, python-brace-format
+msgid "Deleted {name} “{object}”."
+msgstr "Het {name} “{object}” geskrap."
+
+msgid "No fields changed."
+msgstr "Geen velde het verander nie."
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Hold down “Control”, or “Command” on a Mac, to select more than one."
+msgstr "Hou “Control” in (of “Command” op ’n Mac) om meer as een te kies."
+
+msgid "Select this object for an action - {}"
+msgstr "Kies dié objek vir ’n aksie - {}"
+
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully."
+msgstr "Die {name} “{obj}” is suksesvol bygevoeg."
+
+msgid "You may edit it again below."
+msgstr "Dit kan weer hieronder gewysig word."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was added successfully. You may add another {name} below."
+msgstr ""
+"Die {name} “{obj}” is suksesvol bygevoeg. Voeg gerus nog ’n {name} onder by."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may edit it again below."
+msgstr ""
+"Die {name} “{obj}” is suksesvol gewysig. Redigeer dit gerus weer onder."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may add another {name} "
+"below."
+msgstr ""
+"Die {name} “{obj}” is suksesvol bygevoeg. Voeg gerus nog ’n {name} onder by."
+
+#, python-brace-format
+msgid "The {name} “{obj}” was changed successfully."
+msgstr "Die {name} “{obj}” is suksesvol gewysig."
+
+msgid ""
+"Items must be selected in order to perform actions on them. No items have "
+"been changed."
+msgstr ""
+"Items moet gekies word om aksies op hulle uit te voer. Geen items is "
+"verander nie."
+
+msgid "No action selected."
+msgstr "Geen aksie gekies nie."
 
 #, python-format
-msgid "Index of %(directory)s"
-msgstr "Indeks van %(directory)s"
+msgid "The %(name)s “%(obj)s” was deleted successfully."
+msgstr "Die %(name)s “%(obj)s” is suksesvol geskrap."
 
-msgid "The install worked successfully! Congratulations!"
-msgstr "Die installasie was suksesvol! Geluk!"
+#, python-format
+msgid "%(name)s with ID “%(key)s” doesn’t exist. Perhaps it was deleted?"
+msgstr "%(name)s met ID “%(key)s” bestaan nie. Is dit dalk geskrap?"
+
+#, python-format
+msgid "Add %s"
+msgstr "Voeg %s by"
+
+#, python-format
+msgid "Change %s"
+msgstr "Wysig %s"
+
+#, python-format
+msgid "View %s"
+msgstr "Beskou %s"
+
+msgid "Database error"
+msgstr "Databasisfout"
+
+#, python-format
+msgid "%(count)s %(name)s was changed successfully."
+msgid_plural "%(count)s %(name)s were changed successfully."
+msgstr[0] "%(count)s %(name)s is suksesvol verander."
+msgstr[1] "%(count)s %(name)s is suksesvol verander."
+
+#, python-format
+msgid "%(total_count)s selected"
+msgid_plural "All %(total_count)s selected"
+msgstr[0] "%(total_count)s gekies"
+msgstr[1] "Al %(total_count)s gekies"
+
+#, python-format
+msgid "0 of %(cnt)s selected"
+msgstr "0 uit %(cnt)s gekies"
+
+msgid "Delete"
+msgstr "Skrap"
+
+#, python-format
+msgid "Change history: %s"
+msgstr "Verander geskiedenis: %s"
+
+#. Translators: Model verbose name and instance
+#. representation, suitable to be an item in a
+#. list.
+#, python-format
+msgid "%(class_name)s %(instance)s"
+msgstr "%(class_name)s %(instance)s"
 
 #, python-format
 msgid ""
-"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+"Deleting %(class_name)s %(instance)s would require deleting the following "
+"protected related objects: %(related_objects)s"
 msgstr ""
-"Sien die <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">vrystellingsnotas</a> vir Django "
-"%(version)s"
+"Om %(class_name)s %(instance)s te skrap sal vereis dat die volgende "
+"beskermde verwante objekte geskrap word: %(related_objects)s"
+
+msgid "Django site admin"
+msgstr "Django-werfadmin"
+
+msgid "Django administration"
+msgstr "Django-administrasie"
+
+msgid "Site administration"
+msgstr "Werfadministrasie"
+
+msgid "Log in"
+msgstr "Meld aan"
+
+#, python-format
+msgid "%(app)s administration"
+msgstr "%(app)s-administrasie"
+
+msgid "Page not found"
+msgstr "Bladsy nie gevind nie"
+
+msgid "We’re sorry, but the requested page could not be found."
+msgstr "Jammer! Die aangevraagde bladsy kon nie gevind word nie."
+
+msgid "Home"
+msgstr "Tuis"
+
+msgid "Server error"
+msgstr "Bedienerfout"
+
+msgid "Server error (500)"
+msgstr "Bedienerfout (500)"
+
+msgid "Server Error <em>(500)</em>"
+msgstr "Bedienerfout <em>(500)</em>"
+
+msgid ""
+"There’s been an error. It’s been reported to the site administrators via "
+"email and should be fixed shortly. Thanks for your patience."
+msgstr ""
+"’n Fout het voorgekom Dit is via e-pos aan die werfadministrateurs "
+"gerapporteer en behoort binnekort reggestel te word. Dankie vir u geduld."
+
+msgid "Run the selected action"
+msgstr "Voer die gekose aksie uit"
+
+msgid "Go"
+msgstr "Gaan"
+
+msgid "Click here to select the objects across all pages"
+msgstr "Kliek hier om die objekte oor alle bladsye te kies."
+
+#, python-format
+msgid "Select all %(total_count)s %(module_name)s"
+msgstr "Kies al %(total_count)s %(module_name)s"
+
+msgid "Clear selection"
+msgstr "Verwyder keuses"
+
+msgid "Breadcrumbs"
+msgstr "Broodkrummels"
+
+#, python-format
+msgid "Models in the %(name)s application"
+msgstr "Modelle in die %(name)s-toepassing"
+
+msgid "Model name"
+msgstr ""
+
+msgid "Add link"
+msgstr "Voeg skakel by"
+
+msgid "Change or view list link"
+msgstr ""
+
+msgid "Add"
+msgstr "Voeg by"
+
+msgid "View"
+msgstr "Bekyk"
+
+msgid "You don’t have permission to view or edit anything."
+msgstr "U het nie regte om enigiets te sien of te redigeer nie."
+
+msgid "After you’ve created a user, you’ll be able to edit more user options."
+msgstr ""
+"Nadat ’n gebruiker geskep is, kan meer gebruikerkeuses geredigeer word."
+
+msgid "Error:"
+msgstr "Fout:"
+
+msgid "Change password"
+msgstr "Verander wagwoord"
+
+msgid "Set password"
+msgstr "Stel wagwoord"
+
+msgid "Please correct the error below."
+msgid_plural "Please correct the errors below."
+msgstr[0] "Korrigeer asb. die fout hier onder."
+msgstr[1] "Korrigeer asb. die foute hier onder."
+
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr "Vul ’n nuwe wagwoord vir gebruiker <strong>%(username)s</strong> in."
+
+msgid ""
+"This action will <strong>enable</strong> password-based authentication for "
+"this user."
+msgstr ""
+"Dié aksie sal wagwoordgebaseerde aanmelding <strong>aktiveer</strong> vir "
+"dié gebruiker."
+
+msgid "Disable password-based authentication"
+msgstr "Deaktiveer wagwoordgebaseerde aanmelding"
+
+msgid "Enable password-based authentication"
+msgstr "Aktiveer wagwoordgebaseerde aanmelding"
+
+msgid "Skip to main content"
+msgstr "Gaan direk na hoofinhoud"
+
+msgid "Welcome,"
+msgstr "Welkom,"
+
+msgid "View site"
+msgstr "Besoek werf"
+
+msgid "Documentation"
+msgstr "Dokumentasie"
+
+msgid "Log out"
+msgstr "Meld af"
+
+#, python-format
+msgid "Add %(name)s"
+msgstr "Voeg %(name)s by"
+
+msgid "History"
+msgstr "Geskiedenis"
+
+msgid "View on site"
+msgstr "Bekyk op werf"
+
+msgid "Filter"
+msgstr "Filtreer"
+
+msgid "Hide counts"
+msgstr "Versteek tellings"
+
+msgid "Show counts"
+msgstr "Wys tellings"
+
+msgid "Clear all filters"
+msgstr "Verwyder alle filters"
+
+msgid "Remove from sorting"
+msgstr "Verwyder uit sortering"
+
+#, python-format
+msgid "Sorting priority: %(priority_number)s"
+msgstr "Sorteerprioriteit: %(priority_number)s"
+
+msgid "Toggle sorting"
+msgstr "Wissel sortering"
+
+msgid "Toggle theme (current theme: auto)"
+msgstr "Wissel tema (tans: outomaties)"
+
+msgid "Toggle theme (current theme: light)"
+msgstr "Wissel tema (tans: lig)"
+
+msgid "Toggle theme (current theme: dark)"
+msgstr "Wissel tema (tans: donker)"
 
 #, python-format
 msgid ""
-"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
-"configured any URLs."
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
 msgstr ""
-"U sien dié bladsy omdat <a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a> in die settings-lêer is en geen URL’e "
-"opgestel is nie."
+"Om die %(object_name)s %(escaped_object)s te skrap sou verwante objekte "
+"skrap, maar jou rekening het nie toestemming om die volgende tipes objekte "
+"te skrap nie:"
 
-msgid "Django Documentation"
-msgstr "Django-dokumentasie"
-
-msgid "Topics, references, &amp; how-to’s"
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would require deleting the "
+"following protected related objects:"
 msgstr ""
+"Om die %(object_name)s “%(escaped_object)s” te skrap vereis dat die volgende "
+"beskermde verwante objekte geskrap word:"
 
-msgid "Tutorial: A Polling App"
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
 msgstr ""
+"Wil u definitief die %(object_name)s “%(escaped_object)s” skrap? Al die "
+"volgende verwante items sal geskrap word:"
 
-msgid "Get started with Django"
-msgstr "Kom aan die gang met Django"
+msgid "Objects"
+msgstr "Objekte"
 
-msgid "Django Community"
-msgstr "Django-gemeenskap"
+msgid "Yes, I’m sure"
+msgstr "Ja, ek is seker"
 
-msgid "Connect, get help, or contribute"
-msgstr "Kontak, kry hulp om dra by"
+msgid "No, take me back"
+msgstr "Nee, ek wil teruggaan"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would result in deleting related "
+"objects, but your account doesn't have permission to delete the following "
+"types of objects:"
+msgstr ""
+"Om die gekose %(objects_name)s te skrap sou verwante objekte skrap, maar u "
+"rekening het nie toestemming om die volgende tipes objekte te skrap nie:"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would require deleting the following "
+"protected related objects:"
+msgstr ""
+"Om die gekose %(objects_name)s te skrap vereis dat die volgende beskermde "
+"verwante objekte geskrap word:"
+
+#, python-format
+msgid ""
+"Are you sure you want to delete the selected %(objects_name)s? All of the "
+"following objects and their related items will be deleted:"
+msgstr ""
+"Wil u definitief die gekose %(objects_name)s skrap? Al die volgende objekte "
+"en hul verwante items sal geskrap word:"
+
+msgid "Delete?"
+msgstr "Skrap?"
+
+#, python-format
+msgid " By %(filter_title)s "
+msgstr " Volgens %(filter_title)s "
+
+msgid "Summary"
+msgstr "Opsomming"
+
+msgid "Recent actions"
+msgstr "Onlangse aksies"
+
+msgid "My actions"
+msgstr "My aksies"
+
+msgid "None available"
+msgstr "Niks beskikbaar nie"
+
+msgid "Added:"
+msgstr "Bygevoeg:"
+
+msgid "Changed:"
+msgstr "Gewysig:"
+
+msgid "Deleted:"
+msgstr "Geskrap:"
+
+msgid "Unknown content"
+msgstr "Onbekende inhoud"
+
+msgid ""
+"Something’s wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
+msgstr ""
+"Iets is fout met die databasisinstallasie. Maak seker die gepaste "
+"databasistabelle is geskep en maak seker die databasis is leesbaar deur die "
+"gepaste gebruiker."
+
+#, python-format
+msgid ""
+"You are authenticated as %(username)s, but are not authorized to access this "
+"page. Would you like to login to a different account?"
+msgstr ""
+"U is aangemeld as %(username)s, maar het nie toegang tot hierdie bladsy nie. "
+"Wil u met ’n ander rekening aanmeld?"
+
+msgid "Forgotten your login credentials?"
+msgstr "Aanmeldinligting vergeet?"
+
+msgid "Toggle navigation"
+msgstr "Navigasie aan/af"
+
+msgid "Sidebar"
+msgstr "Kantbalk"
+
+msgid "Start typing to filter…"
+msgstr "Tik om te filtreer..."
+
+msgid "Filter navigation items"
+msgstr "Filtreer navigasie-items"
+
+msgid "Date/time"
+msgstr "Datum/tyd"
+
+msgid "User"
+msgstr "Gebruiker"
+
+msgid "Action"
+msgstr "Aksie"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "inskrywing"
+msgstr[1] "inskrywings"
+
+msgid ""
+"This object doesn’t have a change history. It probably wasn’t added via this "
+"admin site."
+msgstr ""
+"Dié objek het nie 'n wysigingsgeskiedenis. Dit is waarskynlik nie deur dié "
+"adminwerf bygevoeg nie."
+
+msgid "Show all"
+msgstr "Wys almal"
+
+msgid "Save"
+msgstr "Stoor"
+
+msgid "Popup closing…"
+msgstr "Opspringer sluit tans…"
+
+msgid "Search"
+msgstr "Soek"
+
+#, python-format
+msgid "%(counter)s result"
+msgid_plural "%(counter)s results"
+msgstr[0] "%(counter)s resultaat"
+msgstr[1] "%(counter)s resultate"
+
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr "%(full_result_count)s in totaal"
+
+msgid "Save as new"
+msgstr "Stoor as nuwe"
+
+msgid "Save and add another"
+msgstr "Stoor en voeg ’n ander by"
+
+msgid "Save and continue editing"
+msgstr "Stoor en wysig verder"
+
+msgid "Save and view"
+msgstr "Stoor en bekyk"
+
+msgid "Close"
+msgstr "Sluit"
+
+#, python-format
+msgid "Change selected %(model)s"
+msgstr "Wysig gekose %(model)s"
+
+#, python-format
+msgid "Add another %(model)s"
+msgstr "Voeg nog ’n %(model)s by"
+
+#, python-format
+msgid "Delete selected %(model)s"
+msgstr "Skrap gekose %(model)s"
+
+#, python-format
+msgid "View selected %(model)s"
+msgstr "Wys gekose %(model)s"
+
+msgid "Thanks for spending some quality time with the web site today."
+msgstr ""
+"Dankie vir die kwaliteittyd wat u met die webwerf deurgebring het vandag."
+
+msgid "Log in again"
+msgstr "Meld weer aan"
+
+msgid "Password change"
+msgstr "Wagwoordverandering"
+
+msgid "Your password was changed."
+msgstr "Die wagwoord is verander."
+
+msgid ""
+"Please enter your old password, for security’s sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+"Gee asb. die ou wagwoord t.w.v. sekuriteit, en gee dan die nuwe wagwoord "
+"twee keer sodat ons kan verifieer dat dit korrek getik is."
+
+msgid "Change my password"
+msgstr "Verander my wagwoord"
+
+msgid "Password reset"
+msgstr "Wagwoordherstel"
+
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr "Jou wagwoord is gestel. Jy kan nou voortgaan en aanmeld."
+
+msgid "Password reset confirmation"
+msgstr "Bevestig wagwoordherstel"
+
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr ""
+"Tik die nuwe wagwoord twee keer in so ons kan seker wees dat dit korrek "
+"ingetik is."
+
+msgid "New password:"
+msgstr "Nuwe wagwoord:"
+
+msgid "Confirm password:"
+msgstr "Bevestig wagwoord:"
+
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr ""
+"Die skakel vir wagwoordherstel was ongeldig, dalk omdat dit reeds gebruik "
+"is. Vra gerus ’n nuwe een aan."
+
+msgid ""
+"We’ve emailed you instructions for setting your password, if an account "
+"exists with the email you entered. You should receive them shortly."
+msgstr ""
+"Ons het instruksies gestuur om ’n wagwoord in te stel as ’n rekening bestaan "
+"met die gegewe e-posadres. Dit behoort binnekort afgelewer te word."
+
+msgid ""
+"If you don’t receive an email, please make sure you’ve entered the address "
+"you registered with, and check your spam folder."
+msgstr ""
+"As u geen e-pos ontvang nie, kontroleer dat die e-posadres waarmee "
+"geregistreer is, gegee is, en kontroleer die gemorspos."
+
+#, python-format
+msgid ""
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr ""
+"U ontvang hierdie e-pos omdat u ’n wagwoordherstel vir u rekening by "
+"%(site_name)s aangevra het."
+
+msgid "Please go to the following page and choose a new password:"
+msgstr "Gaan asseblief na die volgende bladsy en kies ’n nuwe wagwoord:"
+
+msgid "In case you’ve forgotten, you are:"
+msgstr "Vir ingeval u vergeet het, u is:"
+
+msgid "Thanks for using our site!"
+msgstr "Dankie vir die gebruik van ons webwerf!"
+
+#, python-format
+msgid "The %(site_name)s team"
+msgstr "Die %(site_name)s span"
+
+msgid ""
+"Forgotten your password? Enter your email address below, and we’ll email "
+"instructions for setting a new one."
+msgstr ""
+"Die wagwoord vergeet? Tik u e-posadres hieronder en ons sal instruksies vir "
+"die instel van ’n nuwe wagwoord stuur."
+
+msgid "Email address:"
+msgstr "E-posadres:"
+
+msgid "Reset my password"
+msgstr "Herstel my wagwoord"
+
+msgid "Select all objects on this page for an action"
+msgstr "Kies alle objekte op dié bladsy vir ’n aksie"
+
+msgid "All dates"
+msgstr "Alle datums"
+
+#, python-format
+msgid "Select %s"
+msgstr "Kies %s"
+
+#, python-format
+msgid "Select %s to change"
+msgstr "Kies %s om te verander"
+
+#, python-format
+msgid "Select %s to view"
+msgstr "Kies %s om te bekyk"
+
+msgid "Date:"
+msgstr "Datum:"
+
+msgid "Time:"
+msgstr "Tyd:"
+
+msgid "Lookup"
+msgstr "Soek"
+
+msgid "Currently:"
+msgstr "Tans:"
+
+msgid "Change:"
+msgstr "Wysig:"
